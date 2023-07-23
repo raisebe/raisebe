@@ -1,0 +1,839 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Virtech IT Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.eightheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process",
+            "screenshot": "screenshots\/process.jpg",
+            "source": "templates\/process.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/process\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reviews",
+            "screenshot": "screenshots\/reviews.jpg",
+            "source": "templates\/reviews.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/reviews\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Post",
+            "screenshot": "screenshots\/post.jpg",
+            "source": "templates\/post.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform",
+            "screenshot": "screenshots\/metform.jpg",
+            "source": "templates\/metform.json",
+            "preview_url": "https:\/\/demo.eightheme.com\/virtech\/template-kit\/metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "2.0.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "35.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/35-800x512.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145574,
+            "dimensions": [
+                1920,
+                1228
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-businessman-on-cell-phone-in-office-4TB3KJW"
+        },
+        {
+            "filename": "36.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/36.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 56828,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/using-mobile-technology-background-ED7DYSL"
+        },
+        {
+            "filename": "37.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/37.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 67332,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chatting-with-friend-vertical-shot-of-a-young-hand-48LRDGM"
+        },
+        {
+            "filename": "38.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/38-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 170527,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/circuit-board-high-tech-technology-background-text-M6C3LNA"
+        },
+        {
+            "filename": "39.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/39.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 84051,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-software-developer-in-office-6QBQNP6"
+        },
+        {
+            "filename": "42.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/42.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 71244,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/server-racks-standing-in-hallway-of-data-center-PS3PDGN"
+        },
+        {
+            "filename": "40.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/40.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 84220,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-male-office-worker-typing-on-keyboar-4V2X656"
+        },
+        {
+            "filename": "41.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/41.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/process.json",
+                    "name": "Process"
+                }
+            ],
+            "filesize": 75725,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/blade-server-installation-in-large-datacenter-PSM82SK"
+        },
+        {
+            "filename": "ad3.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/ad3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1579,
+            "dimensions": [
+                180,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-logo-7SN4KP"
+        },
+        {
+            "filename": "ad1.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/ad1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1206,
+            "dimensions": [
+                180,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-logo-7SN4KP"
+        },
+        {
+            "filename": "ad4.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/ad4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1495,
+            "dimensions": [
+                180,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-logo-7SN4KP"
+        },
+        {
+            "filename": "ad2.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/ad2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1782,
+            "dimensions": [
+                180,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-logo-7SN4KP"
+        },
+        {
+            "filename": "43.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 55290,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hands-of-businesswoman-using-laptop-in-a-cafe-XRRU5ER"
+        },
+        {
+            "filename": "44.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/44.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 55626,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thoughtful-manager-with-documents-at-work-alone-DCZ7R6E"
+        },
+        {
+            "filename": "46.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/46-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/post.json",
+                    "name": "Post"
+                }
+            ],
+            "filesize": 152020,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/unrecognized-service-engineer-operating-in-data-ce-ZQ89NCA"
+        },
+        {
+            "filename": "47.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 93213,
+            "dimensions": [
+                500,
+                751
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technologies-make-life-easier-JL4KVJF"
+        },
+        {
+            "filename": "48.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/48.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 63145,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/designer-working-on-cloud-service-app-S363LAD"
+        },
+        {
+            "filename": "49.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/49-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/process.json",
+                    "name": "Process"
+                }
+            ],
+            "filesize": 104799,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/designer-working-on-cloud-service-app-S363LAD"
+        },
+        {
+            "filename": "50.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/50.jpg",
+            "templates": [
+                {
+                    "source": "templates\/process.json",
+                    "name": "Process"
+                }
+            ],
+            "filesize": 65349,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/typing-in-office-PALQ34E"
+        },
+        {
+            "filename": "51.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/51.jpg",
+            "templates": [
+                {
+                    "source": "templates\/process.json",
+                    "name": "Process"
+                }
+            ],
+            "filesize": 58095,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-working-in-software-develop-company-ZH7VYM9"
+        },
+        {
+            "filename": "52.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/52-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 177780,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/artificial-intelligence-data-center-technology-vr--G446MXV"
+        },
+        {
+            "filename": "53.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/53-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 71898,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/abstract-technology-background-sci-fi-space-style-CBSXQA2"
+        },
+        {
+            "filename": "54.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/54-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 85069,
+            "dimensions": [
+                1250,
+                833
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-software-developer-in-office-6QBQNP6"
+        },
+        {
+            "filename": "56.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/56-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 134117,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-male-office-worker-typing-on-keyboar-4V2X656"
+        },
+        {
+            "filename": "57.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/57.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 22389,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-businessman-on-cell-phone-in-office-4TB3KJW"
+        },
+        {
+            "filename": "58.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/58.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 31352,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technologies-make-life-easier-JL4KVJF"
+        },
+        {
+            "filename": "55.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/55-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 58476,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_yC2htzMYnI"
+        },
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 1041,
+            "dimensions": [
+                44,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "45.jpg",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/45-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 153079,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/illustration-of-soundwaves-on-blue-background-abst-NHNM7KH"
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/demo.eightheme.com\/virtech\/wp-content\/uploads\/sites\/24\/2022\/08\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1052,
+            "dimensions": [
+                44,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

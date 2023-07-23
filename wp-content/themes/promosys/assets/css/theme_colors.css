@@ -1,0 +1,276 @@
+/*========================================================
+====================== PRIMARY COLOR =====================
+========================================================*/
+a,
+ul > li:before,
+.vc_toggle.vc_toggle_active .vc_toggle_title,
+body.wpb-js-composer .vc_general.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title > a,
+body.wpb-js-composer .vc_general.vc_tta-accordion .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title .vc_tta-controls-icon,
+.cws-widget.widget_categories > ul > li ul.children li.active > a,
+.cws-widget.widget_product_categories > ul > li ul.children li.active > a,
+.cws-widget.widget_pages > ul > li ul.children li.active > a,
+.cws-widget.widget_categories > ul > li.active > a,
+.cws-widget.widget_product_categories > ul > li.active > a,
+.cws-widget.widget_pages > ul > li.active > a,
+.cws-widget.widget_archive ul li.active > .open:before,
+.cws-widget.widget_categories ul li.active > .open:before,
+.cws-widget.widget_product_categories ul li.active > .open:before,
+.cws-widget.widget_meta ul li.active > .open:before,
+.cws-widget.widget_pages ul li.active > .open:before,
+.cws-widget.widget_nav_menu ul li.active > .open:before,
+.cws-widget .calendar_wrap table thead th,
+.wp-block-calendar table thead th,
+.cws-widget .recentcomments:after,
+
+.cws-widget.widget_nav_menu .sub-menu li.current-menu-ancestor > a,
+.cws-widget.widget_nav_menu .sub-menu li.current-item-parent > a,
+.cws-widget.widget_nav_menu .sub-menu li.current-menu-item > a,
+.cws-widget.widget_nav_menu .sub-menu li.current-item-parent > a,
+.woocommerce-cart .woocommerce-cart-form .cart_totals .shop_table tbody .order-total .amount,
+form.woocommerce-checkout .woocommerce-checkout-review-order .woocommerce-checkout-review-order-table .order-total td .amount,
+
+.wp-block-latest-comments:not(.has-avatars) .wp-block-latest-comments__comment:before,
+.top_bar_notice .close-btn,
+.cws_roadmap_module .cws_roadmap_item .roadmap_divider:after,
+.cws_icon_module .icon_wrapper i,
+.cws_milestone_module .count_wrapper
+{
+    color: @@primary;
+}
+
+.site-sticky .mini-cart .woo_mini-count > span,
+.site-header .mini-cart .woo_mini-count > span,
+.header_icons .mini-cart .woo_mini-count > span,
+.button-up,
+.cws_carousel .slick-dots li.slick-active button,
+.cws_custom_carousel .slick-dots li.slick-active button,
+.cws_progress_bar_module .progress_bar .bar,
+.cws-widget .calendar_wrap table tbody td#today:after,
+.wp-block-calendar table tbody td#today:after,
+.cws-widget .price_slider_wrapper .price_slider .ui-slider-handle,
+.cws-widget .price_slider_wrapper .price_slider .ui-slider-range,
+.cws-widget.filter_size ul li.chosen a,
+form.woocommerce-checkout .woocommerce-checkout-review-order .woocommerce-checkout-payment .wc_payment_methods .payment_box,
+.cws_tips_module .cws_tips_wrapper .cws_tip .tip_trigger:after,
+.cws_roadmap_module .cws_roadmap_item.active .roadmap_icon_wrapper .number,
+.cws_textmodule .cws_textmodule_subtitle .cws_textmodule_subtitle_text,
+.main_member_info .text-information .divider .divider-inner
+{
+    background-color: @@primary;
+}
+.cws-widget .price_slider_wrapper .price_slider_amount .button
+{
+    background: @@primary;
+}
+
+.woocommerce.single .content-area .site-main > .type-product div[class*="woocommerce-product-gallery"] .flex-control-nav li img.flex-active,
+.woocommerce.single .content-area .site-main > .type-product .woocommerce-tabs .tabs li.active a
+{
+    border-color: @@primary;
+}
+
+.cws_icon_preloader:after
+{
+    border-color: @@primary transparent @@primary transparent;
+}
+.cws_roadmap_module .cws_roadmap_item .roadmap_divider
+{
+    background-image: linear-gradient(90deg, @@primary, @@primary 40%, transparent 40%, transparent 100%);
+}
+
+/*========================================================
+===================== SECONDARY COLOR ====================
+========================================================*/
+.post .post-inner .post-information .post-footer .meta-item.post-date:before,
+.post .post-inner .post-information .post-footer .meta-item.comments_count:before,
+.woocommerce.single .content-area .site-main > .type-product .summary .cart .woocommerce-grouped-product-list .woocommerce-grouped-product-list-item__price del,
+.cws_pricing_plan_module .cws_pricing_plan_header .cws_pricing_plan_price
+{
+    color: @@secondary;
+}
+
+.mejs-container .mejs-controls,
+.mejs-embed, .mejs-embed body,
+.post .post-inner .post-information .post-footer .meta-item:not(:last-child):after,
+.cws_roadmap_module .cws_roadmap_item.active .roadmap_icon_wrapper,
+.post-navigation .nav-links li a.post-nav-image
+{
+    background-color: @@secondary;
+}
+.cws_pricing_plan_module .cws_pricing_plan_content .cws_button_wrapper .cws_button
+{
+    background: @@secondary;
+}
+
+/*========================================================
+====================== BUTTONS COLOR =====================
+========================================================*/
+
+.cws_info_box.info,
+.cws_button,
+a.showcoupon,
+body div.wpforms-container-full .wpforms-form button[type=submit],
+.post-password-form input[type='submit'],
+.comment-form .submit,
+.added_to_cart,
+.woo_mini_cart .button,
+.woocommerce .button,
+.cws_woo_modal_content .button,
+.post.sticky,
+.woocommerce-pagination ul.page-numbers li span.current,
+.woocommerce-pagination ul.page-numbers > span.current,
+.paging-navigation:not(.load_more) .pagination li span.current,
+.paging-navigation:not(.load_more) .pagination > span.current,
+.post.cws-alternate-view.format-quote,
+blockquote p:before,
+blockquote.is-style-large p:after,
+figure.wp-block-pullquote blockquote > p:after,
+figure.wp-block-pullquote:not(.is-style-solid-color),
+.post-format.format_quote,
+.woocommerce-info,
+.main_member_info .text-information .email:before,
+.main_member_info .text-information .phone:before,
+.post .post-inner .post-divider .post-divider-inner
+{
+    background-image: linear-gradient(90deg, @@primary -8.57%, @@secondary 184.64%);
+}
+.post.sticky:before
+{
+    background-image: linear-gradient(108.66deg, @@primary -19.71%, @@secondary 170.61%);
+}
+.post.cws-alternate-view.format-link .post-media-wrapper .post-media a:before,
+.post-format.format_link:before,
+.cws_pricing_plan_module.highlighted:before
+{
+    background-image: linear-gradient(147.09deg, @@primary -28.73%, @@secondary 121.37%);
+}
+
+/*========================================================
+==================== ONLY DESKTOP COLORS =================
+========================================================*/
+@media 
+	screen and (min-width: 1367px), /*Disable this styles for iPad Pro 1024-1366*/
+	screen and (min-width: 1200px) and (any-hover: hover), /*Check, is device a desktop (Not working on IE & FireFox)*/
+	screen and (min-width: 1200px) and (min--moz-device-pixel-ratio:0), /*Check, is device a desktop with firefox*/
+	screen and (min-width: 1200px) and (-ms-high-contrast: none), /*Check, is device a desktop with IE 10 or above*/
+	screen and (min-width: 1200px) and (-ms-high-contrast: active) /*Check, is device a desktop with IE 10 or below*/
+    {
+
+/*==================== PRIMARY COLOR ===================*/
+    .site-search .close-search:hover,
+    .site-search .search-submit:hover,
+    .search-form .label .search-submit:hover,
+    .cws-widget.widget_categories > ul > li ul.children li:hover > a,
+    .cws-widget.widget_product_categories > ul > li ul.children li:hover > a,
+    .cws-widget.widget_pages > ul > li ul.children li:hover > a,
+    .cws-widget .calendar_wrap table tfoot td a:hover,
+    .wp-block-calendar table tfoot td a:hover,
+    .cws-widget .recentcomments > a:hover,
+    .cws-widget.widget_nav_menu .sub-menu li:hover > a,
+    .cws-widget .woocommerce-product-search button:hover,
+    .mini-cart .woo_mini_cart ul li .remove:hover,
+    .woocommerce.single .content-area .site-main > .type-product div[class*="woocommerce-product-gallery"] .woocommerce-product-gallery__trigger:hover,
+    .woocommerce.single .content-area .site-main > .type-product .woocommerce-product-gallery .flex-control-nav .slick-arrow:hover,
+    .woocommerce-cart .woocommerce-cart-form > .shop_table tr.cart_item td.product-remove .remove:hover,
+    .portfolio-single-content .portfolio-content-wrapper .aside-part .social-share a:hover,
+    body.woocommerce-account .woocommerce-MyAccount-navigation ul li:not(.is-active) a:hover,
+    .wp-block-search .wp-block-search__button:hover,
+    .wp-block-latest-comments .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-link:hover,
+    .wp-block-latest-comments .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-author:hover,
+    .mini-cart .woo_mini_cart .close_mini_cart:hover
+    {
+        color: @@primary;
+    }
+    .widget_shopping_cart_content .woocommerce-mini-cart__buttons a.button:not(.checkout):hover,
+    .mini-cart .woo_mini_cart .woocommerce-mini-cart__buttons a.button:not(.checkout):hover
+    {
+        background: @@primary;
+    }
+
+/*==================== SECONDARY COLOR ===================*/
+    a:hover,
+    .cws-widget.widget_recent_entries ul li a:hover,
+    .cws-widget.widget_rss ul li a.rsswidget:hover,
+    .cws-widget.cws-recent-posts .recent_posts_wrapper li .recent_post_content h6 a:hover,
+    .post .post-inner .post-information .post-title a:hover,
+    .post .post-inner .post-information .post-footer .meta-item a:hover,
+    .woocommerce-pagination .page-numbers a:hover,
+    .paging-navigation:not(.load_more) .pagination a:hover,
+    .post.cws-alternate-view.format-link .post-media-wrapper .post-media a:hover,
+    .post .post-inner .post-information .post-categories a:hover,
+    .single_content .post .post-categories a:hover,
+    .post-format.format_link a:hover,
+    .cws-widget .product_list_widget li a:hover,
+    .mini-cart .woo_mini_cart ul li .cart-item-title:hover,
+    ul.products li.product .woocommerce-loop-product__title a:hover,
+    ul.products li.product .woocommerce-loop-category__title a:hover,
+    .woocommerce.single .content-area .site-main > .type-product .summary .woocommerce-product-rating .woocommerce-review-link:hover,
+    .woocommerce-cart .woocommerce-cart-form > .shop_table tr.cart_item td.product-name a:hover,
+    .woocommerce.single .content-area .site-main > .type-product .summary .cart .woocommerce-grouped-product-list .woocommerce-grouped-product-list-item__label label a:hover,
+    .cws_our_team_module .cws_team_member .information_wrapper .name a:hover,
+    .cws_our_team_module .cws_team_member .information_wrapper .email a:hover,
+    .cws_our_team_module .cws_team_member .information_wrapper .phone a:hover,
+    .main_member_info .text-information .pos a:hover,
+    .main_member_info .text-information .dep a:hover,
+    .main_member_info .text-information .info a:hover,
+    .wp-block-rss .wp-block-rss__item .wp-block-rss__item-title a:hover,
+    .wp-block-latest-posts li > a:hover,
+    .comment-navigation a:hover,
+    .top_bar_notice .close-btn:hover,
+    .post-navigation .nav-links li .post-nav-text-wrapper a:hover .post-title,
+    .post-navigation .nav-links li .post-nav-cats a:hover,
+    .post-navigation .nav-links li .post-nav-link a:hover
+    {
+        color: @@secondary;
+    }
+
+    .cws-widget .tagcloud a:hover,
+    .post .post-inner .post-information .post-tags a:hover,
+    .post-navigation .nav-links li.archive-dots > a:hover span,
+    .post-navigation .nav-links li.archive-dots > a:hover span:before,
+    .post-navigation .nav-links li.archive-dots > a:hover span:after,
+    .single_content .post .post-tags a:hover,
+    .cws-widget.widget_layered_nav_filters ul li.chosen a:hover,
+    .wp-block-tag-cloud a:hover
+    {
+        background-color: @@secondary;
+    }
+
+/*===================== BUTTONS COLOR ==================*/
+    .cws_button:not(:disabled):hover,
+    a.showcoupon:not(:disabled):hover,
+    body div.wpforms-container-full .wpforms-form button[type=submit]:not(:disabled):hover,
+    .post-password-form input[type='submit']:not(:disabled):hover,
+    .comment-form .submit:not(:disabled):hover,
+    .added_to_cart:not(:disabled):hover,
+    .woo_mini_cart .button:not(:disabled):hover,
+    .woocommerce .button:not(:disabled):hover,
+    .cws_woo_modal_content .button:not(:disabled):hover,
+    .woocommerce-cart .woocommerce-cart-form .cws_coupon .coupon button:not(:disabled):hover
+    {
+        background-image: linear-gradient(90deg, @@primary -8.57%, @@primary 184.64%);
+    }
+
+
+    .cws_pricing_plan_module:hover:before
+    {
+        background-image: linear-gradient(147.09deg, @@primary -28.73%, @@secondary 121.37%);
+    }
+
+    .post-navigation .nav-links .post-nav-image:hover
+    {
+        background-image: linear-gradient(90deg, @@primary -163.33%, @@secondary 388.33%);
+    }
+
+}
+
+@media screen and (max-width: 767px){
+    body.wpb-js-composer .vc_tta.vc_general.vc_tta-tabs .vc_tta-panel .vc_tta-panel-heading
+    {
+        background: linear-gradient(90deg, @@primary -8.57%, @@secondary 184.64%);
+    }
+    .post-navigation .nav-links .post-nav-image
+    {
+        background-image: linear-gradient(90deg, @@primary -163.33%, @@secondary 388.33%);
+    }
+}

@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "cwsicon";
+    src: url("./fonts/promosys.eot");
+    src: url("./fonts/promosys.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/promosys.woff2") format("woff2"),
+    url("./fonts/promosys.woff") format("woff"),
+    url("./fonts/promosys.ttf") format("truetype"),
+    url("./fonts/promosys.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "cwsicon";
+        src: url("./fonts/promosys.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="cwsicon-"]:before, [class*=" cwsicon-"]:before,
+[class^="cwsicon-"]:after, [class*=" cwsicon-"]:after {
+    font-family: "cwsicon";
+    font-size: 20px;
+    font-style: normal;
+}
+
+.cwsicon-information:before { content: "\f100"; }
+.cwsicon-error:before { content: "\f101"; }
+.cwsicon-danger:before { content: "\f102"; }
+.cwsicon-not-allowed-symbol:before { content: "\f103"; }
+.cwsicon-plus:before { content: "\f104"; }
+.cwsicon-minus-symbol:before { content: "\f105"; }
+.cwsicon-telephone:before { content: "\f106"; }
+.cwsicon-smartphone-call:before { content: "\f107"; }
+.cwsicon-envelope:before { content: "\f108"; }
+.cwsicon-full-size:before { content: "\f109"; }
+.cwsicon-call-answer:before { content: "\f10a"; }
+.cwsicon-envelope-1:before { content: "\f10b"; }
+.cwsicon-maps-and-flags:before { content: "\f10c"; }
+.cwsicon-follow:before { content: "\f10d"; }
+.cwsicon-design:before { content: "\f10e"; }
+.cwsicon-spam:before { content: "\f10f"; }
+.cwsicon-user:before { content: "\f110"; }
+.cwsicon-king:before { content: "\f111"; }
+.cwsicon-user-1:before { content: "\f112"; }
+.cwsicon-search:before { content: "\f113"; }
+.cwsicon-price:before { content: "\f114"; }
+.cwsicon-tick:before { content: "\f115"; }
+.cwsicon-map:before { content: "\f116"; }
+.cwsicon-instagram:before { content: "\f117"; }
+.cwsicon-facebook:before { content: "\f118"; }
+.cwsicon-dribble:before { content: "\f119"; }
+.cwsicon-linkedin-logo:before { content: "\f11a"; }
+.cwsicon-attach:before { content: "\f11b"; }
+.cwsicon-camera:before { content: "\f11c"; }
+.cwsicon-flyers:before { content: "\f11d"; }
+.cwsicon-edit:before { content: "\f11e"; }
+.cwsicon-analytics:before { content: "\f11f"; }
+.cwsicon-wedding-planning:before { content: "\f120"; }
+.cwsicon-creativity:before { content: "\f121"; }
+.cwsicon-followers:before { content: "\f122"; }
+.cwsicon-target:before { content: "\f123"; }
+.cwsicon-copyright:before { content: "\f124"; }
+.cwsicon-tick-box:before { content: "\f125"; }
+.cwsicon-calendar:before { content: "\f126"; }
+.cwsicon-chain:before { content: "\f127"; }
+.cwsicon-chat-comment-oval-speech-bubble-with-text-lines:before { content: "\f128"; }
+.cwsicon-next:before { content: "\f129"; }
+.cwsicon-back:before { content: "\f12a"; }
+.cwsicon-shopping-cart:before { content: "\f12b"; }
+.cwsicon-cancel:before { content: "\f12c"; }
+.cwsicon-settings:before { content: "\f12d"; }
+.cwsicon-play:before { content: "\f12e"; }
+.cwsicon-download:before { content: "\f12f"; }
+.cwsicon-upload:before { content: "\f130"; }

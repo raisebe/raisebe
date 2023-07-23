@@ -1,0 +1,10 @@
+{
+    "post_types": {
+        "cws-tmpl-header": {},
+        "cws-tmpl-footer": {},
+        "cws-tmpl-sticky": {},
+        "cws_portfolio": {},
+        "cws_staff": {},
+        "cws-megamenu": {}
+    }
+}

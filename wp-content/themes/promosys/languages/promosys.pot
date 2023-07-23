@@ -1,0 +1,6967 @@
+# fuzzy
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Promosys\n"
+"POT-Creation-Date: 2020-02-25 14:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: CWS Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: ;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/js\n"
+"X-Poedit-SearchPathExcluded-1: admin/css\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: core/css\n"
+"X-Poedit-SearchPathExcluded-4: wpml/templates\n"
+"X-Poedit-SearchPathExcluded-5: woocommerce/assets\n"
+"X-Poedit-SearchPathExcluded-6: plugins\n"
+
+#: 404.php:12
+msgctxt "404 Page"
+msgid "This page was lost!"
+msgstr ""
+
+#: 404.php:27
+msgctxt "404 Page"
+msgid "We looked everywhere for this page."
+msgstr ""
+
+#: 404.php:27
+msgctxt "404 Page"
+msgid "Are you sure the website URL is correct? Get in touch with the site owner."
+msgstr ""
+
+#: 404.php:31
+msgctxt "404 Page"
+msgid "Go back Home"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:609
+msgid "Update Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:913
+#: admin/class-tgm-plugin-activation.php:2621
+#: admin/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1020
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1020
+#: admin/class-tgm-plugin-activation.php:1023
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1023
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#. Pop off last name to prep for readability.
+#: admin/class-tgm-plugin-activation.php:1207
+#: admin/class-tgm-plugin-activation.php:3037
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2619
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2773
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2997
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3023
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:3598
+#: admin/class-tgm-plugin-activation.php:3606
+msgid "Show Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3598
+#: admin/class-tgm-plugin-activation.php:3606
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/customize/class-cws-customizer.php:555
+msgctxt "customizer"
+msgid "Link"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:9
+#: admin/customize/controls/_header.php:15
+#: admin/customize/controls/_header.php:22
+#: admin/customize/controls/_header.php:29
+msgctxt "customizer"
+msgid "Add Language Swither"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:16
+msgctxt "customizer"
+msgid "Footer Appearance"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:21
+msgctxt "customizer"
+msgid "Sticky Footer"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:26
+msgctxt "customizer"
+msgid "Footer Spacing"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:29
+#: admin/customize/controls/_header.php:467
+#: admin/customize/controls/_header.php:481
+msgctxt "customizer"
+msgid "Top (px)"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:33
+#: admin/customize/controls/_header.php:471
+#: admin/customize/controls/_header.php:485
+msgctxt "customizer"
+msgid "Bottom (px)"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:40
+#: admin/customize/controls/_header.php:260
+#: admin/customize/controls/_header.php:265
+msgctxt "customizer"
+msgid "Logo"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:41
+#: admin/customize/controls/_header.php:266
+msgctxt "customizer"
+msgid "To get a retina logo please upload a double-size image and set the image dimentions to fit the actual logo size"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:45
+#: admin/customize/controls/_header.php:270
+msgctxt "customizer"
+msgid "Dimensions"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:48
+#: admin/customize/controls/_header.php:273
+#: admin/customize/controls/_header.php:716
+#: admin/customize/controls/_header.php:736
+#: admin/customize/controls/_header.php:948
+msgctxt "customizer"
+msgid "Width (px)"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:52
+#: admin/customize/controls/_header.php:277
+#: admin/customize/controls/_header.php:720
+#: admin/customize/controls/_header.php:740
+#: admin/customize/controls/_header.php:952
+msgctxt "customizer"
+msgid "Height (px)"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:59
+#: admin/customize/controls/_header.php:41
+#: admin/customize/controls/_header.php:533
+msgctxt "customizer"
+msgid "Background type"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:62
+#: admin/customize/controls/_general.php:118
+#: admin/customize/controls/_general.php:139
+#: admin/customize/controls/_general.php:164
+#: admin/customize/controls/_general.php:260
+#: admin/customize/controls/_general.php:319
+#: admin/customize/controls/_general.php:621
+#: admin/customize/controls/_general.php:643
+#: admin/customize/controls/_general.php:784
+#: admin/customize/controls/_header.php:44
+#: admin/customize/controls/_header.php:251
+#: admin/customize/controls/_header.php:536
+#: admin/customize/controls/_header.php:624
+#: admin/customize/controls/_woocommerce.php:93
+#: admin/customize/controls/_woocommerce.php:118
+msgctxt "customizer"
+msgid "None"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:63
+#: admin/customize/controls/_header.php:45
+#: admin/customize/controls/_header.php:537
+msgctxt "customizer"
+msgid "Color"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:64
+#: admin/customize/controls/_header.php:46
+#: admin/customize/controls/_header.php:538
+msgctxt "customizer"
+msgid "Simple gradient"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:65
+#: admin/customize/controls/_header.php:47
+#: admin/customize/controls/_header.php:539
+msgctxt "customizer"
+msgid "Custom gradient"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:72
+#: admin/customize/controls/_header.php:55
+msgctxt "customizer"
+msgid "Start color"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:83
+#: admin/customize/controls/_header.php:66
+msgctxt "customizer"
+msgid "Finish color"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:94
+#: admin/customize/controls/_header.php:77
+#: admin/customize/controls/_header.php:569
+msgctxt "customizer"
+msgid "Gradient angle"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:106
+msgctxt "customizer"
+msgid "Footer BG Color"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:122
+#: admin/customize/controls/_header.php:107
+#: admin/customize/controls/_header.php:599
+msgctxt "customizer"
+msgid "Please, enter css code of custom gradient"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:134
+#: admin/customize/controls/_header.php:667
+msgctxt "customizer"
+msgid "Text Color"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:144
+msgctxt "customizer"
+msgid "Copyrights Notice"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:150
+msgctxt "customizer"
+msgid "Custom Footer Template"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:153
+#: admin/customize/controls/_general.php:287
+#: admin/customize/controls/_general.php:296
+#: admin/customize/controls/_general.php:305
+#: admin/customize/controls/_general.php:528
+#: admin/customize/controls/_general.php:537
+#: admin/customize/controls/_general.php:546
+#: admin/customize/controls/_general.php:556
+#: admin/customize/controls/_general.php:565
+#: admin/customize/controls/_general.php:574
+#: admin/customize/controls/_general.php:683
+#: admin/customize/controls/_general.php:692
+#: admin/customize/controls/_general.php:701
+#: admin/customize/controls/_general.php:711
+#: admin/customize/controls/_general.php:720
+#: admin/customize/controls/_general.php:729
+#: admin/customize/controls/_header.php:1125
+#: admin/customize/controls/_header.php:1141
+#: admin/customize/controls/_woocommerce.php:61
+#: admin/customize/controls/_woocommerce.php:70
+#: admin/customize/controls/_woocommerce.php:79
+#: admin/customize/controls/_woocommerce.php:201
+#: admin/customize/controls/_woocommerce.php:210
+#: admin/customize/controls/_woocommerce.php:219
+msgctxt "customizer"
+msgid "Default"
+msgstr ""
+
+#: admin/customize/controls/_footer.php:155
+msgctxt "customizer"
+msgid "All settings above are applied for default footer template only"
+msgstr ""
+
+#: admin/customize/controls/_general.php:16
+msgctxt "customizer"
+msgid "Blog"
+msgstr ""
+
+#: admin/customize/controls/_general.php:17
+msgctxt "customizer"
+msgid "Blog Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:18
+msgctxt "customizer"
+msgid "Custom Sidebar"
+msgstr ""
+
+#: admin/customize/controls/_general.php:21
+msgctxt "customizer"
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/customize/controls/_general.php:22
+msgctxt "customizer"
+msgid "Woocommerce Singe"
+msgstr ""
+
+#: admin/customize/controls/_general.php:27
+msgctxt "customizer"
+msgid "Theme Colors"
+msgstr ""
+
+#: admin/customize/controls/_general.php:31
+msgctxt "customizer"
+msgid "Theme Color"
+msgstr ""
+
+#: admin/customize/controls/_general.php:37
+msgctxt "customizer"
+msgid "Second Color"
+msgstr ""
+
+#: admin/customize/controls/_general.php:44
+msgctxt "customizer"
+msgid "Typography"
+msgstr ""
+
+#: admin/customize/controls/_general.php:50
+msgctxt "customizer"
+msgid "Google Fonts Api Key"
+msgstr ""
+
+#: admin/customize/controls/_general.php:53
+msgctxt "customizer"
+msgid "Enter Your Api Key and press Enter"
+msgstr ""
+
+#: admin/customize/controls/_general.php:55
+msgctxt "customizer"
+msgid "Google Fonts updated. Please refresh the page to see the changes"
+msgstr ""
+
+#: admin/customize/controls/_general.php:56
+msgctxt "customizer"
+msgid "Wrong API Key or Resource is unavailable"
+msgstr ""
+
+#: admin/customize/controls/_general.php:63
+msgctxt "customizer"
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:67
+msgctxt "customizer"
+msgid "Blog layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:70
+msgctxt "customizer"
+msgid "Large"
+msgstr ""
+
+#: admin/customize/controls/_general.php:71
+#: admin/customize/controls/_general.php:348
+msgctxt "customizer"
+msgid "Grid"
+msgstr ""
+
+#: admin/customize/controls/_general.php:72
+#: admin/customize/controls/_general.php:349
+msgctxt "customizer"
+msgid "Masonry"
+msgstr ""
+
+#: admin/customize/controls/_general.php:77
+msgctxt "customizer"
+msgid "Blog Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:80
+#: admin/customize/controls/_general.php:209
+#: admin/customize/controls/_general.php:485
+#: admin/customize/controls/_woocommerce.php:30
+#: admin/customize/controls/_woocommerce.php:155
+msgctxt "customizer"
+msgid "2 Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:81
+#: admin/customize/controls/_general.php:210
+#: admin/customize/controls/_general.php:486
+#: admin/customize/controls/_woocommerce.php:31
+#: admin/customize/controls/_woocommerce.php:156
+msgctxt "customizer"
+msgid "3 Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:82
+#: admin/customize/controls/_general.php:211
+#: admin/customize/controls/_general.php:487
+#: admin/customize/controls/_woocommerce.php:32
+#: admin/customize/controls/_woocommerce.php:157
+msgctxt "customizer"
+msgid "4 Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:92
+msgctxt "customizer"
+msgid "Crop content"
+msgstr ""
+
+#: admin/customize/controls/_general.php:94
+msgctxt "customizer"
+msgid "\"-1\" to SHOW whole content | empty or \"0\" to HIDE content"
+msgstr ""
+
+#: admin/customize/controls/_general.php:101
+msgctxt "customizer"
+msgid "Read More Button Title"
+msgstr ""
+
+#: admin/customize/controls/_general.php:102
+#: admin/customize/controls/_general.php:125
+#: admin/customize/controls/_general.php:267
+msgctxt "customizer"
+msgid "Read More"
+msgstr ""
+
+#: admin/customize/controls/_general.php:106
+msgctxt "customizer"
+msgid "Posts Per Page"
+msgstr ""
+
+#: admin/customize/controls/_general.php:108
+msgctxt "customizer"
+msgid "\"-1\" to show all posts"
+msgstr ""
+
+#: admin/customize/controls/_general.php:115
+msgctxt "customizer"
+msgid "Hide post meta"
+msgstr ""
+
+#: admin/customize/controls/_general.php:119
+#: admin/customize/controls/_general.php:196
+#: admin/customize/controls/_general.php:261
+#: admin/customize/controls/_general.php:375
+#: admin/customize/controls/_general.php:456
+#: admin/customize/controls/_general.php:589
+#: admin/customize/controls/_header.php:625
+msgctxt "customizer"
+msgid "Title"
+msgstr ""
+
+#: admin/customize/controls/_general.php:120
+#: admin/customize/controls/_general.php:262
+msgctxt "customizer"
+msgid "Categories"
+msgstr ""
+
+#: admin/customize/controls/_general.php:121
+#: admin/customize/controls/_general.php:263
+msgctxt "customizer"
+msgid "Author"
+msgstr ""
+
+#: admin/customize/controls/_general.php:122
+#: admin/customize/controls/_general.php:264
+#: admin/customize/controls/_general.php:373
+#: admin/customize/controls/_general.php:587
+msgctxt "customizer"
+msgid "Date"
+msgstr ""
+
+#: admin/customize/controls/_general.php:123
+#: admin/customize/controls/_general.php:265
+msgctxt "customizer"
+msgid "Comments"
+msgstr ""
+
+#: admin/customize/controls/_general.php:124
+#: admin/customize/controls/_general.php:266
+msgctxt "customizer"
+msgid "Featured"
+msgstr ""
+
+#: admin/customize/controls/_general.php:126
+#: admin/customize/controls/_general.php:268
+msgctxt "customizer"
+msgid "Excerpt"
+msgstr ""
+
+#: admin/customize/controls/_general.php:127
+#: admin/customize/controls/_general.php:269
+msgctxt "customizer"
+msgid "Tags"
+msgstr ""
+
+#: admin/customize/controls/_general.php:135
+#: admin/customize/controls/_general.php:315
+#: admin/customize/controls/_general.php:639
+msgctxt "customizer"
+msgid "Select sidebar"
+msgstr ""
+
+#: admin/customize/controls/_general.php:146
+#: admin/customize/controls/_general.php:326
+#: admin/customize/controls/_general.php:650
+msgctxt "customizer"
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/customize/controls/_general.php:149
+#: admin/customize/controls/_general.php:174
+#: admin/customize/controls/_general.php:329
+#: admin/customize/controls/_general.php:653
+#: admin/customize/controls/_woocommerce.php:103
+#: admin/customize/controls/_woocommerce.php:128
+msgctxt "customizer"
+msgid "Right"
+msgstr ""
+
+#: admin/customize/controls/_general.php:150
+#: admin/customize/controls/_general.php:175
+#: admin/customize/controls/_general.php:330
+#: admin/customize/controls/_general.php:654
+#: admin/customize/controls/_woocommerce.php:104
+#: admin/customize/controls/_woocommerce.php:129
+msgctxt "customizer"
+msgid "Left"
+msgstr ""
+
+#: admin/customize/controls/_general.php:160
+msgctxt "customizer"
+msgid "Select Single sidebar"
+msgstr ""
+
+#: admin/customize/controls/_general.php:171
+msgctxt "customizer"
+msgid "Sidebar Single Position"
+msgstr ""
+
+#: admin/customize/controls/_general.php:186
+#: admin/customize/controls/_general.php:451
+msgctxt "customizer"
+msgid "Show Related"
+msgstr ""
+
+#: admin/customize/controls/_general.php:192
+msgctxt "customizer"
+msgid "Cropped Images"
+msgstr ""
+
+#: admin/customize/controls/_general.php:206
+#: admin/customize/controls/_general.php:482
+#: admin/customize/controls/_woocommerce.php:152
+msgctxt "customizer"
+msgid "Related Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:221
+#: admin/customize/controls/_general.php:497
+msgctxt "customizer"
+msgid "Related Items"
+msgstr ""
+
+#: admin/customize/controls/_general.php:231
+#: admin/customize/controls/_general.php:507
+msgctxt "customizer"
+msgid "Pick From"
+msgstr ""
+
+#: admin/customize/controls/_general.php:234
+#: admin/customize/controls/_general.php:510
+msgctxt "customizer"
+msgid "Same Categories"
+msgstr ""
+
+#: admin/customize/controls/_general.php:235
+#: admin/customize/controls/_general.php:511
+msgctxt "customizer"
+msgid "Same Tags"
+msgstr ""
+
+#: admin/customize/controls/_general.php:236
+msgctxt "customizer"
+msgid " Random"
+msgstr ""
+
+#: admin/customize/controls/_general.php:237
+#: admin/customize/controls/_general.php:513
+msgctxt "customizer"
+msgid "Latest"
+msgstr ""
+
+#: admin/customize/controls/_general.php:247
+msgctxt "customizer"
+msgid "Text Lenght"
+msgstr ""
+
+#: admin/customize/controls/_general.php:257
+#: admin/customize/controls/_general.php:420
+#: admin/customize/controls/_general.php:618
+#: admin/customize/controls/_header.php:621
+msgctxt "customizer"
+msgid "Hide"
+msgstr ""
+
+#: admin/customize/controls/_general.php:282
+msgctxt "customizer"
+msgid "Header Template for Blog Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:286
+#: admin/customize/controls/_general.php:527
+#: admin/customize/controls/_general.php:555
+#: admin/customize/controls/_general.php:682
+#: admin/customize/controls/_general.php:710
+#: admin/customize/controls/_woocommerce.php:60
+#: admin/customize/controls/_woocommerce.php:200
+msgctxt "customizer"
+msgid "Inherit from Custom Header"
+msgstr ""
+
+#: admin/customize/controls/_general.php:292
+msgctxt "customizer"
+msgid "Sticky Template for Blog Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:295
+#: admin/customize/controls/_general.php:536
+#: admin/customize/controls/_general.php:564
+#: admin/customize/controls/_general.php:691
+#: admin/customize/controls/_general.php:719
+#: admin/customize/controls/_woocommerce.php:69
+#: admin/customize/controls/_woocommerce.php:209
+msgctxt "customizer"
+msgid "Inherit from Sticky Header"
+msgstr ""
+
+#: admin/customize/controls/_general.php:301
+msgctxt "customizer"
+msgid "Footer Template for Blog Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:304
+#: admin/customize/controls/_general.php:545
+#: admin/customize/controls/_general.php:573
+#: admin/customize/controls/_general.php:700
+#: admin/customize/controls/_general.php:728
+#: admin/customize/controls/_woocommerce.php:78
+#: admin/customize/controls/_woocommerce.php:218
+msgctxt "customizer"
+msgid "Inherit from Footer Appearance"
+msgstr ""
+
+#: admin/customize/controls/_general.php:311
+msgctxt "customizer"
+msgid "Page Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:341
+msgctxt "customizer"
+msgid "Portfolio Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:345
+msgctxt "customizer"
+msgid "Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:350
+#: admin/customize/controls/_general.php:801
+msgctxt "customizer"
+msgid "Pinterest"
+msgstr ""
+
+#: admin/customize/controls/_general.php:351
+msgctxt "customizer"
+msgid "Asymmetric"
+msgstr ""
+
+#: admin/customize/controls/_general.php:352
+msgctxt "customizer"
+msgid "Carousel"
+msgstr ""
+
+#: admin/customize/controls/_general.php:353
+msgctxt "customizer"
+msgid "Carousel Wide"
+msgstr ""
+
+#: admin/customize/controls/_general.php:354
+msgctxt "customizer"
+msgid "Motion Category"
+msgstr ""
+
+#: admin/customize/controls/_general.php:359
+msgctxt "customizer"
+msgid "Hover"
+msgstr ""
+
+#: admin/customize/controls/_general.php:362
+#: admin/customize/controls/_general.php:469
+msgctxt "customizer"
+msgid "Overlay"
+msgstr ""
+
+#: admin/customize/controls/_general.php:363
+#: admin/customize/controls/_general.php:470
+msgctxt "customizer"
+msgid "Slide From Bottom"
+msgstr ""
+
+#: admin/customize/controls/_general.php:364
+#: admin/customize/controls/_general.php:471
+msgctxt "customizer"
+msgid "Slide From Left"
+msgstr ""
+
+#: admin/customize/controls/_general.php:365
+#: admin/customize/controls/_general.php:472
+msgctxt "customizer"
+msgid "Swipe Right"
+msgstr ""
+
+#: admin/customize/controls/_general.php:370
+msgctxt "customizer"
+msgid "Order By"
+msgstr ""
+
+#: admin/customize/controls/_general.php:374
+#: admin/customize/controls/_general.php:588
+msgctxt "customizer"
+msgid "Order ID"
+msgstr ""
+
+#: admin/customize/controls/_general.php:380
+#: admin/customize/controls/_general.php:594
+msgctxt "customizer"
+msgid "Order"
+msgstr ""
+
+#: admin/customize/controls/_general.php:383
+#: admin/customize/controls/_general.php:597
+msgctxt "customizer"
+msgid "ASC"
+msgstr ""
+
+#: admin/customize/controls/_general.php:384
+#: admin/customize/controls/_general.php:598
+msgctxt "customizer"
+msgid "DESC"
+msgstr ""
+
+#: admin/customize/controls/_general.php:389
+#: admin/customize/controls/_general.php:603
+msgctxt "customizer"
+msgid "Columns"
+msgstr ""
+
+#: admin/customize/controls/_general.php:392
+#: admin/customize/controls/_general.php:606
+msgctxt "customizer"
+msgid "2"
+msgstr ""
+
+#: admin/customize/controls/_general.php:393
+#: admin/customize/controls/_general.php:607
+msgctxt "customizer"
+msgid "3"
+msgstr ""
+
+#: admin/customize/controls/_general.php:394
+#: admin/customize/controls/_general.php:608
+msgctxt "customizer"
+msgid "4"
+msgstr ""
+
+#: admin/customize/controls/_general.php:395
+msgctxt "customizer"
+msgid "5"
+msgstr ""
+
+#: admin/customize/controls/_general.php:396
+msgctxt "customizer"
+msgid "6"
+msgstr ""
+
+#: admin/customize/controls/_general.php:401
+#: admin/customize/controls/_general.php:613
+msgctxt "customizer"
+msgid "Items per Page"
+msgstr ""
+
+#: admin/customize/controls/_general.php:407
+msgctxt "customizer"
+msgid "Disable Spacings"
+msgstr ""
+
+#: admin/customize/controls/_general.php:411
+msgctxt "customizer"
+msgid "Pagination"
+msgstr ""
+
+#: admin/customize/controls/_general.php:414
+msgctxt "customizer"
+msgid "Standard"
+msgstr ""
+
+#: admin/customize/controls/_general.php:415
+msgctxt "customizer"
+msgid "Load More"
+msgstr ""
+
+#: admin/customize/controls/_general.php:423
+#: vc/theme_shortcodes/cws_sc_blog.php:972
+#: vc/theme_shortcodes/cws_sc_blog.php:1007
+#: vc/theme_shortcodes/cws_sc_blog.php:1030
+#: vc/theme_shortcodes/cws_sc_blog.php:1494
+#: vc/theme_shortcodes/cws_sc_icon.php:21
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:66
+#: vc/theme_shortcodes/cws_sc_our_team.php:121
+#: vc/theme_shortcodes/cws_sc_our_team.php:308
+#: vc/theme_shortcodes/cws_sc_portfolio.php:64
+#: vc/theme_shortcodes/cws_sc_portfolio.php:275
+#: vc/theme_shortcodes/cws_sc_service.php:20
+#: vc/theme_shortcodes/cws_sc_service.php:38
+#: vc/theme_shortcodes/cws_sc_service.php:1284
+msgctxt "backend"
+msgid "None"
+msgstr ""
+
+#: admin/customize/controls/_general.php:424
+#: vc/theme_shortcodes/cws_sc_banners.php:327
+#: vc/theme_shortcodes/cws_sc_banners.php:708
+#: vc/theme_shortcodes/cws_sc_blog.php:1058
+#: vc/theme_shortcodes/cws_sc_blog.php:1435
+#: vc/theme_shortcodes/cws_sc_blog.php:1495
+#: vc/theme_shortcodes/cws_sc_button.php:52
+#: vc/theme_shortcodes/cws_sc_gallery.php:79
+#: vc/theme_shortcodes/cws_sc_icon_list.php:216
+#: vc/theme_shortcodes/cws_sc_info_box.php:36
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:108
+#: vc/theme_shortcodes/cws_sc_milestone.php:545
+#: vc/theme_shortcodes/cws_sc_our_team.php:205
+#: vc/theme_shortcodes/cws_sc_popup_video.php:94
+#: vc/theme_shortcodes/cws_sc_portfolio.php:177
+#: vc/theme_shortcodes/cws_sc_portfolio.php:276
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:262
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:151
+#: vc/theme_shortcodes/cws_sc_roadmap.php:324
+#: vc/theme_shortcodes/cws_sc_service.php:1449
+#: vc/theme_shortcodes/cws_sc_text.php:491
+msgctxt "backend"
+msgid "Title"
+msgstr ""
+
+#: admin/customize/controls/_general.php:425
+#: vc/theme_shortcodes/cws_sc_blog.php:1502
+#: vc/theme_shortcodes/cws_sc_portfolio.php:277
+msgctxt "backend"
+msgid "Excerpt"
+msgstr ""
+
+#: admin/customize/controls/_general.php:426
+#: vc/theme_shortcodes/cws_sc_blog.php:1496
+#: vc/theme_shortcodes/cws_sc_portfolio.php:278
+msgctxt "backend"
+msgid "Categories"
+msgstr ""
+
+#: admin/customize/controls/_general.php:427
+#: vc/theme_shortcodes/cws_sc_blog.php:1503
+#: vc/theme_shortcodes/cws_sc_portfolio.php:279
+msgctxt "backend"
+msgid "Tags"
+msgstr ""
+
+#: admin/customize/controls/_general.php:435
+msgctxt "customizer"
+msgid "Reset Permalinks"
+msgstr ""
+
+#: admin/customize/controls/_general.php:440
+#: admin/customize/controls/_general.php:664
+#: admin/customize/controls/_woocommerce.php:51
+msgctxt "customizer"
+msgid "Slug"
+msgstr ""
+
+#: admin/customize/controls/_general.php:445
+#: admin/customize/controls/_general.php:673
+msgctxt "customizer"
+msgid "Single Slug"
+msgstr ""
+
+#: admin/customize/controls/_general.php:466
+msgctxt "customizer"
+msgid "Related Hover"
+msgstr ""
+
+#: admin/customize/controls/_general.php:512
+msgctxt "customizer"
+msgid "Random"
+msgstr ""
+
+#: admin/customize/controls/_general.php:523
+msgctxt "customizer"
+msgid "Header Template for Portfolio"
+msgstr ""
+
+#: admin/customize/controls/_general.php:533
+msgctxt "customizer"
+msgid "Sticky Template for Portfolio"
+msgstr ""
+
+#: admin/customize/controls/_general.php:542
+msgctxt "customizer"
+msgid "Footer Template for Portfolio"
+msgstr ""
+
+#: admin/customize/controls/_general.php:551
+msgctxt "customizer"
+msgid "Header Template for Portfolio Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:561
+msgctxt "customizer"
+msgid "Sticky Template for Portfolio Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:570
+msgctxt "customizer"
+msgid "Footer Template for Portfolio Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:580
+msgctxt "customizer"
+msgid "Our Team Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:584
+msgctxt "customizer"
+msgid "Order by"
+msgstr ""
+
+#: admin/customize/controls/_general.php:622
+msgctxt "customizer"
+msgid "Photo"
+msgstr ""
+
+#: admin/customize/controls/_general.php:623
+msgctxt "customizer"
+msgid "Name"
+msgstr ""
+
+#: admin/customize/controls/_general.php:624
+msgctxt "customizer"
+msgid "Position"
+msgstr ""
+
+#: admin/customize/controls/_general.php:625
+msgctxt "customizer"
+msgid "Department"
+msgstr ""
+
+#: admin/customize/controls/_general.php:626
+msgctxt "customizer"
+msgid "Experience"
+msgstr ""
+
+#: admin/customize/controls/_general.php:627
+#: admin/customize/controls/_header.php:179
+msgctxt "customizer"
+msgid "Email"
+msgstr ""
+
+#: admin/customize/controls/_general.php:628
+#: admin/customize/controls/_header.php:174
+msgctxt "customizer"
+msgid "Phone Number"
+msgstr ""
+
+#: admin/customize/controls/_general.php:629
+msgctxt "customizer"
+msgid "Socials"
+msgstr ""
+
+#: admin/customize/controls/_general.php:630
+msgctxt "customizer"
+msgid "Biography"
+msgstr ""
+
+#: admin/customize/controls/_general.php:631
+msgctxt "customizer"
+msgid "Personal Info"
+msgstr ""
+
+#: admin/customize/controls/_general.php:669
+msgctxt "customizer"
+msgid "Single Accent Background"
+msgstr ""
+
+#: admin/customize/controls/_general.php:678
+msgctxt "customizer"
+msgid "Header Template for Staff"
+msgstr ""
+
+#: admin/customize/controls/_general.php:688
+msgctxt "customizer"
+msgid "Sticky Template for Staff"
+msgstr ""
+
+#: admin/customize/controls/_general.php:697
+msgctxt "customizer"
+msgid "Footer Template for Staff"
+msgstr ""
+
+#: admin/customize/controls/_general.php:706
+msgctxt "customizer"
+msgid "Header Template for Staff Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:716
+msgctxt "customizer"
+msgid "Sticky Template for Staff Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:725
+msgctxt "customizer"
+msgid "Footer Template for Staff Single"
+msgstr ""
+
+#: admin/customize/controls/_general.php:735
+#: admin/customize/controls/_general.php:739
+#: admin/customize/controls/_general.php:819
+#: admin/customize/controls/_general.php:823
+msgctxt "customizer"
+msgid "Sidebars"
+msgstr ""
+
+#: admin/customize/controls/_general.php:740
+#: admin/customize/controls/_general.php:824
+msgctxt "customizer"
+msgid "Add New"
+msgstr ""
+
+#: admin/customize/controls/_general.php:741
+#: admin/customize/controls/_general.php:825
+msgctxt "customizer"
+msgid "Apply"
+msgstr ""
+
+#: admin/customize/controls/_general.php:747
+msgctxt "customizer"
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:752
+msgctxt "customizer"
+msgid "Sticky Sidebars"
+msgstr ""
+
+#: admin/customize/controls/_general.php:757
+msgctxt "customizer"
+msgid "Apply Boxed Layout"
+msgstr ""
+
+#: admin/customize/controls/_general.php:761
+msgctxt "customizer"
+msgid "Content Background"
+msgstr ""
+
+#: admin/customize/controls/_general.php:777
+msgctxt "customizer"
+msgid "Social Share"
+msgstr ""
+
+#: admin/customize/controls/_general.php:781
+msgctxt "customizer"
+msgid "Share to:"
+msgstr ""
+
+#: admin/customize/controls/_general.php:785
+msgctxt "customizer"
+msgid "Add.this"
+msgstr ""
+
+#: admin/customize/controls/_general.php:786
+msgctxt "customizer"
+msgid "Blogger"
+msgstr ""
+
+#: admin/customize/controls/_general.php:787
+msgctxt "customizer"
+msgid "Buffer"
+msgstr ""
+
+#: admin/customize/controls/_general.php:788
+msgctxt "customizer"
+msgid "Diaspora"
+msgstr ""
+
+#: admin/customize/controls/_general.php:789
+msgctxt "customizer"
+msgid "Digg"
+msgstr ""
+
+#: admin/customize/controls/_general.php:790
+msgctxt "customizer"
+msgid "Douban"
+msgstr ""
+
+#: admin/customize/controls/_general.php:791
+msgctxt "customizer"
+msgid "Evernote"
+msgstr ""
+
+#: admin/customize/controls/_general.php:792
+msgctxt "customizer"
+msgid "Getpocket"
+msgstr ""
+
+#: admin/customize/controls/_general.php:793
+msgctxt "customizer"
+msgid "Facebook"
+msgstr ""
+
+#: admin/customize/controls/_general.php:794
+msgctxt "customizer"
+msgid "Flipboard"
+msgstr ""
+
+#: admin/customize/controls/_general.php:795
+msgctxt "customizer"
+msgid "Instapaper"
+msgstr ""
+
+#: admin/customize/controls/_general.php:796
+msgctxt "customizer"
+msgid "Line.me"
+msgstr ""
+
+#: admin/customize/controls/_general.php:797
+msgctxt "customizer"
+msgid "Linkedin"
+msgstr ""
+
+#: admin/customize/controls/_general.php:798
+msgctxt "customizer"
+msgid "LiveJournal"
+msgstr ""
+
+#: admin/customize/controls/_general.php:799
+msgctxt "customizer"
+msgid "Hacker.news"
+msgstr ""
+
+#: admin/customize/controls/_general.php:800
+msgctxt "customizer"
+msgid "Ok.ru"
+msgstr ""
+
+#: admin/customize/controls/_general.php:802
+msgctxt "customizer"
+msgid "Qzone"
+msgstr ""
+
+#: admin/customize/controls/_general.php:803
+msgctxt "customizer"
+msgid "Reddit"
+msgstr ""
+
+#: admin/customize/controls/_general.php:804
+msgctxt "customizer"
+msgid "Skype"
+msgstr ""
+
+#: admin/customize/controls/_general.php:805
+msgctxt "customizer"
+msgid "Tumblr"
+msgstr ""
+
+#: admin/customize/controls/_general.php:806
+msgctxt "customizer"
+msgid "Twitter"
+msgstr ""
+
+#: admin/customize/controls/_general.php:807
+msgctxt "customizer"
+msgid "Vk"
+msgstr ""
+
+#: admin/customize/controls/_general.php:808
+msgctxt "customizer"
+msgid "Weibo"
+msgstr ""
+
+#: admin/customize/controls/_general.php:809
+msgctxt "customizer"
+msgid "Xing"
+msgstr ""
+
+#: admin/customize/controls/_general.php:831
+msgctxt "customizer"
+msgid "Purchase Code"
+msgstr ""
+
+#: admin/customize/controls/_general.php:836
+msgctxt "customizer"
+msgid "Please enter your purchase code"
+msgstr ""
+
+#: admin/customize/controls/_general.php:842
+msgctxt "customizer"
+msgid "Help"
+msgstr ""
+
+#: admin/customize/controls/_general.php:846
+msgctxt "customizer"
+msgid "Documentation"
+msgstr ""
+
+#: admin/customize/controls/_general.php:854
+msgctxt "customizer"
+msgid "Video Tutorial"
+msgstr ""
+
+#: admin/customize/controls/_header.php:36
+#: admin/customize/controls/_woocommerce.php:4
+#: admin/customize/controls/customizer-controls.php:50
+msgctxt "customizer"
+msgid "General"
+msgstr ""
+
+#: admin/customize/controls/_header.php:48
+#: admin/customize/controls/_header.php:540
+msgctxt "customizer"
+msgid "Image"
+msgstr ""
+
+#: admin/customize/controls/_header.php:90
+msgctxt "customizer"
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:119
+msgctxt "customizer"
+msgid "Header Background Image"
+msgstr ""
+
+#: admin/customize/controls/_header.php:130
+msgctxt "customizer"
+msgid "Show header overlay"
+msgstr ""
+
+#: admin/customize/controls/_header.php:134
+msgctxt "customizer"
+msgid "Header Overlay Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:151
+msgctxt "customizer"
+msgid "Apply header mask"
+msgstr ""
+
+#: admin/customize/controls/_header.php:157
+msgctxt "customizer"
+msgid "Menu and logo overlays homepage slider"
+msgstr ""
+
+#: admin/customize/controls/_header.php:158
+msgctxt "customizer"
+msgid "This option will force the menu and logo sections to overlay the homepage slider. It is useful when using transparent menu."
+msgstr ""
+
+#: admin/customize/controls/_header.php:164
+msgctxt "customizer"
+msgid "Top Bar"
+msgstr ""
+
+#: admin/customize/controls/_header.php:170
+msgctxt "customizer"
+msgid "Apply full-width top bar"
+msgstr ""
+
+#: admin/customize/controls/_header.php:184
+msgctxt "customizer"
+msgid "Address"
+msgstr ""
+
+#: admin/customize/controls/_header.php:191
+msgctxt "customizer"
+msgid "Background"
+msgstr ""
+
+#: admin/customize/controls/_header.php:201
+msgctxt "customizer"
+msgid "Bottom Border"
+msgstr ""
+
+#: admin/customize/controls/_header.php:207
+msgctxt "customizer"
+msgid "Fonts & Icons Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:217
+msgctxt "customizer"
+msgid "Fonts & Icons Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:223
+#: admin/customize/controls/_header.php:323
+#: admin/customize/controls/_header.php:857
+#: admin/customize/controls/_header.php:959
+msgctxt "customizer"
+msgid "Spacings"
+msgstr ""
+
+#: admin/customize/controls/_header.php:226
+#: admin/customize/controls/_header.php:326
+#: admin/customize/controls/_header.php:860
+#: admin/customize/controls/_header.php:962
+msgctxt "customizer"
+msgid "Top (px or %)"
+msgstr ""
+
+#: admin/customize/controls/_header.php:230
+#: admin/customize/controls/_header.php:330
+#: admin/customize/controls/_header.php:864
+#: admin/customize/controls/_header.php:966
+msgctxt "customizer"
+msgid "Bottom (px or %)"
+msgstr ""
+
+#: admin/customize/controls/_header.php:238
+msgctxt "customizer"
+msgid "Add Custom Sidebar Icon"
+msgstr ""
+
+#: admin/customize/controls/_header.php:242
+msgctxt "customizer"
+msgid "Custom sidebar"
+msgstr ""
+
+#: admin/customize/controls/_header.php:286
+msgctxt "customizer"
+msgid "Menu Appearance"
+msgstr ""
+
+#: admin/customize/controls/_header.php:292
+msgctxt "customizer"
+msgid "Apply full-width menu"
+msgstr ""
+
+#: admin/customize/controls/_header.php:299
+#: admin/customize/controls/_header.php:392
+#: admin/customize/controls/_header.php:787
+#: admin/customize/controls/_header.php:999
+#: admin/customize/controls/_header.php:1056
+msgctxt "customizer"
+msgid "Font Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:305
+msgctxt "customizer"
+msgid "Accent Font Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:311
+msgctxt "customizer"
+msgid "Submenu Font Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:317
+msgctxt "customizer"
+msgid "Submenu Font Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:338
+msgctxt "customizer"
+msgid "Show desktop menu on:"
+msgstr ""
+
+#: admin/customize/controls/_header.php:340
+msgctxt "customizer"
+msgid "Desktops"
+msgstr ""
+
+#: admin/customize/controls/_header.php:341
+msgctxt "customizer"
+msgid "Tablets Landscape"
+msgstr ""
+
+#: admin/customize/controls/_header.php:342
+msgctxt "customizer"
+msgid "Landscape & Portrait Tablets"
+msgstr ""
+
+#: admin/customize/controls/_header.php:349
+#: admin/customize/controls/_header.php:1012
+msgctxt "customizer"
+msgid "Add Search Icon"
+msgstr ""
+
+#: admin/customize/controls/_header.php:353
+#: admin/customize/controls/_header.php:1017
+msgctxt "customizer"
+msgid "Search Title"
+msgstr ""
+
+#: admin/customize/controls/_header.php:354
+#: admin/customize/controls/_header.php:372
+#: admin/customize/controls/_header.php:382
+#: admin/customize/controls/_header.php:767
+#: admin/customize/controls/_header.php:777
+#: admin/customize/controls/_header.php:1018
+#: admin/customize/controls/_header.php:1036
+#: admin/customize/controls/_header.php:1046
+msgctxt "customizer"
+msgid ""
+msgstr ""
+
+#: admin/customize/controls/_header.php:367
+#: admin/customize/controls/_header.php:762
+#: admin/customize/controls/_header.php:1031
+msgctxt "customizer"
+msgid "Add Extra Button"
+msgstr ""
+
+#: admin/customize/controls/_header.php:371
+#: admin/customize/controls/_header.php:766
+#: admin/customize/controls/_header.php:1035
+msgctxt "customizer"
+msgid "Button Link"
+msgstr ""
+
+#: admin/customize/controls/_header.php:381
+#: admin/customize/controls/_header.php:776
+#: admin/customize/controls/_header.php:1045
+msgctxt "customizer"
+msgid "Button Title"
+msgstr ""
+
+#: admin/customize/controls/_header.php:403
+#: admin/customize/controls/_header.php:798
+#: admin/customize/controls/_header.php:1067
+msgctxt "customizer"
+msgid "Font Color Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:414
+#: admin/customize/controls/_header.php:809
+#: admin/customize/controls/_header.php:1078
+msgctxt "customizer"
+msgid "Font Border Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:425
+#: admin/customize/controls/_header.php:820
+#: admin/customize/controls/_header.php:1089
+msgctxt "customizer"
+msgid "Font Border Color Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:436
+#: admin/customize/controls/_header.php:831
+#: admin/customize/controls/_header.php:1100
+msgctxt "customizer"
+msgid "Font BG Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:447
+#: admin/customize/controls/_header.php:842
+#: admin/customize/controls/_header.php:1111
+msgctxt "customizer"
+msgid "Font BG Color Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:460
+msgctxt "customizer"
+msgid "Title Area"
+msgstr ""
+
+#: admin/customize/controls/_header.php:464
+msgctxt "customizer"
+msgid "Title Spacing"
+msgstr ""
+
+#: admin/customize/controls/_header.php:478
+msgctxt "customizer"
+msgid " Mobile Title Spacing"
+msgstr ""
+
+#: admin/customize/controls/_header.php:492
+msgctxt "customizer"
+msgid "Title Font Size on Archive"
+msgstr ""
+
+#: admin/customize/controls/_header.php:501
+msgctxt "customizer"
+msgid "Title Font Size on Singles"
+msgstr ""
+
+#: admin/customize/controls/_header.php:512
+msgctxt "customizer"
+msgid "Show Title Area overlay"
+msgstr ""
+
+#: admin/customize/controls/_header.php:516
+msgctxt "customizer"
+msgid "Title Area Overlay Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:547
+msgctxt "customizer"
+msgid "Start Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:558
+msgctxt "customizer"
+msgid "Finish Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:582
+msgctxt "customizer"
+msgid "Title Area BG Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:611
+msgctxt "customizer"
+msgid "Title Area Background"
+msgstr ""
+
+#: admin/customize/controls/_header.php:626
+msgctxt "customizer"
+msgid "Meta"
+msgstr ""
+
+#: admin/customize/controls/_header.php:627
+msgctxt "customizer"
+msgid "Divider"
+msgstr ""
+
+#: admin/customize/controls/_header.php:628
+msgctxt "customizer"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/customize/controls/_header.php:637
+msgctxt "customizer"
+msgid "Title Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:652
+msgctxt "customizer"
+msgid "Divider Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:682
+msgctxt "customizer"
+msgid "Text Color on Hover"
+msgstr ""
+
+#: admin/customize/controls/_header.php:698
+msgctxt "customizer"
+msgid "Scroll Animation"
+msgstr ""
+
+#: admin/customize/controls/_header.php:703
+msgctxt "customizer"
+msgid "Mobile Menu"
+msgstr ""
+
+#: admin/customize/controls/_header.php:708
+msgctxt "customizer"
+msgid "Top Bar Logotype"
+msgstr ""
+
+#: admin/customize/controls/_header.php:709
+#: admin/customize/controls/_header.php:729
+#: admin/customize/controls/_header.php:941
+msgctxt "customizer"
+msgid "To get a retina logo please upload a double-size image and set the image dimentions to fit the actual logo size."
+msgstr ""
+
+#: admin/customize/controls/_header.php:713
+msgctxt "customizer"
+msgid "Top Bar Logo Dimensions"
+msgstr ""
+
+#: admin/customize/controls/_header.php:728
+msgctxt "customizer"
+msgid "Menu Logotype"
+msgstr ""
+
+#: admin/customize/controls/_header.php:733
+msgctxt "customizer"
+msgid "Menu Logo Dimensions"
+msgstr ""
+
+#: admin/customize/controls/_header.php:749
+msgctxt "customizer"
+msgid "Show Mini-Cart"
+msgstr ""
+
+#: admin/customize/controls/_header.php:754
+msgctxt "customizer"
+msgid "Show Custom Sidebar"
+msgstr ""
+
+#: admin/customize/controls/_header.php:871
+msgctxt "customizer"
+msgid "Top Bar Background"
+msgstr ""
+
+#: admin/customize/controls/_header.php:881
+msgctxt "customizer"
+msgid "Icons Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:892
+msgctxt "customizer"
+msgid "Menu Font Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:898
+msgctxt "customizer"
+msgid "Menu Accent Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:904
+msgctxt "customizer"
+msgid "Menu BG Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:910
+msgctxt "customizer"
+msgid "Menu Accent BG Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:916
+msgctxt "customizer"
+msgid "Sub-Menu Font Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:922
+msgctxt "customizer"
+msgid "Sub-Menu Accent Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:930
+msgctxt "customizer"
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/customize/controls/_header.php:936
+msgctxt "customizer"
+msgid "Apply full-width sticky menu"
+msgstr ""
+
+#: admin/customize/controls/_header.php:940
+msgctxt "customizer"
+msgid "Sticky Logo"
+msgstr ""
+
+#: admin/customize/controls/_header.php:945
+msgctxt "customizer"
+msgid "Sticky Logo Dimensions"
+msgstr ""
+
+#: admin/customize/controls/_header.php:974
+msgctxt "customizer"
+msgid "Add Shadow"
+msgstr ""
+
+#: admin/customize/controls/_header.php:978
+msgctxt "customizer"
+msgid "Shadow Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:989
+msgctxt "customizer"
+msgid "Background Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1005
+msgctxt "customizer"
+msgid "Font Accent Color"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1122
+msgctxt "customizer"
+msgid "Sticky Menu Template"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1128
+msgctxt "customizer"
+msgid "All settings above are applied for default sticky template only"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1134
+msgctxt "customizer"
+msgid "Custom Header"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1138
+msgctxt "customizer"
+msgid "Custom Header Template"
+msgstr ""
+
+#: admin/customize/controls/_header.php:1143
+msgctxt "customizer"
+msgid "The following tab settings will be ingnored if custom headers are applied: Top Bar, Logotype, Menu"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:8
+msgctxt "customizer"
+msgid "Show Cart"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:13
+msgctxt "customizer"
+msgid "Mini Cart View"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:16
+msgctxt "customizer"
+msgid "Popup"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:17
+#: admin/customize/controls/_woocommerce.php:85
+msgctxt "customizer"
+msgid "Sidebar"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:27
+msgctxt "customizer"
+msgid "Shop Columns"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:37
+msgctxt "customizer"
+msgid "Show Products per Page"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:45
+msgctxt "customizer"
+msgid "Lifetime of the \"New\" badge"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:46
+msgctxt "customizer"
+msgid "In days"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:56
+msgctxt "customizer"
+msgid "Header Template for WooCommerce"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:66
+msgctxt "customizer"
+msgid "Sticky Template for WooCommerce"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:75
+msgctxt "customizer"
+msgid "Footer Template for WooCommerce"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:89
+msgctxt "customizer"
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:100
+msgctxt "customizer"
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:114
+msgctxt "customizer"
+msgid "Product Details Sidebar"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:125
+msgctxt "customizer"
+msgid "Product Details Sidebar Position"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:140
+msgctxt "customizer"
+msgid "Product Details"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:144
+msgctxt "customizer"
+msgid "Quantity of visible gallery thumbnails"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:162
+msgctxt "customizer"
+msgid "Related Products per Page"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:167
+msgctxt "customizer"
+msgid "Enable related carousel"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:172
+msgctxt "customizer"
+msgid "Slides to scroll"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:182
+msgctxt "customizer"
+msgid "Autoplay speed"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:183
+msgctxt "customizer"
+msgid "Delay in seconds. Enter \"0\" to disable autoplay"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:196
+msgctxt "customizer"
+msgid "Header Template for Product"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:206
+msgctxt "customizer"
+msgid "Sticky Template for Product"
+msgstr ""
+
+#: admin/customize/controls/_woocommerce.php:215
+msgctxt "customizer"
+msgid "Footer Template for Product"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:51
+msgctxt "customizer"
+msgid "General Theme Options"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:56
+msgctxt "customizer"
+msgid "Header"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:57
+msgctxt "customizer"
+msgid "Promosys Header Properties"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:62
+msgctxt "customizer"
+msgid "Footer"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:63
+msgctxt "customizer"
+msgid "Promosys Footer Properties"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:68
+msgctxt "customizer"
+msgid "Shop"
+msgstr ""
+
+#: admin/customize/controls/customizer-controls.php:69
+msgctxt "customizer"
+msgid "Promosys WooCommerce Shop Properties"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:296
+msgctxt "customizer"
+msgid " font Color"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:312
+msgctxt "customizer"
+msgid " font size"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:317
+msgctxt "customizer"
+msgid " line height"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:329
+msgctxt "customizer"
+msgid " font family"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:335
+msgctxt "customizer"
+msgid " font weight"
+msgstr ""
+
+#: admin/customize/inc/customize-helper-functions.php:344
+msgctxt "customizer"
+msgid " font subsets"
+msgstr ""
+
+#: admin/cws-welcome-page.php:103 admin/cws-welcome-page.php:104
+msgid "About"
+msgstr ""
+
+#: admin/cws-welcome-page.php:126
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: admin/cws-welcome-page.php:130
+#, php-format
+msgid "Thank you for choosing %s - %s! We truly appreciate and really hope that you'll enjoy it!"
+msgstr ""
+
+#: admin/cws-welcome-page.php:137
+msgid "Useful Links:"
+msgstr ""
+
+#: admin/cws-welcome-page.php:140
+msgid "Support"
+msgstr ""
+
+#: admin/cws-welcome-page.php:143
+msgid "Documentation"
+msgstr ""
+
+#: admin/cws-welcome-page.php:146 admin/plugins.php:130
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/cws-welcome-page.php:149
+msgid "Browse All Themes"
+msgstr ""
+
+#: admin/plugins.php:38
+msgid "CWS Essentials"
+msgstr ""
+
+#: admin/plugins.php:49
+msgid "CWS Mega Menu"
+msgstr ""
+
+#: admin/plugins.php:59
+msgid "CWS Demo Importer"
+msgstr ""
+
+#: admin/plugins.php:69
+msgid "CWS Flaticons"
+msgstr ""
+
+#: admin/plugins.php:79
+msgid "CWS SVG Icons"
+msgstr ""
+
+#: admin/plugins.php:89
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/plugins.php:99
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: admin/plugins.php:109
+msgid "WPForms Lite"
+msgstr ""
+
+#: admin/plugins.php:131
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/plugins.php:132
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. %1$s = plugin name
+#: admin/plugins.php:133
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/plugins.php:144
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/plugins.php:145
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/plugins.php:146
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: author.php:26
+msgctxt "frontend"
+msgid "You can find all of his/her works at "
+msgstr ""
+
+#: author.php:34
+msgctxt "frontend"
+msgid " post"
+msgstr ""
+
+#: author.php:34
+msgctxt "frontend"
+msgid " posts"
+msgstr ""
+
+#: author.php:48
+msgctxt "frontend"
+msgid "Latest posts"
+msgstr ""
+
+#: author.php:63
+msgctxt "frontend"
+msgid "No posts by this author."
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments"
+msgid "Edit"
+msgstr ""
+
+#: comments.php:48
+msgctxt "comments"
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:134
+msgctxt "comments"
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:135
+#, php-format
+msgctxt "comments"
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:140
+msgctxt "comments"
+msgid "(cancel reply)"
+msgstr ""
+
+#: comments.php:141
+msgctxt "comments"
+msgid "Send Comment"
+msgstr ""
+
+#: comments.php:369
+msgctxt "comments"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:369
+msgctxt "comments"
+msgid "Comments"
+msgstr ""
+
+#: comments.php:383 comments.php:401
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:384 comments.php:402
+msgctxt "comments"
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:385 comments.php:403
+msgctxt "comments"
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Check for comment navigation.
+#: comments.php:408
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "Sorry! Your server does not meet the minimum requirements, please upgrade PHP version to 5.6 or higher"
+msgstr ""
+
+#: inc/functions-blog.php:148
+msgctxt "frontend"
+msgid "Categories: "
+msgstr ""
+
+#: inc/functions-blog.php:265 page.php:14 tmpl/post/content-page.php:23
+#: tmpl/post/content-single.php:130
+msgid "Pages:"
+msgstr ""
+
+#: inc/functions-helpers.php:86
+msgctxt "frontend"
+msgid "Error Page"
+msgstr ""
+
+#: inc/functions-helpers.php:88
+msgctxt "frontend"
+msgid "Home"
+msgstr ""
+
+#: inc/functions-helpers.php:90
+msgctxt "frontend"
+msgid "Search"
+msgstr ""
+
+#: inc/functions-helpers.php:94
+#, php-format
+msgctxt "frontend"
+msgid "Category: %s"
+msgstr ""
+
+#: inc/functions-helpers.php:96
+#, php-format
+msgctxt "frontend"
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/functions-helpers.php:115
+msgctxt "frontend"
+msgid "Shop"
+msgstr ""
+
+#: inc/functions-helpers.php:118
+msgctxt "frontend"
+msgid "Our Team Single"
+msgstr ""
+
+#: inc/functions-helpers.php:120
+msgctxt "frontend"
+msgid "Our Team"
+msgstr ""
+
+#: inc/functions-helpers.php:124
+msgctxt "frontend"
+msgid "Portfolio Single"
+msgstr ""
+
+#: inc/functions-helpers.php:126
+msgctxt "frontend"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/functions-helpers.php:134
+#, php-format
+msgctxt "frontend"
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/functions-setup.php:49
+msgctxt "frontend"
+msgid "Sign in"
+msgstr ""
+
+#: inc/functions-setup.php:51
+msgctxt "frontend"
+msgid "Sign out"
+msgstr ""
+
+#: inc/functions-setup.php:118
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/functions-setup.php:119
+msgid "Sliding Menu"
+msgstr ""
+
+#: inc/functions-setup.php:120
+msgid "Top Menu"
+msgstr ""
+
+#: inc/functions-setup.php:333
+msgid " theme notice: Please insert your Item Purchase Code in Theme Options to get the latest theme updates!"
+msgstr ""
+
+#: inc/functions-template.php:110
+msgctxt "frontend"
+msgid "Load More"
+msgstr ""
+
+#. === OPTIONS ===
+#: inc/functions-template.php:126
+msgid "Home"
+msgstr ""
+
+#. text for the 'Home' link
+#: inc/functions-template.php:127
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#. text for a category page
+#: inc/functions-template.php:128
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#. text for a search results page
+#: inc/functions-template.php:129
+#, php-format
+msgid "Archive by %s \"%s\""
+msgstr ""
+
+#: inc/functions-template.php:130
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#. text for a tag page
+#: inc/functions-template.php:131
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#. text for an author page
+#: inc/functions-template.php:132
+msgid "404 Page"
+msgstr ""
+
+#: inc/functions-template.php:341
+msgid "Page"
+msgstr ""
+
+#: inc/functions-template.php:424
+msgctxt "frontend"
+msgid "Fill the custom sidebar or choose anouther one."
+msgstr ""
+
+#: search.php:67
+msgctxt "Search form"
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:68
+msgctxt "Search form"
+msgid "Sorry, no posts matched your criteria. Please try another search"
+msgstr ""
+
+#: search.php:70
+msgctxt "Search form"
+msgid "You might want to consider some of our suggestions to get better results:"
+msgstr ""
+
+#: search.php:72
+msgctxt "Search form"
+msgid "Check your spelling."
+msgstr ""
+
+#: search.php:73
+msgctxt "Search form"
+msgid "Try a similar keyword, for example: tablet instead of laptop."
+msgstr ""
+
+#: search.php:74
+msgctxt "Search form"
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: searchform.php:4
+#, php-format
+msgctxt "Search form"
+msgid "Your search for: \"%s\" revealed the following:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "Search form"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "Search form"
+msgid "SEARCH"
+msgstr ""
+
+#: single-cws_portfolio.php:195
+msgctxt "frontend"
+msgid "Categories:"
+msgstr ""
+
+#: single-cws_portfolio.php:195
+msgctxt "frontend"
+msgid "Category:"
+msgstr ""
+
+#: single-cws_portfolio.php:205
+msgctxt "frontend"
+msgid "Author:"
+msgstr ""
+
+#: single-cws_portfolio.php:215
+msgctxt "frontend"
+msgid "Client:"
+msgstr ""
+
+#: single-cws_portfolio.php:224
+msgctxt "frontend"
+msgid "Date:"
+msgstr ""
+
+#: single-cws_portfolio.php:240
+msgctxt "frontend"
+msgid "Share:"
+msgstr ""
+
+#: single-cws_staff.php:50
+msgctxt "frontend"
+msgid "Experience:"
+msgstr ""
+
+#: single-cws_staff.php:73
+msgctxt "frontend"
+msgid "Contact "
+msgstr ""
+
+#: single-cws_staff.php:73
+msgctxt "frontend"
+msgid ":"
+msgstr ""
+
+#: single-cws_staff.php:98
+msgctxt "frontend"
+msgid "Biography"
+msgstr ""
+
+#: single-cws_staff.php:113
+msgctxt "frontend"
+msgid "Personal Information"
+msgstr ""
+
+#: tmpl/post/content-navigator.php:24
+msgid "Published In"
+msgstr ""
+
+#: tmpl/post/content-navigator.php:31
+msgctxt "single page"
+msgid "Previous Post"
+msgstr ""
+
+#: tmpl/post/content-navigator.php:83
+msgctxt "single page"
+msgid "Next Post"
+msgstr ""
+
+#: tmpl/post/content-page.php:29
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: tmpl/post/content.php:20
+msgid "0"
+msgstr ""
+
+#: tmpl/post/content.php:20
+msgid "1"
+msgstr ""
+
+#: tmpl/post/content.php:20
+msgid "%"
+msgstr ""
+
+#. -----> STYLING GROUP TITLES <-----
+#: vc/cws_vc_config.php:1994 vc/cws_vc_config.php:2907
+#: vc/vc_extends/cws_vc_extends.php:173
+msgid "Design Options"
+msgstr ""
+
+#: vc/cws_vc_config.php:1995 vc/cws_vc_config.php:1996
+#: vc/vc_extends/cws_vc_extends.php:174 vc/vc_extends/cws_vc_extends.php:175
+msgid "Tablet"
+msgstr ""
+
+#: vc/cws_vc_config.php:1997 vc/vc_extends/cws_vc_extends.php:176
+msgid "Mobile"
+msgstr ""
+
+#: vc/cws_vc_config.php:2007
+msgid "Overlay"
+msgstr ""
+
+#: vc/cws_vc_config.php:2011 vc/cws_vc_config.php:2811
+#: vc/cws_vc_config.php:2922 vc/theme_shortcodes/cws_sc_title_area.php:308
+msgid "None"
+msgstr ""
+
+#: vc/cws_vc_config.php:2012 vc/cws_vc_config.php:2021
+msgid "Color"
+msgstr ""
+
+#: vc/cws_vc_config.php:2013
+msgid "Gradient"
+msgstr ""
+
+#: vc/cws_vc_config.php:2035
+msgid "From"
+msgstr ""
+
+#: vc/cws_vc_config.php:2050
+msgid "To"
+msgstr ""
+
+#: vc/cws_vc_config.php:2065
+msgid "Opacity"
+msgstr ""
+
+#: vc/cws_vc_config.php:2069
+msgid "100 - visible, 0 - invisible"
+msgstr ""
+
+#: vc/cws_vc_config.php:2081
+msgid "Type"
+msgstr ""
+
+#: vc/cws_vc_config.php:2090 vc/cws_vc_config.php:2869
+#: vc/cws_vc_config.php:2980
+msgid "Linear"
+msgstr ""
+
+#: vc/cws_vc_config.php:2091
+msgid "Radial"
+msgstr ""
+
+#: vc/cws_vc_config.php:2099
+msgid "Angle"
+msgstr ""
+
+#: vc/cws_vc_config.php:2104
+msgid "Degrees: -360 to 360"
+msgstr ""
+
+#: vc/cws_vc_config.php:2115
+msgid "Shape variant"
+msgstr ""
+
+#: vc/cws_vc_config.php:2124
+msgid "Simple"
+msgstr ""
+
+#: vc/cws_vc_config.php:2125
+msgid "Extended"
+msgstr ""
+
+#: vc/cws_vc_config.php:2133
+msgid "Shape"
+msgstr ""
+
+#: vc/cws_vc_config.php:2141
+msgid "Ellipse"
+msgstr ""
+
+#: vc/cws_vc_config.php:2142 vc/cws_vc_config.php:2577
+msgid "Circle"
+msgstr ""
+
+#: vc/cws_vc_config.php:2150
+msgid "Size keyword"
+msgstr ""
+
+#: vc/cws_vc_config.php:2159
+msgid "Closest side"
+msgstr ""
+
+#: vc/cws_vc_config.php:2160
+msgid "Farthest side"
+msgstr ""
+
+#: vc/cws_vc_config.php:2161
+msgid "Closest corner"
+msgstr ""
+
+#: vc/cws_vc_config.php:2162
+msgid "Farthest corner"
+msgstr ""
+
+#: vc/cws_vc_config.php:2170
+msgid "Size"
+msgstr ""
+
+#: vc/cws_vc_config.php:2174
+msgid "Two space separated percent values, for example (60% 55%)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2190
+msgid "Add Layer"
+msgstr ""
+
+#: vc/cws_vc_config.php:2197
+msgid "Layer"
+msgstr ""
+
+#: vc/cws_vc_config.php:2210
+msgid "Layer position"
+msgstr ""
+
+#: vc/cws_vc_config.php:2243
+msgid "Layer Image Size"
+msgstr ""
+
+#: vc/cws_vc_config.php:2252
+msgid "Initial"
+msgstr ""
+
+#: vc/cws_vc_config.php:2253 vc/vc_extends/cws_vc_extends.php:206
+#: vc/vc_extends/cws_vc_extends.php:361 vc/vc_extends/cws_vc_extends.php:500
+#: vc/vc_extends/cws_vc_extends.php:639 vc/vc_extends/cws_vc_extends.php:749
+msgid "Cover"
+msgstr ""
+
+#: vc/cws_vc_config.php:2254 vc/vc_extends/cws_vc_extends.php:207
+#: vc/vc_extends/cws_vc_extends.php:362 vc/vc_extends/cws_vc_extends.php:501
+#: vc/vc_extends/cws_vc_extends.php:640 vc/vc_extends/cws_vc_extends.php:750
+msgid "Contain"
+msgstr ""
+
+#: vc/cws_vc_config.php:2262 vc/cws_vc_config.php:2287
+msgid "Layer Image Position"
+msgstr ""
+
+#: vc/cws_vc_config.php:2271
+msgid "Left Top"
+msgstr ""
+
+#: vc/cws_vc_config.php:2272 vc/cws_vc_config.php:2515
+#: vc/cws_vc_config.php:2755 vc/theme_shortcodes/cws_sc_title_area.php:298
+msgid "Left Center"
+msgstr ""
+
+#: vc/cws_vc_config.php:2273
+msgid "Left Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2274
+msgid "Right Top"
+msgstr ""
+
+#: vc/cws_vc_config.php:2275 vc/cws_vc_config.php:2511
+#: vc/cws_vc_config.php:2751 vc/theme_shortcodes/cws_sc_title_area.php:294
+msgid "Right Center"
+msgstr ""
+
+#: vc/cws_vc_config.php:2276
+msgid "Right Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2277 vc/vc_extends/cws_vc_extends.php:188
+#: vc/vc_extends/cws_vc_extends.php:339 vc/vc_extends/cws_vc_extends.php:478
+#: vc/vc_extends/cws_vc_extends.php:617 vc/vc_extends/cws_vc_extends.php:734
+msgid "Center Top"
+msgstr ""
+
+#: vc/cws_vc_config.php:2278 vc/vc_extends/cws_vc_extends.php:189
+#: vc/vc_extends/cws_vc_extends.php:340 vc/vc_extends/cws_vc_extends.php:479
+#: vc/vc_extends/cws_vc_extends.php:618 vc/vc_extends/cws_vc_extends.php:735
+msgid "Center Center"
+msgstr ""
+
+#: vc/cws_vc_config.php:2279 vc/vc_extends/cws_vc_extends.php:190
+#: vc/vc_extends/cws_vc_extends.php:341 vc/vc_extends/cws_vc_extends.php:480
+#: vc/vc_extends/cws_vc_extends.php:619 vc/vc_extends/cws_vc_extends.php:736
+msgid "Center Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2296 vc/vc_extends/cws_vc_extends.php:222
+#: vc/vc_extends/cws_vc_extends.php:381 vc/vc_extends/cws_vc_extends.php:520
+#: vc/vc_extends/cws_vc_extends.php:659 vc/vc_extends/cws_vc_extends.php:762
+msgid "No Repeat"
+msgstr ""
+
+#: vc/cws_vc_config.php:2297 vc/vc_extends/cws_vc_extends.php:223
+#: vc/vc_extends/cws_vc_extends.php:382 vc/vc_extends/cws_vc_extends.php:521
+#: vc/vc_extends/cws_vc_extends.php:660
+msgid "Repeat"
+msgstr ""
+
+#: vc/cws_vc_config.php:2298 vc/vc_extends/cws_vc_extends.php:225
+#: vc/vc_extends/cws_vc_extends.php:384 vc/vc_extends/cws_vc_extends.php:523
+#: vc/vc_extends/cws_vc_extends.php:662 vc/vc_extends/cws_vc_extends.php:764
+msgid "Repeat X"
+msgstr ""
+
+#: vc/cws_vc_config.php:2299 vc/vc_extends/cws_vc_extends.php:224
+#: vc/vc_extends/cws_vc_extends.php:383 vc/vc_extends/cws_vc_extends.php:522
+#: vc/vc_extends/cws_vc_extends.php:661 vc/vc_extends/cws_vc_extends.php:763
+msgid "Repeat Y"
+msgstr ""
+
+#: vc/cws_vc_config.php:2307
+msgid "Layer Background Color"
+msgstr ""
+
+#: vc/cws_vc_config.php:2321
+msgid "Layer Margin"
+msgstr ""
+
+#: vc/cws_vc_config.php:2325
+msgid "1, 2( top/bottom, left/right ) or 4, space separated, values with units"
+msgstr ""
+
+#: vc/cws_vc_config.php:2337
+msgid "Layer Opacity"
+msgstr ""
+
+#: vc/cws_vc_config.php:2341
+msgid "100 = Visible, 0 = Transparent"
+msgstr ""
+
+#: vc/cws_vc_config.php:2359 vc/cws_vc_config.php:2372
+#: vc/cws_vc_config.php:2385
+msgid "Hide Layer"
+msgstr ""
+
+#: vc/cws_vc_config.php:2394 vc/cws_vc_config.php:2908
+msgid "Add Shadow"
+msgstr ""
+
+#: vc/cws_vc_config.php:2401 vc/cws_vc_config.php:2797
+msgid "Shadow Color"
+msgstr ""
+
+#: vc/cws_vc_config.php:2417
+msgid "Add particles"
+msgstr ""
+
+#: vc/cws_vc_config.php:2424
+msgid "Area Width (with unit)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2439
+msgid "Area Height (with unit)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2454
+msgid "Hide Particles on Choosen Resolution"
+msgstr ""
+
+#: vc/cws_vc_config.php:2469
+msgid "Particles Left Offset (with unit)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2484
+msgid "Particles Top Offset (with unit)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2499
+msgid "Particles Start Pos"
+msgstr ""
+
+#: vc/cws_vc_config.php:2508 vc/cws_vc_config.php:2748
+#: vc/theme_shortcodes/cws_sc_title_area.php:291
+msgid "Top Left"
+msgstr ""
+
+#: vc/cws_vc_config.php:2509 vc/cws_vc_config.php:2749
+#: vc/theme_shortcodes/cws_sc_title_area.php:292
+msgid "Top Center"
+msgstr ""
+
+#: vc/cws_vc_config.php:2510 vc/cws_vc_config.php:2750
+#: vc/theme_shortcodes/cws_sc_title_area.php:293
+msgid "Top Right"
+msgstr ""
+
+#: vc/cws_vc_config.php:2512 vc/cws_vc_config.php:2752
+#: vc/theme_shortcodes/cws_sc_title_area.php:295
+msgid "Bottom Right"
+msgstr ""
+
+#: vc/cws_vc_config.php:2513 vc/cws_vc_config.php:2753
+#: vc/theme_shortcodes/cws_sc_title_area.php:296
+msgid "Bottom Center"
+msgstr ""
+
+#: vc/cws_vc_config.php:2514 vc/cws_vc_config.php:2754
+#: vc/theme_shortcodes/cws_sc_title_area.php:297
+msgid "Bottom Left"
+msgstr ""
+
+#: vc/cws_vc_config.php:2523
+msgid "Particles Speed (0 to 10)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2538
+msgid "Particles Size"
+msgstr ""
+
+#: vc/cws_vc_config.php:2553
+msgid "Particles Count (1 to 500)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2568
+msgid "Particles Shape"
+msgstr ""
+
+#: vc/cws_vc_config.php:2578
+msgid "Square"
+msgstr ""
+
+#: vc/cws_vc_config.php:2579
+msgid "Hexagon"
+msgstr ""
+
+#: vc/cws_vc_config.php:2580 vc/cws_vc_config.php:2725
+#: vc/theme_shortcodes/cws_sc_tips.php:42
+#: vc/theme_shortcodes/cws_sc_tips.php:59
+msgid "Image"
+msgstr ""
+
+#: vc/cws_vc_config.php:2588
+msgid "Particles Mode"
+msgstr ""
+
+#: vc/cws_vc_config.php:2597
+msgid "Out"
+msgstr ""
+
+#: vc/cws_vc_config.php:2598
+msgid "Bounce"
+msgstr ""
+
+#: vc/cws_vc_config.php:2606
+msgid "Particles Move"
+msgstr ""
+
+#: vc/cws_vc_config.php:2615
+msgid "Random"
+msgstr ""
+
+#: vc/cws_vc_config.php:2616
+msgid "Left"
+msgstr ""
+
+#: vc/cws_vc_config.php:2617
+msgid "Right"
+msgstr ""
+
+#: vc/cws_vc_config.php:2618
+msgid "Top"
+msgstr ""
+
+#: vc/cws_vc_config.php:2619
+msgid "Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2633
+msgid "Particles Move Straight"
+msgstr ""
+
+#: vc/cws_vc_config.php:2646
+msgid "Particles Random Size"
+msgstr ""
+
+#: vc/cws_vc_config.php:2659
+msgid "Particles Random Opacity"
+msgstr ""
+
+#: vc/cws_vc_config.php:2672
+msgid "Particles Linked"
+msgstr ""
+
+#: vc/cws_vc_config.php:2679
+msgctxt "backend"
+msgid "Particle Images"
+msgstr ""
+
+#: vc/cws_vc_config.php:2680
+msgctxt "backend"
+msgid "Please use only square images and don`t use more than 4 images"
+msgstr ""
+
+#: vc/cws_vc_config.php:2690 vc/theme_shortcodes/cws_sc_gallery.php:72
+#: vc/theme_shortcodes/cws_sc_image.php:51
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:298
+#: vc/theme_shortcodes/cws_sc_service.php:1395
+msgctxt "backend"
+msgid "Image"
+msgstr ""
+
+#: vc/cws_vc_config.php:2701
+msgid "Particles Color (#HEX Only!)"
+msgstr ""
+
+#: vc/cws_vc_config.php:2717
+msgid "Mask usage is not recommended when particles or layers enabled."
+msgstr ""
+
+#: vc/cws_vc_config.php:2718
+msgid "Add SVG Mask"
+msgstr ""
+
+#: vc/cws_vc_config.php:2739 vc/theme_shortcodes/cws_sc_title_area.php:283
+msgid "Mask Start Pos"
+msgstr ""
+
+#: vc/cws_vc_config.php:2765
+msgid "Overflow hidden"
+msgstr ""
+
+#: vc/cws_vc_config.php:2772
+msgid "Row Z-Index"
+msgstr ""
+
+#: vc/cws_vc_config.php:2783
+msgid "Row Bottom Shift"
+msgstr ""
+
+#: vc/cws_vc_config.php:2807 vc/cws_vc_config.php:2918
+msgid "Animate on load"
+msgstr ""
+
+#: vc/cws_vc_config.php:2812 vc/cws_vc_config.php:2923
+msgid "Fade From Left"
+msgstr ""
+
+#: vc/cws_vc_config.php:2813 vc/cws_vc_config.php:2924
+msgid "Fade From Right"
+msgstr ""
+
+#: vc/cws_vc_config.php:2814 vc/cws_vc_config.php:2925
+msgid "Fade From Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2815 vc/cws_vc_config.php:2926
+msgid "Slide From Left"
+msgstr ""
+
+#: vc/cws_vc_config.php:2816 vc/cws_vc_config.php:2927
+msgid "Slide From Right"
+msgstr ""
+
+#: vc/cws_vc_config.php:2817 vc/cws_vc_config.php:2928
+msgid "Slide From Bottom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2825 vc/cws_vc_config.php:2936
+msgid "Duration"
+msgstr ""
+
+#: vc/cws_vc_config.php:2829 vc/cws_vc_config.php:2845
+#: vc/cws_vc_config.php:2940 vc/cws_vc_config.php:2956
+msgid "In milliseconds"
+msgstr ""
+
+#: vc/cws_vc_config.php:2841 vc/cws_vc_config.php:2952
+msgid "Delay"
+msgstr ""
+
+#: vc/cws_vc_config.php:2857 vc/cws_vc_config.php:2968
+msgid "Timing Function"
+msgstr ""
+
+#: vc/cws_vc_config.php:2866 vc/cws_vc_config.php:2977
+msgid "Ease"
+msgstr ""
+
+#: vc/cws_vc_config.php:2867 vc/cws_vc_config.php:2978
+msgid "Preconfigured Cubic-Bezier"
+msgstr ""
+
+#: vc/cws_vc_config.php:2868 vc/cws_vc_config.php:2979
+msgid "Ease in Out"
+msgstr ""
+
+#: vc/cws_vc_config.php:2870 vc/cws_vc_config.php:2981
+#: vc/vc_extends/cws_vc_extends.php:191 vc/vc_extends/cws_vc_extends.php:208
+#: vc/vc_extends/cws_vc_extends.php:342 vc/vc_extends/cws_vc_extends.php:363
+#: vc/vc_extends/cws_vc_extends.php:481 vc/vc_extends/cws_vc_extends.php:502
+#: vc/vc_extends/cws_vc_extends.php:620 vc/vc_extends/cws_vc_extends.php:641
+#: vc/vc_extends/cws_vc_extends.php:737 vc/vc_extends/cws_vc_extends.php:751
+msgid "Custom"
+msgstr ""
+
+#: vc/cws_vc_config.php:2878 vc/cws_vc_config.php:2989
+msgid "Custom Timing Function"
+msgstr ""
+
+#: vc/cws_vc_config.php:2881 vc/cws_vc_config.php:2992
+msgid "Enter transition timing function"
+msgstr ""
+
+#: vc/cws_vc_config.php:2895 vc/cws_vc_config.php:3006
+msgid "If this column have`t content, use \"padding-top\" or \"padding-bottom\" properties for set the column height"
+msgstr ""
+
+#: vc/cws_vc_config.php:2896 vc/cws_vc_config.php:3007
+msgid "Put this column on first place"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:11
+#: vc/theme_shortcodes/cws_sc_blog.php:8
+#: vc/theme_shortcodes/cws_sc_milestone.php:124
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:7
+#: vc/theme_shortcodes/cws_sc_service.php:561
+#: vc/theme_shortcodes/cws_sc_text.php:10
+msgctxt "backend"
+msgid "Show Title Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:13
+#: vc/theme_shortcodes/cws_sc_banners.php:19
+#: vc/theme_shortcodes/cws_sc_banners.php:32
+#: vc/theme_shortcodes/cws_sc_banners.php:45
+#: vc/theme_shortcodes/cws_sc_banners.php:63
+#: vc/theme_shortcodes/cws_sc_banners.php:71
+#: vc/theme_shortcodes/cws_sc_banners.php:80
+#: vc/theme_shortcodes/cws_sc_banners.php:86
+#: vc/theme_shortcodes/cws_sc_banners.php:99
+#: vc/theme_shortcodes/cws_sc_banners.php:112
+#: vc/theme_shortcodes/cws_sc_banners.php:130
+#: vc/theme_shortcodes/cws_sc_banners.php:138
+#: vc/theme_shortcodes/cws_sc_banners.php:146
+#: vc/theme_shortcodes/cws_sc_banners.php:164
+#: vc/theme_shortcodes/cws_sc_banners.php:176
+#: vc/theme_shortcodes/cws_sc_banners.php:188
+#: vc/theme_shortcodes/cws_sc_banners.php:200
+#: vc/theme_shortcodes/cws_sc_banners.php:212
+#: vc/theme_shortcodes/cws_sc_banners.php:223
+#: vc/theme_shortcodes/cws_sc_banners.php:229
+#: vc/theme_shortcodes/cws_sc_banners.php:237
+#: vc/theme_shortcodes/cws_sc_banners.php:244
+#: vc/theme_shortcodes/cws_sc_banners.php:254
+#: vc/theme_shortcodes/cws_sc_banners.php:260
+#: vc/theme_shortcodes/cws_sc_banners.php:268
+#: vc/theme_shortcodes/cws_sc_banners.php:278
+#: vc/theme_shortcodes/cws_sc_banners.php:286
+#: vc/theme_shortcodes/cws_sc_banners.php:303
+#: vc/theme_shortcodes/cws_sc_blog.php:10
+#: vc/theme_shortcodes/cws_sc_blog.php:24
+#: vc/theme_shortcodes/cws_sc_blog.php:37
+#: vc/theme_shortcodes/cws_sc_blog.php:50
+#: vc/theme_shortcodes/cws_sc_blog.php:62
+#: vc/theme_shortcodes/cws_sc_blog.php:74
+#: vc/theme_shortcodes/cws_sc_blog.php:80
+#: vc/theme_shortcodes/cws_sc_blog.php:87
+#: vc/theme_shortcodes/cws_sc_blog.php:100
+#: vc/theme_shortcodes/cws_sc_blog.php:112
+#: vc/theme_shortcodes/cws_sc_blog.php:124
+#: vc/theme_shortcodes/cws_sc_blog.php:136
+#: vc/theme_shortcodes/cws_sc_blog.php:141
+#: vc/theme_shortcodes/cws_sc_blog.php:149
+#: vc/theme_shortcodes/cws_sc_blog.php:163
+#: vc/theme_shortcodes/cws_sc_blog.php:173
+#: vc/theme_shortcodes/cws_sc_blog.php:189
+#: vc/theme_shortcodes/cws_sc_blog.php:202
+#: vc/theme_shortcodes/cws_sc_blog.php:214
+#: vc/theme_shortcodes/cws_sc_blog.php:226
+#: vc/theme_shortcodes/cws_sc_blog.php:238
+#: vc/theme_shortcodes/cws_sc_blog.php:244
+#: vc/theme_shortcodes/cws_sc_blog.php:252
+#: vc/theme_shortcodes/cws_sc_blog.php:266
+#: vc/theme_shortcodes/cws_sc_blog.php:279
+#: vc/theme_shortcodes/cws_sc_blog.php:292
+#: vc/theme_shortcodes/cws_sc_blog.php:304
+#: vc/theme_shortcodes/cws_sc_blog.php:316
+#: vc/theme_shortcodes/cws_sc_blog.php:328
+#: vc/theme_shortcodes/cws_sc_blog.php:334
+#: vc/theme_shortcodes/cws_sc_blog.php:342
+#: vc/theme_shortcodes/cws_sc_blog.php:356
+#: vc/theme_shortcodes/cws_sc_blog.php:369
+#: vc/theme_shortcodes/cws_sc_blog.php:382
+#: vc/theme_shortcodes/cws_sc_blog.php:394
+#: vc/theme_shortcodes/cws_sc_blog.php:406
+#: vc/theme_shortcodes/cws_sc_blog.php:412
+#: vc/theme_shortcodes/cws_sc_blog.php:420
+#: vc/theme_shortcodes/cws_sc_blog.php:434
+#: vc/theme_shortcodes/cws_sc_blog.php:446
+#: vc/theme_shortcodes/cws_sc_blog.php:458
+#: vc/theme_shortcodes/cws_sc_blog.php:470
+#: vc/theme_shortcodes/cws_sc_blog.php:482
+#: vc/theme_shortcodes/cws_sc_blog.php:488
+#: vc/theme_shortcodes/cws_sc_blog.php:495
+#: vc/theme_shortcodes/cws_sc_blog.php:512
+#: vc/theme_shortcodes/cws_sc_blog.php:524
+#: vc/theme_shortcodes/cws_sc_blog.php:536
+#: vc/theme_shortcodes/cws_sc_blog.php:548
+#: vc/theme_shortcodes/cws_sc_blog.php:560
+#: vc/theme_shortcodes/cws_sc_blog.php:572
+#: vc/theme_shortcodes/cws_sc_blog.php:588
+#: vc/theme_shortcodes/cws_sc_blog.php:600
+#: vc/theme_shortcodes/cws_sc_blog.php:612
+#: vc/theme_shortcodes/cws_sc_blog.php:624
+#: vc/theme_shortcodes/cws_sc_blog.php:636
+#: vc/theme_shortcodes/cws_sc_blog.php:648
+#: vc/theme_shortcodes/cws_sc_blog.php:664
+#: vc/theme_shortcodes/cws_sc_blog.php:677
+#: vc/theme_shortcodes/cws_sc_blog.php:689
+#: vc/theme_shortcodes/cws_sc_blog.php:701
+#: vc/theme_shortcodes/cws_sc_blog.php:713
+#: vc/theme_shortcodes/cws_sc_blog.php:725
+#: vc/theme_shortcodes/cws_sc_blog.php:735
+#: vc/theme_shortcodes/cws_sc_blog.php:742
+#: vc/theme_shortcodes/cws_sc_blog.php:754
+#: vc/theme_shortcodes/cws_sc_blog.php:766
+#: vc/theme_shortcodes/cws_sc_blog.php:773
+#: vc/theme_shortcodes/cws_sc_blog.php:779
+#: vc/theme_shortcodes/cws_sc_blog.php:796
+#: vc/theme_shortcodes/cws_sc_blog.php:801
+#: vc/theme_shortcodes/cws_sc_blog.php:818
+#: vc/theme_shortcodes/cws_sc_blog.php:830
+#: vc/theme_shortcodes/cws_sc_blog.php:842
+#: vc/theme_shortcodes/cws_sc_blog.php:854
+#: vc/theme_shortcodes/cws_sc_blog.php:866
+#: vc/theme_shortcodes/cws_sc_blog.php:878
+#: vc/theme_shortcodes/cws_sc_blog.php:890
+#: vc/theme_shortcodes/cws_sc_blog.php:902
+#: vc/theme_shortcodes/cws_sc_blog.php:914
+#: vc/theme_shortcodes/cws_sc_blog.php:926
+#: vc/theme_shortcodes/cws_sc_blog.php:933
+#: vc/theme_shortcodes/cws_sc_blog.php:949
+#: vc/theme_shortcodes/cws_sc_blog.php:955
+#: vc/theme_shortcodes/cws_sc_blog.php:961
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:7
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:13
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:21
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:38
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:46
+#: vc/theme_shortcodes/cws_sc_button.php:10
+#: vc/theme_shortcodes/cws_sc_button.php:16
+#: vc/theme_shortcodes/cws_sc_button.php:25
+#: vc/theme_shortcodes/cws_sc_carousel.php:7
+#: vc/theme_shortcodes/cws_sc_carousel.php:13
+#: vc/theme_shortcodes/cws_sc_carousel.php:22
+#: vc/theme_shortcodes/cws_sc_carousel.php:34
+#: vc/theme_shortcodes/cws_sc_carousel.php:46
+#: vc/theme_shortcodes/cws_sc_carousel.php:58
+#: vc/theme_shortcodes/cws_sc_divider.php:7
+#: vc/theme_shortcodes/cws_sc_gallery.php:7
+#: vc/theme_shortcodes/cws_sc_gallery.php:14
+#: vc/theme_shortcodes/cws_sc_gallery.php:22
+#: vc/theme_shortcodes/cws_sc_gallery.php:30
+#: vc/theme_shortcodes/cws_sc_gallery.php:38
+#: vc/theme_shortcodes/cws_sc_icon.php:13
+#: vc/theme_shortcodes/cws_sc_icon.php:30
+#: vc/theme_shortcodes/cws_sc_icon.php:36
+#: vc/theme_shortcodes/cws_sc_icon.php:49
+#: vc/theme_shortcodes/cws_sc_icon.php:65
+#: vc/theme_shortcodes/cws_sc_icon.php:77
+#: vc/theme_shortcodes/cws_sc_icon.php:89
+#: vc/theme_shortcodes/cws_sc_icon.php:101
+#: vc/theme_shortcodes/cws_sc_icon.php:113
+#: vc/theme_shortcodes/cws_sc_icon.php:125
+#: vc/theme_shortcodes/cws_sc_icon.php:141
+#: vc/theme_shortcodes/cws_sc_icon.php:153
+#: vc/theme_shortcodes/cws_sc_icon.php:165
+#: vc/theme_shortcodes/cws_sc_icon.php:177
+#: vc/theme_shortcodes/cws_sc_icon.php:189
+#: vc/theme_shortcodes/cws_sc_icon.php:201
+#: vc/theme_shortcodes/cws_sc_icon.php:207
+#: vc/theme_shortcodes/cws_sc_icon.php:213
+#: vc/theme_shortcodes/cws_sc_icon.php:221
+#: vc/theme_shortcodes/cws_sc_icon.php:240
+#: vc/theme_shortcodes/cws_sc_icon.php:246
+#: vc/theme_shortcodes/cws_sc_icon_list.php:20
+#: vc/theme_shortcodes/cws_sc_icon_list.php:26
+#: vc/theme_shortcodes/cws_sc_icon_list.php:34
+#: vc/theme_shortcodes/cws_sc_icon_list.php:50
+#: vc/theme_shortcodes/cws_sc_icon_list.php:59
+#: vc/theme_shortcodes/cws_sc_icon_list.php:72
+#: vc/theme_shortcodes/cws_sc_icon_list.php:85
+#: vc/theme_shortcodes/cws_sc_icon_list.php:100
+#: vc/theme_shortcodes/cws_sc_icon_list.php:108
+#: vc/theme_shortcodes/cws_sc_icon_list.php:116
+#: vc/theme_shortcodes/cws_sc_icon_list.php:128
+#: vc/theme_shortcodes/cws_sc_icon_list.php:140
+#: vc/theme_shortcodes/cws_sc_icon_list.php:148
+#: vc/theme_shortcodes/cws_sc_image.php:8
+#: vc/theme_shortcodes/cws_sc_image.php:14
+#: vc/theme_shortcodes/cws_sc_image.php:22
+#: vc/theme_shortcodes/cws_sc_info_box.php:7
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:10
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:18
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:26
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:34
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:42
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:50
+#: vc/theme_shortcodes/cws_sc_logo.php:7 vc/theme_shortcodes/cws_sc_logo.php:13
+#: vc/theme_shortcodes/cws_sc_logo.php:21
+#: vc/theme_shortcodes/cws_sc_menu.php:17
+#: vc/theme_shortcodes/cws_sc_menu.php:25
+#: vc/theme_shortcodes/cws_sc_menu.php:32
+#: vc/theme_shortcodes/cws_sc_menu.php:40
+#: vc/theme_shortcodes/cws_sc_menu.php:58
+#: vc/theme_shortcodes/cws_sc_menu.php:66
+#: vc/theme_shortcodes/cws_sc_menu.php:74
+#: vc/theme_shortcodes/cws_sc_menu.php:82
+#: vc/theme_shortcodes/cws_sc_milestone.php:9
+#: vc/theme_shortcodes/cws_sc_milestone.php:23
+#: vc/theme_shortcodes/cws_sc_milestone.php:36
+#: vc/theme_shortcodes/cws_sc_milestone.php:52
+#: vc/theme_shortcodes/cws_sc_milestone.php:64
+#: vc/theme_shortcodes/cws_sc_milestone.php:76
+#: vc/theme_shortcodes/cws_sc_milestone.php:88
+#: vc/theme_shortcodes/cws_sc_milestone.php:100
+#: vc/theme_shortcodes/cws_sc_milestone.php:112
+#: vc/theme_shortcodes/cws_sc_milestone.php:118
+#: vc/theme_shortcodes/cws_sc_milestone.php:126
+#: vc/theme_shortcodes/cws_sc_milestone.php:148
+#: vc/theme_shortcodes/cws_sc_milestone.php:161
+#: vc/theme_shortcodes/cws_sc_milestone.php:174
+#: vc/theme_shortcodes/cws_sc_milestone.php:187
+#: vc/theme_shortcodes/cws_sc_milestone.php:203
+#: vc/theme_shortcodes/cws_sc_milestone.php:215
+#: vc/theme_shortcodes/cws_sc_milestone.php:227
+#: vc/theme_shortcodes/cws_sc_milestone.php:239
+#: vc/theme_shortcodes/cws_sc_milestone.php:251
+#: vc/theme_shortcodes/cws_sc_milestone.php:263
+#: vc/theme_shortcodes/cws_sc_milestone.php:269
+#: vc/theme_shortcodes/cws_sc_milestone.php:277
+#: vc/theme_shortcodes/cws_sc_milestone.php:291
+#: vc/theme_shortcodes/cws_sc_milestone.php:304
+#: vc/theme_shortcodes/cws_sc_milestone.php:317
+#: vc/theme_shortcodes/cws_sc_milestone.php:329
+#: vc/theme_shortcodes/cws_sc_milestone.php:341
+#: vc/theme_shortcodes/cws_sc_milestone.php:353
+#: vc/theme_shortcodes/cws_sc_milestone.php:359
+#: vc/theme_shortcodes/cws_sc_milestone.php:366
+#: vc/theme_shortcodes/cws_sc_milestone.php:383
+#: vc/theme_shortcodes/cws_sc_milestone.php:395
+#: vc/theme_shortcodes/cws_sc_milestone.php:407
+#: vc/theme_shortcodes/cws_sc_milestone.php:419
+#: vc/theme_shortcodes/cws_sc_milestone.php:431
+#: vc/theme_shortcodes/cws_sc_milestone.php:443
+#: vc/theme_shortcodes/cws_sc_milestone.php:453
+#: vc/theme_shortcodes/cws_sc_milestone.php:459
+#: vc/theme_shortcodes/cws_sc_milestone.php:471
+#: vc/theme_shortcodes/cws_sc_milestone.php:477
+#: vc/theme_shortcodes/cws_sc_milestone.php:489
+#: vc/theme_shortcodes/cws_sc_milestone.php:508
+#: vc/theme_shortcodes/cws_sc_milestone.php:514
+#: vc/theme_shortcodes/cws_sc_our_team.php:7
+#: vc/theme_shortcodes/cws_sc_our_team.php:14
+#: vc/theme_shortcodes/cws_sc_our_team.php:22
+#: vc/theme_shortcodes/cws_sc_our_team.php:34
+#: vc/theme_shortcodes/cws_sc_our_team.php:46
+#: vc/theme_shortcodes/cws_sc_our_team.php:58
+#: vc/theme_shortcodes/cws_sc_our_team.php:70
+#: vc/theme_shortcodes/cws_sc_our_team.php:82
+#: vc/theme_shortcodes/cws_sc_our_team.php:94
+#: vc/theme_shortcodes/cws_sc_our_team.php:106
+#: vc/theme_shortcodes/cws_sc_popup_video.php:10
+#: vc/theme_shortcodes/cws_sc_popup_video.php:16
+#: vc/theme_shortcodes/cws_sc_popup_video.php:25
+#: vc/theme_shortcodes/cws_sc_popup_video.php:38
+#: vc/theme_shortcodes/cws_sc_popup_video.php:51
+#: vc/theme_shortcodes/cws_sc_popup_video.php:59
+#: vc/theme_shortcodes/cws_sc_popup_video.php:67
+#: vc/theme_shortcodes/cws_sc_popup_video.php:75
+#: vc/theme_shortcodes/cws_sc_portfolio.php:7
+#: vc/theme_shortcodes/cws_sc_portfolio.php:14
+#: vc/theme_shortcodes/cws_sc_portfolio.php:22
+#: vc/theme_shortcodes/cws_sc_portfolio.php:30
+#: vc/theme_shortcodes/cws_sc_portfolio.php:38
+#: vc/theme_shortcodes/cws_sc_portfolio.php:46
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:7
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:13
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:21
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:33
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:45
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:58
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:70
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:82
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:94
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:106
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:118
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:130
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:142
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:154
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:166
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:179
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:191
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:203
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:215
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:228
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:240
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:8
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:21
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:26
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:33
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:46
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:51
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:58
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:75
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:87
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:99
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:111
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:123
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:128
+#: vc/theme_shortcodes/cws_sc_roadmap.php:7
+#: vc/theme_shortcodes/cws_sc_roadmap.php:13
+#: vc/theme_shortcodes/cws_sc_roadmap.php:22
+#: vc/theme_shortcodes/cws_sc_roadmap.php:35
+#: vc/theme_shortcodes/cws_sc_roadmap.php:48
+#: vc/theme_shortcodes/cws_sc_roadmap.php:61
+#: vc/theme_shortcodes/cws_sc_roadmap.php:69
+#: vc/theme_shortcodes/cws_sc_roadmap.php:77
+#: vc/theme_shortcodes/cws_sc_roadmap.php:85
+#: vc/theme_shortcodes/cws_sc_roadmap.php:93
+#: vc/theme_shortcodes/cws_sc_roadmap.php:101
+#: vc/theme_shortcodes/cws_sc_roadmap.php:109
+#: vc/theme_shortcodes/cws_sc_roadmap.php:117
+#: vc/theme_shortcodes/cws_sc_roadmap.php:125
+#: vc/theme_shortcodes/cws_sc_roadmap.php:133
+#: vc/theme_shortcodes/cws_sc_roadmap.php:141
+#: vc/theme_shortcodes/cws_sc_roadmap.php:149
+#: vc/theme_shortcodes/cws_sc_service.php:12
+#: vc/theme_shortcodes/cws_sc_service.php:31
+#: vc/theme_shortcodes/cws_sc_service.php:50
+#: vc/theme_shortcodes/cws_sc_service.php:56
+#: vc/theme_shortcodes/cws_sc_service.php:69
+#: vc/theme_shortcodes/cws_sc_service.php:82
+#: vc/theme_shortcodes/cws_sc_service.php:98
+#: vc/theme_shortcodes/cws_sc_service.php:110
+#: vc/theme_shortcodes/cws_sc_service.php:122
+#: vc/theme_shortcodes/cws_sc_service.php:134
+#: vc/theme_shortcodes/cws_sc_service.php:146
+#: vc/theme_shortcodes/cws_sc_service.php:158
+#: vc/theme_shortcodes/cws_sc_service.php:174
+#: vc/theme_shortcodes/cws_sc_service.php:186
+#: vc/theme_shortcodes/cws_sc_service.php:198
+#: vc/theme_shortcodes/cws_sc_service.php:210
+#: vc/theme_shortcodes/cws_sc_service.php:222
+#: vc/theme_shortcodes/cws_sc_service.php:234
+#: vc/theme_shortcodes/cws_sc_service.php:250
+#: vc/theme_shortcodes/cws_sc_service.php:262
+#: vc/theme_shortcodes/cws_sc_service.php:274
+#: vc/theme_shortcodes/cws_sc_service.php:286
+#: vc/theme_shortcodes/cws_sc_service.php:298
+#: vc/theme_shortcodes/cws_sc_service.php:310
+#: vc/theme_shortcodes/cws_sc_service.php:316
+#: vc/theme_shortcodes/cws_sc_service.php:337
+#: vc/theme_shortcodes/cws_sc_service.php:349
+#: vc/theme_shortcodes/cws_sc_service.php:361
+#: vc/theme_shortcodes/cws_sc_service.php:373
+#: vc/theme_shortcodes/cws_sc_service.php:385
+#: vc/theme_shortcodes/cws_sc_service.php:397
+#: vc/theme_shortcodes/cws_sc_service.php:413
+#: vc/theme_shortcodes/cws_sc_service.php:425
+#: vc/theme_shortcodes/cws_sc_service.php:437
+#: vc/theme_shortcodes/cws_sc_service.php:449
+#: vc/theme_shortcodes/cws_sc_service.php:461
+#: vc/theme_shortcodes/cws_sc_service.php:473
+#: vc/theme_shortcodes/cws_sc_service.php:489
+#: vc/theme_shortcodes/cws_sc_service.php:501
+#: vc/theme_shortcodes/cws_sc_service.php:513
+#: vc/theme_shortcodes/cws_sc_service.php:525
+#: vc/theme_shortcodes/cws_sc_service.php:537
+#: vc/theme_shortcodes/cws_sc_service.php:549
+#: vc/theme_shortcodes/cws_sc_service.php:555
+#: vc/theme_shortcodes/cws_sc_service.php:563
+#: vc/theme_shortcodes/cws_sc_service.php:584
+#: vc/theme_shortcodes/cws_sc_service.php:597
+#: vc/theme_shortcodes/cws_sc_service.php:610
+#: vc/theme_shortcodes/cws_sc_service.php:623
+#: vc/theme_shortcodes/cws_sc_service.php:639
+#: vc/theme_shortcodes/cws_sc_service.php:651
+#: vc/theme_shortcodes/cws_sc_service.php:663
+#: vc/theme_shortcodes/cws_sc_service.php:675
+#: vc/theme_shortcodes/cws_sc_service.php:687
+#: vc/theme_shortcodes/cws_sc_service.php:699
+#: vc/theme_shortcodes/cws_sc_service.php:705
+#: vc/theme_shortcodes/cws_sc_service.php:726
+#: vc/theme_shortcodes/cws_sc_service.php:738
+#: vc/theme_shortcodes/cws_sc_service.php:750
+#: vc/theme_shortcodes/cws_sc_service.php:762
+#: vc/theme_shortcodes/cws_sc_service.php:774
+#: vc/theme_shortcodes/cws_sc_service.php:786
+#: vc/theme_shortcodes/cws_sc_service.php:792
+#: vc/theme_shortcodes/cws_sc_service.php:800
+#: vc/theme_shortcodes/cws_sc_service.php:814
+#: vc/theme_shortcodes/cws_sc_service.php:824
+#: vc/theme_shortcodes/cws_sc_service.php:840
+#: vc/theme_shortcodes/cws_sc_service.php:852
+#: vc/theme_shortcodes/cws_sc_service.php:864
+#: vc/theme_shortcodes/cws_sc_service.php:876
+#: vc/theme_shortcodes/cws_sc_service.php:888
+#: vc/theme_shortcodes/cws_sc_service.php:894
+#: vc/theme_shortcodes/cws_sc_service.php:914
+#: vc/theme_shortcodes/cws_sc_service.php:926
+#: vc/theme_shortcodes/cws_sc_service.php:938
+#: vc/theme_shortcodes/cws_sc_service.php:950
+#: vc/theme_shortcodes/cws_sc_service.php:962
+#: vc/theme_shortcodes/cws_sc_service.php:968
+#: vc/theme_shortcodes/cws_sc_service.php:976
+#: vc/theme_shortcodes/cws_sc_service.php:990
+#: vc/theme_shortcodes/cws_sc_service.php:1003
+#: vc/theme_shortcodes/cws_sc_service.php:1016
+#: vc/theme_shortcodes/cws_sc_service.php:1028
+#: vc/theme_shortcodes/cws_sc_service.php:1040
+#: vc/theme_shortcodes/cws_sc_service.php:1052
+#: vc/theme_shortcodes/cws_sc_service.php:1058
+#: vc/theme_shortcodes/cws_sc_service.php:1075
+#: vc/theme_shortcodes/cws_sc_service.php:1087
+#: vc/theme_shortcodes/cws_sc_service.php:1099
+#: vc/theme_shortcodes/cws_sc_service.php:1105
+#: vc/theme_shortcodes/cws_sc_service.php:1112
+#: vc/theme_shortcodes/cws_sc_service.php:1129
+#: vc/theme_shortcodes/cws_sc_service.php:1141
+#: vc/theme_shortcodes/cws_sc_service.php:1153
+#: vc/theme_shortcodes/cws_sc_service.php:1165
+#: vc/theme_shortcodes/cws_sc_service.php:1177
+#: vc/theme_shortcodes/cws_sc_service.php:1189
+#: vc/theme_shortcodes/cws_sc_service.php:1195
+#: vc/theme_shortcodes/cws_sc_service.php:1216
+#: vc/theme_shortcodes/cws_sc_service.php:1228
+#: vc/theme_shortcodes/cws_sc_service.php:1240
+#: vc/theme_shortcodes/cws_sc_service.php:1252
+#: vc/theme_shortcodes/cws_sc_service.php:1264
+#: vc/theme_shortcodes/cws_sc_service.php:1276
+#: vc/theme_shortcodes/cws_sc_service.php:1282
+#: vc/theme_shortcodes/cws_sc_service.php:1301
+#: vc/theme_shortcodes/cws_sc_service.php:1307
+#: vc/theme_shortcodes/cws_sc_service.php:1319
+#: vc/theme_shortcodes/cws_sc_service.php:1331
+#: vc/theme_shortcodes/cws_sc_service.php:1337
+#: vc/theme_shortcodes/cws_sc_service.php:1349
+#: vc/theme_shortcodes/cws_sc_service.php:1368
+#: vc/theme_shortcodes/cws_sc_service.php:1374
+#: vc/theme_shortcodes/cws_sc_testimonials.php:10
+#: vc/theme_shortcodes/cws_sc_testimonials.php:28
+#: vc/theme_shortcodes/cws_sc_testimonials.php:40
+#: vc/theme_shortcodes/cws_sc_testimonials.php:52
+#: vc/theme_shortcodes/cws_sc_testimonials.php:64
+#: vc/theme_shortcodes/cws_sc_testimonials.php:76
+#: vc/theme_shortcodes/cws_sc_testimonials.php:87
+#: vc/theme_shortcodes/cws_sc_testimonials.php:93
+#: vc/theme_shortcodes/cws_sc_testimonials.php:101
+#: vc/theme_shortcodes/cws_sc_testimonials.php:108
+#: vc/theme_shortcodes/cws_sc_testimonials.php:121
+#: vc/theme_shortcodes/cws_sc_testimonials.php:139
+#: vc/theme_shortcodes/cws_sc_testimonials.php:147
+#: vc/theme_shortcodes/cws_sc_testimonials.php:155
+#: vc/theme_shortcodes/cws_sc_testimonials.php:162
+#: vc/theme_shortcodes/cws_sc_testimonials.php:175
+#: vc/theme_shortcodes/cws_sc_testimonials.php:193
+#: vc/theme_shortcodes/cws_sc_testimonials.php:201
+#: vc/theme_shortcodes/cws_sc_testimonials.php:209
+#: vc/theme_shortcodes/cws_sc_testimonials.php:216
+#: vc/theme_shortcodes/cws_sc_testimonials.php:229
+#: vc/theme_shortcodes/cws_sc_testimonials.php:247
+#: vc/theme_shortcodes/cws_sc_testimonials.php:255
+#: vc/theme_shortcodes/cws_sc_testimonials.php:263
+#: vc/theme_shortcodes/cws_sc_testimonials.php:282
+#: vc/theme_shortcodes/cws_sc_testimonials.php:294
+#: vc/theme_shortcodes/cws_sc_testimonials.php:306
+#: vc/theme_shortcodes/cws_sc_testimonials.php:318
+#: vc/theme_shortcodes/cws_sc_testimonials.php:330
+#: vc/theme_shortcodes/cws_sc_testimonials.php:341
+#: vc/theme_shortcodes/cws_sc_testimonials.php:347
+#: vc/theme_shortcodes/cws_sc_testimonials.php:354
+#: vc/theme_shortcodes/cws_sc_text.php:12
+#: vc/theme_shortcodes/cws_sc_text.php:33
+#: vc/theme_shortcodes/cws_sc_text.php:46
+#: vc/theme_shortcodes/cws_sc_text.php:59
+#: vc/theme_shortcodes/cws_sc_text.php:72
+#: vc/theme_shortcodes/cws_sc_text.php:88
+#: vc/theme_shortcodes/cws_sc_text.php:100
+#: vc/theme_shortcodes/cws_sc_text.php:112
+#: vc/theme_shortcodes/cws_sc_text.php:124
+#: vc/theme_shortcodes/cws_sc_text.php:136
+#: vc/theme_shortcodes/cws_sc_text.php:148
+#: vc/theme_shortcodes/cws_sc_text.php:154
+#: vc/theme_shortcodes/cws_sc_text.php:162
+#: vc/theme_shortcodes/cws_sc_text.php:176
+#: vc/theme_shortcodes/cws_sc_text.php:186
+#: vc/theme_shortcodes/cws_sc_text.php:201
+#: vc/theme_shortcodes/cws_sc_text.php:213
+#: vc/theme_shortcodes/cws_sc_text.php:225
+#: vc/theme_shortcodes/cws_sc_text.php:237
+#: vc/theme_shortcodes/cws_sc_text.php:243
+#: vc/theme_shortcodes/cws_sc_text.php:251
+#: vc/theme_shortcodes/cws_sc_text.php:265
+#: vc/theme_shortcodes/cws_sc_text.php:278
+#: vc/theme_shortcodes/cws_sc_text.php:290
+#: vc/theme_shortcodes/cws_sc_text.php:306
+#: vc/theme_shortcodes/cws_sc_text.php:318
+#: vc/theme_shortcodes/cws_sc_text.php:330
+#: vc/theme_shortcodes/cws_sc_text.php:342
+#: vc/theme_shortcodes/cws_sc_text.php:354
+#: vc/theme_shortcodes/cws_sc_text.php:366
+#: vc/theme_shortcodes/cws_sc_text.php:372
+#: vc/theme_shortcodes/cws_sc_text.php:380
+#: vc/theme_shortcodes/cws_sc_text.php:394
+#: vc/theme_shortcodes/cws_sc_text.php:406
+#: vc/theme_shortcodes/cws_sc_text.php:418
+#: vc/theme_shortcodes/cws_sc_text.php:430
+#: vc/theme_shortcodes/cws_sc_text.php:436
+#: vc/theme_shortcodes/cws_sc_text.php:442
+#: vc/theme_shortcodes/cws_sc_text.php:450
+#: vc/theme_shortcodes/cws_sc_text.php:468
+#: vc/theme_shortcodes/cws_sc_text.php:474
+#: vc/theme_shortcodes/cws_sc_title_area.php:7
+#: vc/theme_shortcodes/cws_sc_title_area.php:13
+#: vc/theme_shortcodes/cws_sc_title_area.php:24
+#: vc/theme_shortcodes/cws_sc_title_area.php:42
+#: vc/theme_shortcodes/cws_sc_title_area.php:54
+#: vc/theme_shortcodes/cws_sc_title_area.php:66
+#: vc/theme_shortcodes/cws_sc_title_area.php:78
+#: vc/theme_shortcodes/cws_sc_title_area.php:90
+#: vc/theme_shortcodes/cws_sc_title_area.php:102
+#: vc/theme_shortcodes/cws_sc_title_area.php:109
+#: vc/theme_shortcodes/cws_sc_title_area.php:121
+#: vc/theme_shortcodes/cws_sc_title_area.php:133
+#: vc/theme_shortcodes/cws_sc_title_area.php:145
+#: vc/theme_shortcodes/cws_sc_title_area.php:157
+#: vc/theme_shortcodes/cws_sc_title_area.php:169
+#: vc/theme_shortcodes/cws_sc_title_area.php:182
+#: vc/theme_shortcodes/cws_sc_title_area.php:191
+#: vc/theme_shortcodes/cws_sc_title_area.php:204
+#: vc/theme_shortcodes/cws_sc_title_area.php:217
+#: vc/theme_shortcodes/cws_sc_title_area.php:230
+#: vc/theme_shortcodes/cws_sc_title_area.php:243
+#: vc/vc_extends/cws_vc_extends.php:989 vc/vc_extends/cws_vc_extends.php:991
+msgctxt "backend"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:18
+#: vc/theme_shortcodes/cws_sc_blog.php:15
+#: vc/theme_shortcodes/cws_sc_icon_list.php:70
+#: vc/theme_shortcodes/cws_sc_milestone.php:152
+#: vc/theme_shortcodes/cws_sc_popup_video.php:36
+#: vc/theme_shortcodes/cws_sc_roadmap.php:20
+#: vc/theme_shortcodes/cws_sc_service.php:588
+#: vc/theme_shortcodes/cws_sc_text.php:37
+#: vc/theme_shortcodes/cws_sc_title_area.php:189
+msgctxt "backend"
+msgid "Title Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:31
+#: vc/theme_shortcodes/cws_sc_blog.php:28
+#: vc/theme_shortcodes/cws_sc_milestone.php:165
+#: vc/theme_shortcodes/cws_sc_service.php:601
+#: vc/theme_shortcodes/cws_sc_text.php:50
+msgctxt "backend"
+msgid "Title Line Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:44
+#: vc/theme_shortcodes/cws_sc_text.php:63
+msgctxt "backend"
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:57
+msgctxt "backend"
+msgid "Title color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:78
+msgctxt "backend"
+msgid "Show Description Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:85
+msgctxt "backend"
+msgid "Text size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:98
+#: vc/theme_shortcodes/cws_sc_testimonials.php:228
+msgctxt "backend"
+msgid "Text Line Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:111
+msgctxt "backend"
+msgid "Text Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:124
+#: vc/theme_shortcodes/cws_sc_testimonials.php:241
+msgctxt "backend"
+msgid "Text color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:145
+msgctxt "backend"
+msgid "Show Overlay Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:151
+#: vc/theme_shortcodes/cws_sc_title_area.php:30
+msgctxt "backend"
+msgid "Overlay color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:154
+#: vc/theme_shortcodes/cws_sc_banners.php:369
+#: vc/theme_shortcodes/cws_sc_banners.php:432
+#: vc/theme_shortcodes/cws_sc_banners.php:509
+#: vc/theme_shortcodes/cws_sc_blog.php:180
+#: vc/theme_shortcodes/cws_sc_blog.php:503
+#: vc/theme_shortcodes/cws_sc_blog.php:579
+#: vc/theme_shortcodes/cws_sc_blog.php:655
+#: vc/theme_shortcodes/cws_sc_blog.php:804
+#: vc/theme_shortcodes/cws_sc_blog.php:1085
+#: vc/theme_shortcodes/cws_sc_blog.php:1149
+#: vc/theme_shortcodes/cws_sc_blog.php:1226
+#: vc/theme_shortcodes/cws_sc_button.php:83
+#: vc/theme_shortcodes/cws_sc_button.php:124
+#: vc/theme_shortcodes/cws_sc_button.php:196
+#: vc/theme_shortcodes/cws_sc_divider.php:27
+#: vc/theme_shortcodes/cws_sc_icon.php:56
+#: vc/theme_shortcodes/cws_sc_icon.php:132
+#: vc/theme_shortcodes/cws_sc_icon_list.php:209
+#: vc/theme_shortcodes/cws_sc_milestone.php:43
+#: vc/theme_shortcodes/cws_sc_milestone.php:194
+#: vc/theme_shortcodes/cws_sc_milestone.php:374
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:66
+#: vc/theme_shortcodes/cws_sc_service.php:89
+#: vc/theme_shortcodes/cws_sc_service.php:165
+#: vc/theme_shortcodes/cws_sc_service.php:241
+#: vc/theme_shortcodes/cws_sc_service.php:328
+#: vc/theme_shortcodes/cws_sc_service.php:404
+#: vc/theme_shortcodes/cws_sc_service.php:480
+#: vc/theme_shortcodes/cws_sc_service.php:630
+#: vc/theme_shortcodes/cws_sc_service.php:717
+#: vc/theme_shortcodes/cws_sc_service.php:831
+#: vc/theme_shortcodes/cws_sc_service.php:906
+#: vc/theme_shortcodes/cws_sc_service.php:1120
+#: vc/theme_shortcodes/cws_sc_service.php:1207
+#: vc/theme_shortcodes/cws_sc_testimonials.php:18
+#: vc/theme_shortcodes/cws_sc_testimonials.php:272
+#: vc/theme_shortcodes/cws_sc_testimonials.php:464
+#: vc/theme_shortcodes/cws_sc_text.php:79
+#: vc/theme_shortcodes/cws_sc_text.php:193
+#: vc/theme_shortcodes/cws_sc_text.php:297
+#: vc/theme_shortcodes/cws_sc_title_area.php:33
+msgctxt "backend"
+msgid "Simple"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:155
+#: vc/theme_shortcodes/cws_sc_banners.php:433
+#: vc/theme_shortcodes/cws_sc_banners.php:510
+#: vc/theme_shortcodes/cws_sc_blog.php:181
+#: vc/theme_shortcodes/cws_sc_blog.php:504
+#: vc/theme_shortcodes/cws_sc_blog.php:580
+#: vc/theme_shortcodes/cws_sc_blog.php:656
+#: vc/theme_shortcodes/cws_sc_blog.php:805
+#: vc/theme_shortcodes/cws_sc_blog.php:1150
+#: vc/theme_shortcodes/cws_sc_blog.php:1227
+#: vc/theme_shortcodes/cws_sc_button.php:125
+#: vc/theme_shortcodes/cws_sc_button.php:197
+#: vc/theme_shortcodes/cws_sc_divider.php:28
+#: vc/theme_shortcodes/cws_sc_icon.php:57
+#: vc/theme_shortcodes/cws_sc_icon.php:133
+#: vc/theme_shortcodes/cws_sc_milestone.php:44
+#: vc/theme_shortcodes/cws_sc_milestone.php:195
+#: vc/theme_shortcodes/cws_sc_milestone.php:375
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:67
+#: vc/theme_shortcodes/cws_sc_service.php:90
+#: vc/theme_shortcodes/cws_sc_service.php:166
+#: vc/theme_shortcodes/cws_sc_service.php:242
+#: vc/theme_shortcodes/cws_sc_service.php:329
+#: vc/theme_shortcodes/cws_sc_service.php:405
+#: vc/theme_shortcodes/cws_sc_service.php:481
+#: vc/theme_shortcodes/cws_sc_service.php:631
+#: vc/theme_shortcodes/cws_sc_service.php:718
+#: vc/theme_shortcodes/cws_sc_service.php:832
+#: vc/theme_shortcodes/cws_sc_service.php:907
+#: vc/theme_shortcodes/cws_sc_service.php:1121
+#: vc/theme_shortcodes/cws_sc_service.php:1208
+#: vc/theme_shortcodes/cws_sc_testimonials.php:19
+#: vc/theme_shortcodes/cws_sc_testimonials.php:273
+#: vc/theme_shortcodes/cws_sc_testimonials.php:465
+#: vc/theme_shortcodes/cws_sc_text.php:80
+#: vc/theme_shortcodes/cws_sc_text.php:194
+#: vc/theme_shortcodes/cws_sc_text.php:298
+#: vc/theme_shortcodes/cws_sc_title_area.php:34
+msgctxt "backend"
+msgid "Gradient"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:156
+#: vc/theme_shortcodes/cws_sc_banners.php:216
+#: vc/theme_shortcodes/cws_sc_banners.php:434
+#: vc/theme_shortcodes/cws_sc_banners.php:494
+#: vc/theme_shortcodes/cws_sc_banners.php:511
+#: vc/theme_shortcodes/cws_sc_banners.php:571
+#: vc/theme_shortcodes/cws_sc_blog.php:230
+#: vc/theme_shortcodes/cws_sc_blog.php:505
+#: vc/theme_shortcodes/cws_sc_blog.php:564
+#: vc/theme_shortcodes/cws_sc_blog.php:581
+#: vc/theme_shortcodes/cws_sc_blog.php:640
+#: vc/theme_shortcodes/cws_sc_blog.php:657
+#: vc/theme_shortcodes/cws_sc_blog.php:717
+#: vc/theme_shortcodes/cws_sc_blog.php:806
+#: vc/theme_shortcodes/cws_sc_blog.php:865
+#: vc/theme_shortcodes/cws_sc_blog.php:1151
+#: vc/theme_shortcodes/cws_sc_blog.php:1211
+#: vc/theme_shortcodes/cws_sc_blog.php:1228
+#: vc/theme_shortcodes/cws_sc_blog.php:1288
+#: vc/theme_shortcodes/cws_sc_button.php:126
+#: vc/theme_shortcodes/cws_sc_button.php:181
+#: vc/theme_shortcodes/cws_sc_button.php:198
+#: vc/theme_shortcodes/cws_sc_button.php:253
+#: vc/theme_shortcodes/cws_sc_icon.php:58
+#: vc/theme_shortcodes/cws_sc_icon.php:117
+#: vc/theme_shortcodes/cws_sc_icon.php:134
+#: vc/theme_shortcodes/cws_sc_icon.php:193
+#: vc/theme_shortcodes/cws_sc_milestone.php:45
+#: vc/theme_shortcodes/cws_sc_milestone.php:104
+#: vc/theme_shortcodes/cws_sc_milestone.php:196
+#: vc/theme_shortcodes/cws_sc_milestone.php:255
+#: vc/theme_shortcodes/cws_sc_milestone.php:376
+#: vc/theme_shortcodes/cws_sc_milestone.php:435
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:68
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:115
+#: vc/theme_shortcodes/cws_sc_service.php:91
+#: vc/theme_shortcodes/cws_sc_service.php:150
+#: vc/theme_shortcodes/cws_sc_service.php:167
+#: vc/theme_shortcodes/cws_sc_service.php:226
+#: vc/theme_shortcodes/cws_sc_service.php:243
+#: vc/theme_shortcodes/cws_sc_service.php:302
+#: vc/theme_shortcodes/cws_sc_service.php:330
+#: vc/theme_shortcodes/cws_sc_service.php:389
+#: vc/theme_shortcodes/cws_sc_service.php:406
+#: vc/theme_shortcodes/cws_sc_service.php:465
+#: vc/theme_shortcodes/cws_sc_service.php:482
+#: vc/theme_shortcodes/cws_sc_service.php:541
+#: vc/theme_shortcodes/cws_sc_service.php:632
+#: vc/theme_shortcodes/cws_sc_service.php:691
+#: vc/theme_shortcodes/cws_sc_service.php:719
+#: vc/theme_shortcodes/cws_sc_service.php:778
+#: vc/theme_shortcodes/cws_sc_service.php:880
+#: vc/theme_shortcodes/cws_sc_service.php:954
+#: vc/theme_shortcodes/cws_sc_service.php:1122
+#: vc/theme_shortcodes/cws_sc_service.php:1181
+#: vc/theme_shortcodes/cws_sc_service.php:1209
+#: vc/theme_shortcodes/cws_sc_service.php:1268
+#: vc/theme_shortcodes/cws_sc_testimonials.php:20
+#: vc/theme_shortcodes/cws_sc_testimonials.php:80
+#: vc/theme_shortcodes/cws_sc_testimonials.php:274
+#: vc/theme_shortcodes/cws_sc_testimonials.php:334
+#: vc/theme_shortcodes/cws_sc_testimonials.php:466
+#: vc/theme_shortcodes/cws_sc_testimonials.php:521
+#: vc/theme_shortcodes/cws_sc_text.php:81
+#: vc/theme_shortcodes/cws_sc_text.php:140
+#: vc/theme_shortcodes/cws_sc_text.php:299
+#: vc/theme_shortcodes/cws_sc_text.php:358
+#: vc/theme_shortcodes/cws_sc_title_area.php:35
+#: vc/theme_shortcodes/cws_sc_title_area.php:94
+msgctxt "backend"
+msgid "Custom gradient"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:168
+#: vc/theme_shortcodes/cws_sc_banners.php:446
+#: vc/theme_shortcodes/cws_sc_banners.php:523
+#: vc/theme_shortcodes/cws_sc_blog.php:516
+#: vc/theme_shortcodes/cws_sc_blog.php:817
+#: vc/theme_shortcodes/cws_sc_blog.php:1163
+#: vc/theme_shortcodes/cws_sc_blog.php:1240
+#: vc/theme_shortcodes/cws_sc_button.php:137
+#: vc/theme_shortcodes/cws_sc_button.php:209
+#: vc/theme_shortcodes/cws_sc_milestone.php:387
+#: vc/theme_shortcodes/cws_sc_service.php:1133
+#: vc/theme_shortcodes/cws_sc_testimonials.php:32
+#: vc/theme_shortcodes/cws_sc_testimonials.php:286
+#: vc/theme_shortcodes/cws_sc_testimonials.php:477
+msgctxt "backend"
+msgid "BG Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:180
+#: vc/theme_shortcodes/cws_sc_banners.php:458
+#: vc/theme_shortcodes/cws_sc_banners.php:535
+#: vc/theme_shortcodes/cws_sc_blog.php:528
+#: vc/theme_shortcodes/cws_sc_blog.php:604
+#: vc/theme_shortcodes/cws_sc_blog.php:681
+#: vc/theme_shortcodes/cws_sc_blog.php:829
+#: vc/theme_shortcodes/cws_sc_blog.php:1175
+#: vc/theme_shortcodes/cws_sc_blog.php:1252
+#: vc/theme_shortcodes/cws_sc_button.php:148
+#: vc/theme_shortcodes/cws_sc_button.php:220
+#: vc/theme_shortcodes/cws_sc_icon.php:81
+#: vc/theme_shortcodes/cws_sc_icon.php:157
+#: vc/theme_shortcodes/cws_sc_milestone.php:68
+#: vc/theme_shortcodes/cws_sc_milestone.php:219
+#: vc/theme_shortcodes/cws_sc_milestone.php:399
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:91
+#: vc/theme_shortcodes/cws_sc_service.php:114
+#: vc/theme_shortcodes/cws_sc_service.php:190
+#: vc/theme_shortcodes/cws_sc_service.php:266
+#: vc/theme_shortcodes/cws_sc_service.php:353
+#: vc/theme_shortcodes/cws_sc_service.php:429
+#: vc/theme_shortcodes/cws_sc_service.php:505
+#: vc/theme_shortcodes/cws_sc_service.php:655
+#: vc/theme_shortcodes/cws_sc_service.php:742
+#: vc/theme_shortcodes/cws_sc_service.php:1145
+#: vc/theme_shortcodes/cws_sc_service.php:1232
+#: vc/theme_shortcodes/cws_sc_testimonials.php:44
+#: vc/theme_shortcodes/cws_sc_testimonials.php:298
+#: vc/theme_shortcodes/cws_sc_testimonials.php:488
+#: vc/theme_shortcodes/cws_sc_text.php:104
+#: vc/theme_shortcodes/cws_sc_text.php:322
+#: vc/theme_shortcodes/cws_sc_title_area.php:58
+msgctxt "backend"
+msgid "Start Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:192
+#: vc/theme_shortcodes/cws_sc_banners.php:470
+#: vc/theme_shortcodes/cws_sc_banners.php:547
+#: vc/theme_shortcodes/cws_sc_blog.php:540
+#: vc/theme_shortcodes/cws_sc_blog.php:616
+#: vc/theme_shortcodes/cws_sc_blog.php:693
+#: vc/theme_shortcodes/cws_sc_blog.php:841
+#: vc/theme_shortcodes/cws_sc_blog.php:1187
+#: vc/theme_shortcodes/cws_sc_blog.php:1264
+#: vc/theme_shortcodes/cws_sc_button.php:159
+#: vc/theme_shortcodes/cws_sc_button.php:231
+#: vc/theme_shortcodes/cws_sc_icon.php:93
+#: vc/theme_shortcodes/cws_sc_icon.php:169
+#: vc/theme_shortcodes/cws_sc_milestone.php:80
+#: vc/theme_shortcodes/cws_sc_milestone.php:231
+#: vc/theme_shortcodes/cws_sc_milestone.php:411
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:103
+#: vc/theme_shortcodes/cws_sc_service.php:126
+#: vc/theme_shortcodes/cws_sc_service.php:202
+#: vc/theme_shortcodes/cws_sc_service.php:278
+#: vc/theme_shortcodes/cws_sc_service.php:365
+#: vc/theme_shortcodes/cws_sc_service.php:441
+#: vc/theme_shortcodes/cws_sc_service.php:517
+#: vc/theme_shortcodes/cws_sc_service.php:667
+#: vc/theme_shortcodes/cws_sc_service.php:754
+#: vc/theme_shortcodes/cws_sc_service.php:1157
+#: vc/theme_shortcodes/cws_sc_service.php:1244
+#: vc/theme_shortcodes/cws_sc_testimonials.php:56
+#: vc/theme_shortcodes/cws_sc_testimonials.php:310
+#: vc/theme_shortcodes/cws_sc_testimonials.php:499
+#: vc/theme_shortcodes/cws_sc_text.php:116
+#: vc/theme_shortcodes/cws_sc_text.php:334
+#: vc/theme_shortcodes/cws_sc_title_area.php:70
+msgctxt "backend"
+msgid "Finish Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:204
+#: vc/theme_shortcodes/cws_sc_banners.php:482
+#: vc/theme_shortcodes/cws_sc_banners.php:559
+#: vc/theme_shortcodes/cws_sc_blog.php:552
+#: vc/theme_shortcodes/cws_sc_blog.php:628
+#: vc/theme_shortcodes/cws_sc_blog.php:705
+#: vc/theme_shortcodes/cws_sc_blog.php:853
+#: vc/theme_shortcodes/cws_sc_blog.php:1199
+#: vc/theme_shortcodes/cws_sc_blog.php:1276
+#: vc/theme_shortcodes/cws_sc_button.php:170
+#: vc/theme_shortcodes/cws_sc_button.php:242
+#: vc/theme_shortcodes/cws_sc_icon.php:105
+#: vc/theme_shortcodes/cws_sc_icon.php:181
+#: vc/theme_shortcodes/cws_sc_milestone.php:92
+#: vc/theme_shortcodes/cws_sc_milestone.php:243
+#: vc/theme_shortcodes/cws_sc_milestone.php:423
+#: vc/theme_shortcodes/cws_sc_service.php:138
+#: vc/theme_shortcodes/cws_sc_service.php:214
+#: vc/theme_shortcodes/cws_sc_service.php:290
+#: vc/theme_shortcodes/cws_sc_service.php:377
+#: vc/theme_shortcodes/cws_sc_service.php:453
+#: vc/theme_shortcodes/cws_sc_service.php:529
+#: vc/theme_shortcodes/cws_sc_service.php:679
+#: vc/theme_shortcodes/cws_sc_service.php:766
+#: vc/theme_shortcodes/cws_sc_service.php:1169
+#: vc/theme_shortcodes/cws_sc_service.php:1256
+#: vc/theme_shortcodes/cws_sc_testimonials.php:68
+#: vc/theme_shortcodes/cws_sc_testimonials.php:322
+#: vc/theme_shortcodes/cws_sc_testimonials.php:510
+#: vc/theme_shortcodes/cws_sc_text.php:128
+#: vc/theme_shortcodes/cws_sc_text.php:346
+#: vc/theme_shortcodes/cws_sc_title_area.php:82
+msgctxt "backend"
+msgid "Angle"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:236
+#: vc/theme_shortcodes/cws_sc_blog.php:932
+msgctxt "backend"
+msgid "Show Button Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:239
+#: vc/theme_shortcodes/cws_sc_blog.php:936
+msgctxt "backend"
+msgid "In new tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:250
+msgctxt "backend"
+msgid "Minimal module height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:280
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:16
+#: vc/theme_shortcodes/cws_sc_button.php:18
+#: vc/theme_shortcodes/cws_sc_icon.php:216
+#: vc/theme_shortcodes/cws_sc_icon_list.php:29
+#: vc/theme_shortcodes/cws_sc_image.php:17
+#: vc/theme_shortcodes/cws_sc_logo.php:16
+#: vc/theme_shortcodes/cws_sc_menu.php:35
+#: vc/theme_shortcodes/cws_sc_milestone.php:484
+#: vc/theme_shortcodes/cws_sc_service.php:1344
+#: vc/theme_shortcodes/cws_sc_text.php:444
+msgctxt "backend"
+msgid "Customize Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:285
+#: vc/theme_shortcodes/cws_sc_milestone.php:488
+#: vc/theme_shortcodes/cws_sc_service.php:1348
+#: vc/theme_shortcodes/cws_sc_text.php:449
+msgctxt "backend"
+msgid "Text Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:295
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:29
+#: vc/theme_shortcodes/cws_sc_button.php:32
+#: vc/theme_shortcodes/cws_sc_icon.php:230
+#: vc/theme_shortcodes/cws_sc_icon_list.php:42
+#: vc/theme_shortcodes/cws_sc_image.php:30
+#: vc/theme_shortcodes/cws_sc_logo.php:29
+#: vc/theme_shortcodes/cws_sc_menu.php:48
+#: vc/theme_shortcodes/cws_sc_milestone.php:498
+#: vc/theme_shortcodes/cws_sc_service.php:1358
+#: vc/theme_shortcodes/cws_sc_text.php:458
+msgctxt "backend"
+msgid "Left"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:296
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:30
+#: vc/theme_shortcodes/cws_sc_button.php:33
+#: vc/theme_shortcodes/cws_sc_icon.php:231
+#: vc/theme_shortcodes/cws_sc_icon_list.php:43
+#: vc/theme_shortcodes/cws_sc_image.php:31
+#: vc/theme_shortcodes/cws_sc_logo.php:30
+#: vc/theme_shortcodes/cws_sc_menu.php:49
+#: vc/theme_shortcodes/cws_sc_milestone.php:499
+#: vc/theme_shortcodes/cws_sc_service.php:1359
+#: vc/theme_shortcodes/cws_sc_service.php:1420
+#: vc/theme_shortcodes/cws_sc_text.php:459
+msgctxt "backend"
+msgid "Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:297
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:31
+#: vc/theme_shortcodes/cws_sc_button.php:34
+#: vc/theme_shortcodes/cws_sc_icon.php:232
+#: vc/theme_shortcodes/cws_sc_icon_list.php:44
+#: vc/theme_shortcodes/cws_sc_image.php:32
+#: vc/theme_shortcodes/cws_sc_logo.php:31
+#: vc/theme_shortcodes/cws_sc_menu.php:50
+#: vc/theme_shortcodes/cws_sc_milestone.php:500
+#: vc/theme_shortcodes/cws_sc_service.php:1360
+#: vc/theme_shortcodes/cws_sc_text.php:460
+msgctxt "backend"
+msgid "Right"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:302
+msgctxt "backend"
+msgid "Title Vertical Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:311
+#: vc/theme_shortcodes/cws_sc_service.php:1419
+msgctxt "backend"
+msgid "Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:312
+msgctxt "backend"
+msgid "Middle"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:313
+#: vc/theme_shortcodes/cws_sc_service.php:1421
+msgctxt "backend"
+msgid "Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:331
+#: vc/theme_shortcodes/cws_sc_banners.php:346
+#: vc/theme_shortcodes/cws_sc_banners.php:355
+#: vc/theme_shortcodes/cws_sc_banners.php:372
+#: vc/theme_shortcodes/cws_sc_banners.php:389
+#: vc/theme_shortcodes/cws_sc_banners.php:400
+#: vc/theme_shortcodes/cws_sc_banners.php:409
+#: vc/theme_shortcodes/cws_sc_banners.php:421
+#: vc/theme_shortcodes/cws_sc_banners.php:442
+#: vc/theme_shortcodes/cws_sc_banners.php:454
+#: vc/theme_shortcodes/cws_sc_banners.php:466
+#: vc/theme_shortcodes/cws_sc_banners.php:478
+#: vc/theme_shortcodes/cws_sc_banners.php:490
+#: vc/theme_shortcodes/cws_sc_banners.php:502
+#: vc/theme_shortcodes/cws_sc_banners.php:519
+#: vc/theme_shortcodes/cws_sc_banners.php:531
+#: vc/theme_shortcodes/cws_sc_banners.php:543
+#: vc/theme_shortcodes/cws_sc_banners.php:555
+#: vc/theme_shortcodes/cws_sc_banners.php:567
+#: vc/theme_shortcodes/cws_sc_banners.php:578
+#: vc/theme_shortcodes/cws_sc_banners.php:584
+#: vc/theme_shortcodes/cws_sc_banners.php:596
+#: vc/theme_shortcodes/cws_sc_banners.php:612
+#: vc/theme_shortcodes/cws_sc_banners.php:624
+#: vc/theme_shortcodes/cws_sc_banners.php:629
+#: vc/theme_shortcodes/cws_sc_banners.php:641
+#: vc/theme_shortcodes/cws_sc_banners.php:657
+#: vc/theme_shortcodes/cws_sc_banners.php:669
+#: vc/theme_shortcodes/cws_sc_banners.php:674
+#: vc/theme_shortcodes/cws_sc_banners.php:686
+#: vc/theme_shortcodes/cws_sc_blog.php:1062
+#: vc/theme_shortcodes/cws_sc_blog.php:1071
+#: vc/theme_shortcodes/cws_sc_blog.php:1088
+#: vc/theme_shortcodes/cws_sc_blog.php:1105
+#: vc/theme_shortcodes/cws_sc_blog.php:1116
+#: vc/theme_shortcodes/cws_sc_blog.php:1126
+#: vc/theme_shortcodes/cws_sc_blog.php:1138
+#: vc/theme_shortcodes/cws_sc_blog.php:1159
+#: vc/theme_shortcodes/cws_sc_blog.php:1171
+#: vc/theme_shortcodes/cws_sc_blog.php:1183
+#: vc/theme_shortcodes/cws_sc_blog.php:1195
+#: vc/theme_shortcodes/cws_sc_blog.php:1207
+#: vc/theme_shortcodes/cws_sc_blog.php:1219
+#: vc/theme_shortcodes/cws_sc_blog.php:1236
+#: vc/theme_shortcodes/cws_sc_blog.php:1248
+#: vc/theme_shortcodes/cws_sc_blog.php:1260
+#: vc/theme_shortcodes/cws_sc_blog.php:1272
+#: vc/theme_shortcodes/cws_sc_blog.php:1284
+#: vc/theme_shortcodes/cws_sc_blog.php:1295
+#: vc/theme_shortcodes/cws_sc_blog.php:1301
+#: vc/theme_shortcodes/cws_sc_blog.php:1313
+#: vc/theme_shortcodes/cws_sc_blog.php:1329
+#: vc/theme_shortcodes/cws_sc_blog.php:1341
+#: vc/theme_shortcodes/cws_sc_blog.php:1346
+#: vc/theme_shortcodes/cws_sc_blog.php:1358
+#: vc/theme_shortcodes/cws_sc_blog.php:1374
+#: vc/theme_shortcodes/cws_sc_blog.php:1386
+#: vc/theme_shortcodes/cws_sc_blog.php:1391
+#: vc/theme_shortcodes/cws_sc_blog.php:1403
+#: vc/vc_extends/cws_vc_extends.php:983 vc/vc_extends/cws_vc_extends.php:985
+msgctxt "backend"
+msgid "Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:339
+msgctxt "backend"
+msgid "Button Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:343
+msgctxt "backend"
+msgid "Default"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:344
+msgctxt "backend"
+msgid "Floated"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:364
+#: vc/theme_shortcodes/cws_sc_blog.php:1080
+#: vc/theme_shortcodes/cws_sc_button.php:78
+msgctxt "backend"
+msgid "Button Style"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:367
+#: vc/theme_shortcodes/cws_sc_blog.php:1083
+#: vc/theme_shortcodes/cws_sc_button.php:81
+msgctxt "backend"
+msgid "Arrow Fade In"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:368
+#: vc/theme_shortcodes/cws_sc_blog.php:1084
+#: vc/theme_shortcodes/cws_sc_button.php:82
+msgctxt "backend"
+msgid "Arrow Fade Out"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:380
+#: vc/theme_shortcodes/cws_sc_blog.php:1096
+#: vc/theme_shortcodes/cws_sc_button.php:89
+msgctxt "backend"
+msgid "Button Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:383
+#: vc/theme_shortcodes/cws_sc_blog.php:1099
+#: vc/theme_shortcodes/cws_sc_button.php:92
+#: vc/theme_shortcodes/cws_sc_our_team.php:268
+msgctxt "backend"
+msgid "Large"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:384
+#: vc/theme_shortcodes/cws_sc_blog.php:1100
+#: vc/theme_shortcodes/cws_sc_button.php:93
+#: vc/theme_shortcodes/cws_sc_our_team.php:269
+msgctxt "backend"
+msgid "Medium"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:385
+#: vc/theme_shortcodes/cws_sc_blog.php:1101
+#: vc/theme_shortcodes/cws_sc_button.php:94
+msgctxt "backend"
+msgid "Small"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:398
+#: vc/theme_shortcodes/cws_sc_blog.php:1114
+#: vc/theme_shortcodes/cws_sc_button.php:102
+msgctxt "backend"
+msgid "Add shadow"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:419
+#: vc/theme_shortcodes/cws_sc_blog.php:1136
+#: vc/theme_shortcodes/cws_sc_button.php:115
+msgctxt "backend"
+msgid "Set background color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:429
+#: vc/theme_shortcodes/cws_sc_blog.php:1146
+#: vc/theme_shortcodes/cws_sc_button.php:121
+#: vc/theme_shortcodes/cws_sc_testimonials.php:269
+msgctxt "backend"
+msgid "Background color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:506
+#: vc/theme_shortcodes/cws_sc_blog.php:1223
+#: vc/theme_shortcodes/cws_sc_button.php:193
+msgctxt "backend"
+msgid "Background color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:594
+#: vc/theme_shortcodes/cws_sc_blog.php:1311
+#: vc/theme_shortcodes/cws_sc_button.php:271
+msgctxt "backend"
+msgid "Set title color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:604
+#: vc/theme_shortcodes/cws_sc_banners.php:649
+#: vc/theme_shortcodes/cws_sc_blog.php:1321
+#: vc/theme_shortcodes/cws_sc_blog.php:1366
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:36
+#: vc/theme_shortcodes/cws_sc_button.php:276
+#: vc/theme_shortcodes/cws_sc_button.php:310
+msgctxt "backend"
+msgid "Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:616
+#: vc/theme_shortcodes/cws_sc_banners.php:661
+#: vc/theme_shortcodes/cws_sc_blog.php:1333
+#: vc/theme_shortcodes/cws_sc_blog.php:1378
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:44
+#: vc/theme_shortcodes/cws_sc_button.php:287
+#: vc/theme_shortcodes/cws_sc_button.php:321
+msgctxt "backend"
+msgid "Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:639
+#: vc/theme_shortcodes/cws_sc_blog.php:1356
+#: vc/theme_shortcodes/cws_sc_button.php:305
+msgctxt "backend"
+msgid "Set border color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:684
+#: vc/theme_shortcodes/cws_sc_blog.php:1401
+#: vc/theme_shortcodes/cws_sc_button.php:339
+msgctxt "backend"
+msgid "Add Icon to button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:716
+#: vc/theme_shortcodes/cws_sc_info_box.php:42
+#: vc/theme_shortcodes/cws_sc_roadmap.php:331
+msgctxt "backend"
+msgid "Description"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:723
+msgctxt "backend"
+msgid "Banner Url"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:732
+msgctxt "backend"
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:736
+#: vc/theme_shortcodes/cws_sc_blog.php:1531
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:64
+#: vc/theme_shortcodes/cws_sc_button.php:351
+#: vc/theme_shortcodes/cws_sc_carousel.php:212
+#: vc/theme_shortcodes/cws_sc_divider.php:70
+#: vc/theme_shortcodes/cws_sc_gallery.php:114
+#: vc/theme_shortcodes/cws_sc_icon.php:279
+#: vc/theme_shortcodes/cws_sc_icon_list.php:265
+#: vc/theme_shortcodes/cws_sc_image.php:123
+#: vc/theme_shortcodes/cws_sc_info_box.php:53
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:131
+#: vc/theme_shortcodes/cws_sc_logo.php:77
+#: vc/theme_shortcodes/cws_sc_menu.php:107
+#: vc/theme_shortcodes/cws_sc_milestone.php:559
+#: vc/theme_shortcodes/cws_sc_our_team.php:330
+#: vc/theme_shortcodes/cws_sc_popup_video.php:106
+#: vc/theme_shortcodes/cws_sc_portfolio.php:293
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:339
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:166
+#: vc/theme_shortcodes/cws_sc_roadmap.php:346
+#: vc/theme_shortcodes/cws_sc_service.php:1478
+#: vc/theme_shortcodes/cws_sc_testimonials.php:571
+#: vc/theme_shortcodes/cws_sc_text.php:512
+#: vc/theme_shortcodes/cws_sc_title_area.php:331
+msgctxt "backend"
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:737
+#: vc/theme_shortcodes/cws_sc_blog.php:1532
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:65
+#: vc/theme_shortcodes/cws_sc_button.php:352
+#: vc/theme_shortcodes/cws_sc_carousel.php:213
+#: vc/theme_shortcodes/cws_sc_divider.php:71
+#: vc/theme_shortcodes/cws_sc_gallery.php:115
+#: vc/theme_shortcodes/cws_sc_icon.php:280
+#: vc/theme_shortcodes/cws_sc_icon_list.php:266
+#: vc/theme_shortcodes/cws_sc_image.php:124
+#: vc/theme_shortcodes/cws_sc_info_box.php:54
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:132
+#: vc/theme_shortcodes/cws_sc_logo.php:78
+#: vc/theme_shortcodes/cws_sc_menu.php:108
+#: vc/theme_shortcodes/cws_sc_milestone.php:560
+#: vc/theme_shortcodes/cws_sc_our_team.php:331
+#: vc/theme_shortcodes/cws_sc_popup_video.php:107
+#: vc/theme_shortcodes/cws_sc_portfolio.php:294
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:340
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:167
+#: vc/theme_shortcodes/cws_sc_roadmap.php:347
+#: vc/theme_shortcodes/cws_sc_service.php:1479
+#: vc/theme_shortcodes/cws_sc_testimonials.php:572
+#: vc/theme_shortcodes/cws_sc_text.php:513
+#: vc/theme_shortcodes/cws_sc_title_area.php:332
+msgctxt "backend"
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banners.php:756
+msgctxt "backend"
+msgid "CWS Banner"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:41
+#: vc/theme_shortcodes/cws_sc_milestone.php:178
+#: vc/theme_shortcodes/cws_sc_service.php:614
+msgctxt "backend"
+msgid "Title Margin Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:54
+#: vc/theme_shortcodes/cws_sc_milestone.php:207
+#: vc/theme_shortcodes/cws_sc_our_team.php:20
+#: vc/theme_shortcodes/cws_sc_popup_video.php:73
+#: vc/theme_shortcodes/cws_sc_portfolio.php:12
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:56
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:13
+#: vc/theme_shortcodes/cws_sc_roadmap.php:123
+#: vc/theme_shortcodes/cws_sc_service.php:643
+#: vc/theme_shortcodes/cws_sc_text.php:92
+#: vc/theme_shortcodes/cws_sc_title_area.php:107
+msgctxt "backend"
+msgid "Title Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:66
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:68
+#: vc/theme_shortcodes/cws_sc_service.php:730
+msgctxt "backend"
+msgid "Title Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:86
+msgctxt "backend"
+msgid "Show Tags Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:92
+msgctxt "backend"
+msgid "Tags text Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:104
+msgctxt "backend"
+msgid "Tags text Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:116
+msgctxt "backend"
+msgid "Tags background Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:128
+msgctxt "backend"
+msgid "Tags background Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:147
+#: vc/theme_shortcodes/cws_sc_text.php:160
+msgctxt "backend"
+msgid "Show Divider Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:154
+#: vc/theme_shortcodes/cws_sc_service.php:805
+msgctxt "backend"
+msgid "Divider Margin Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:177
+#: vc/theme_shortcodes/cws_sc_service.php:828
+#: vc/theme_shortcodes/cws_sc_text.php:190
+msgctxt "backend"
+msgid "Divider color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:182
+#: vc/theme_shortcodes/cws_sc_service.php:833
+msgctxt "backend"
+msgid "Custom Gradient"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:194
+#: vc/theme_shortcodes/cws_sc_divider.php:37
+#: vc/theme_shortcodes/cws_sc_our_team.php:80
+#: vc/theme_shortcodes/cws_sc_portfolio.php:36
+#: vc/theme_shortcodes/cws_sc_service.php:844
+#: vc/theme_shortcodes/cws_sc_text.php:205
+#: vc/theme_shortcodes/cws_sc_title_area.php:119
+msgctxt "backend"
+msgid "Divider Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:206
+#: vc/theme_shortcodes/cws_sc_service.php:856
+#: vc/theme_shortcodes/cws_sc_service.php:930
+#: vc/theme_shortcodes/cws_sc_text.php:217
+msgctxt "backend"
+msgid "Divider gradient start Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:218
+#: vc/theme_shortcodes/cws_sc_service.php:868
+#: vc/theme_shortcodes/cws_sc_service.php:942
+#: vc/theme_shortcodes/cws_sc_text.php:229
+msgctxt "backend"
+msgid "Divider gradient finish Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:250
+msgctxt "backend"
+msgid "Show Excerpt Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:257
+#: vc/theme_shortcodes/cws_sc_blog.php:347
+#: vc/theme_shortcodes/cws_sc_milestone.php:282
+#: vc/theme_shortcodes/cws_sc_roadmap.php:46
+#: vc/theme_shortcodes/cws_sc_service.php:981
+#: vc/theme_shortcodes/cws_sc_text.php:385
+msgctxt "backend"
+msgid "Text Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:270
+#: vc/theme_shortcodes/cws_sc_blog.php:360
+#: vc/theme_shortcodes/cws_sc_milestone.php:295
+#: vc/theme_shortcodes/cws_sc_service.php:994
+msgctxt "backend"
+msgid "Text Line-Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:283
+#: vc/theme_shortcodes/cws_sc_blog.php:373
+#: vc/theme_shortcodes/cws_sc_milestone.php:308
+#: vc/theme_shortcodes/cws_sc_service.php:1007
+msgctxt "backend"
+msgid "Text Margin Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:296
+#: vc/theme_shortcodes/cws_sc_menu.php:57
+#: vc/theme_shortcodes/cws_sc_milestone.php:321
+#: vc/theme_shortcodes/cws_sc_service.php:1020
+#: vc/theme_shortcodes/cws_sc_text.php:398
+msgctxt "backend"
+msgid "Font Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:308
+#: vc/theme_shortcodes/cws_sc_milestone.php:333
+#: vc/theme_shortcodes/cws_sc_service.php:1032
+#: vc/theme_shortcodes/cws_sc_text.php:410
+msgctxt "backend"
+msgid "Font Accent Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:320
+#: vc/theme_shortcodes/cws_sc_milestone.php:345
+#: vc/theme_shortcodes/cws_sc_service.php:1044
+msgctxt "backend"
+msgid "Text Accent Hover Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:340
+msgctxt "backend"
+msgid "Show Categories Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:386
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:25
+msgctxt "backend"
+msgid "Categories Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:398
+msgctxt "backend"
+msgid "Categories Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:418
+msgctxt "backend"
+msgid "Show Meta Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:425
+#: vc/theme_shortcodes/cws_sc_blog.php:940
+msgctxt "backend"
+msgid "Meta Margin Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:438
+msgctxt "backend"
+msgid "Meta Border Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:450
+msgctxt "backend"
+msgid "Meta Text Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:462
+msgctxt "backend"
+msgid "Meta Accent Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:474
+msgctxt "backend"
+msgid "Meta Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:494
+#: vc/theme_shortcodes/cws_sc_milestone.php:365
+#: vc/theme_shortcodes/cws_sc_service.php:1111
+#: vc/theme_shortcodes/cws_sc_testimonials.php:262
+msgctxt "backend"
+msgid "Show Background Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:500
+#: vc/theme_shortcodes/cws_sc_milestone.php:371
+#: vc/theme_shortcodes/cws_sc_service.php:1117
+msgctxt "backend"
+msgid "BG color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:576
+#: vc/theme_shortcodes/cws_sc_blog.php:652
+msgctxt "backend"
+msgid "Border active color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:592
+#: vc/theme_shortcodes/cws_sc_blog.php:669
+msgctxt "backend"
+msgid "Border active Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:730
+#: vc/theme_shortcodes/cws_sc_milestone.php:448
+#: vc/theme_shortcodes/cws_sc_service.php:1296
+msgctxt "backend"
+msgid "Show Shadow"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:741
+#: vc/theme_shortcodes/cws_sc_milestone.php:458
+#: vc/theme_shortcodes/cws_sc_service.php:1306
+msgctxt "backend"
+msgid "Shadow CSS"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:753
+#: vc/theme_shortcodes/cws_sc_service.php:1318
+msgctxt "backend"
+msgid "Shadow CSS on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:772
+msgctxt "backend"
+msgid "Show Slider Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:778
+#: vc/theme_shortcodes/cws_sc_testimonials.php:450
+msgctxt "backend"
+msgid "Inactive Dots Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:800
+#: vc/theme_shortcodes/cws_sc_testimonials.php:461
+msgctxt "backend"
+msgid "Active dots color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:877
+#: vc/theme_shortcodes/cws_sc_roadmap.php:147
+msgctxt "backend"
+msgid "Arrow Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:889
+msgctxt "backend"
+msgid "Arrow Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:901
+msgctxt "backend"
+msgid "Arrow Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:913
+msgctxt "backend"
+msgid "Arrow Background on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:973
+#: vc/theme_shortcodes/cws_sc_blog.php:1019
+#: vc/theme_shortcodes/cws_sc_our_team.php:122
+#: vc/theme_shortcodes/cws_sc_our_team.php:154
+#: vc/theme_shortcodes/cws_sc_portfolio.php:65
+#: vc/theme_shortcodes/cws_sc_portfolio.php:97
+msgctxt "backend"
+msgid "Titles"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:983
+msgctxt "backend"
+msgid "Filter by"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:990
+#: vc/theme_shortcodes/cws_sc_portfolio.php:135
+msgctxt "backend"
+msgid "Layout"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:994
+msgctxt "backend"
+msgid "Large Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:995
+msgctxt "backend"
+msgid "Small Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:996
+msgctxt "backend"
+msgid "Two Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:997
+msgctxt "backend"
+msgid "Three Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:998
+msgctxt "backend"
+msgid "Four Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:999
+msgctxt "backend"
+msgid "Checkerboard"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1060
+#: vc/theme_shortcodes/cws_sc_blog.php:1501
+#: vc/theme_shortcodes/cws_sc_our_team.php:326
+msgctxt "backend"
+msgid "Read More"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1426
+msgctxt "backend"
+msgid "Order by"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1434
+#: vc/theme_shortcodes/cws_sc_blog.php:1498
+#: vc/theme_shortcodes/cws_sc_our_team.php:203
+#: vc/theme_shortcodes/cws_sc_portfolio.php:175
+msgctxt "backend"
+msgid "Date"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1440
+#: vc/theme_shortcodes/cws_sc_our_team.php:211
+#: vc/theme_shortcodes/cws_sc_portfolio.php:183
+msgctxt "backend"
+msgid "Order"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1448
+#: vc/theme_shortcodes/cws_sc_our_team.php:216
+#: vc/theme_shortcodes/cws_sc_portfolio.php:187
+msgctxt "backend"
+msgid "DESC"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1449
+#: vc/theme_shortcodes/cws_sc_our_team.php:215
+#: vc/theme_shortcodes/cws_sc_portfolio.php:186
+msgctxt "backend"
+msgid "ASC"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1460
+#: vc/theme_shortcodes/cws_sc_portfolio.php:141
+msgctxt "backend"
+msgid "Masonry"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1472
+#: vc/theme_shortcodes/cws_sc_our_team.php:286
+#: vc/theme_shortcodes/cws_sc_portfolio.php:144
+#: vc/theme_shortcodes/cws_sc_testimonials.php:387
+msgctxt "backend"
+msgid "Carousel"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1480
+#: vc/theme_shortcodes/cws_sc_our_team.php:294
+#: vc/theme_shortcodes/cws_sc_portfolio.php:261
+msgctxt "backend"
+msgid "Hide Meta Data"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1487
+#: vc/theme_shortcodes/cws_sc_our_team.php:301
+#: vc/theme_shortcodes/cws_sc_portfolio.php:268
+msgctxt "backend"
+msgid "Hide"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1497
+msgctxt "backend"
+msgid "Author"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1499
+msgctxt "backend"
+msgid "Comments"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1500
+msgctxt "backend"
+msgid "Featured"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1508
+msgctxt "backend"
+msgid "Items to display"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1509
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:125
+#: vc/theme_shortcodes/cws_sc_our_team.php:249
+#: vc/theme_shortcodes/cws_sc_portfolio.php:212
+msgctxt "backend"
+msgid "Enter \"-1\" to show all posts"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1516
+#: vc/theme_shortcodes/cws_sc_our_team.php:256
+#: vc/theme_shortcodes/cws_sc_portfolio.php:219
+msgctxt "backend"
+msgid "Items per Page"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1523
+#: vc/theme_shortcodes/cws_sc_our_team.php:275
+msgctxt "backend"
+msgid "Content Character Limit"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_blog.php:1551
+msgctxt "backend"
+msgid "CWS Blog"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:20
+#: vc/theme_shortcodes/cws_sc_icon_list.php:33
+#: vc/theme_shortcodes/cws_sc_image.php:21
+#: vc/theme_shortcodes/cws_sc_logo.php:20
+#: vc/theme_shortcodes/cws_sc_menu.php:39
+msgctxt "backend"
+msgid "Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_breadcrumbs.php:82
+msgctxt "backend"
+msgid "CWS Breadcrumbs"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:23
+msgctxt "backend"
+msgid "Aligning"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:59
+#: vc/theme_shortcodes/cws_sc_icon.php:265
+msgctxt "backend"
+msgid "Link"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:67
+msgctxt "backend"
+msgid "Open in New Tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:367
+msgctxt "backend"
+msgid "CWS Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:14
+msgctxt "backend"
+msgid "Custom Colors"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:20
+msgctxt "backend"
+msgid "Arrows Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:32
+msgctxt "backend"
+msgid "Arrows Hover Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:44
+msgctxt "backend"
+msgid "Dots Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:56
+msgctxt "backend"
+msgid "Dots Active Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:80
+msgctxt "backend"
+msgid "Carousel Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:83
+#: vc/theme_shortcodes/cws_sc_carousel.php:97
+#: vc/theme_shortcodes/cws_sc_carousel.php:111
+#: vc/theme_shortcodes/cws_sc_carousel.php:125
+#: vc/theme_shortcodes/cws_sc_testimonials.php:376
+#: vc/theme_shortcodes/cws_sc_testimonials.php:430
+msgctxt "backend"
+msgid "One"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:84
+#: vc/theme_shortcodes/cws_sc_carousel.php:98
+#: vc/theme_shortcodes/cws_sc_carousel.php:112
+#: vc/theme_shortcodes/cws_sc_carousel.php:126
+#: vc/theme_shortcodes/cws_sc_testimonials.php:377
+#: vc/theme_shortcodes/cws_sc_testimonials.php:431
+msgctxt "backend"
+msgid "Two"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:85
+#: vc/theme_shortcodes/cws_sc_carousel.php:99
+#: vc/theme_shortcodes/cws_sc_carousel.php:113
+#: vc/theme_shortcodes/cws_sc_carousel.php:127
+#: vc/theme_shortcodes/cws_sc_testimonials.php:378
+#: vc/theme_shortcodes/cws_sc_testimonials.php:432
+msgctxt "backend"
+msgid "Three"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:86
+#: vc/theme_shortcodes/cws_sc_carousel.php:100
+#: vc/theme_shortcodes/cws_sc_carousel.php:114
+#: vc/theme_shortcodes/cws_sc_carousel.php:128
+#: vc/theme_shortcodes/cws_sc_testimonials.php:379
+#: vc/theme_shortcodes/cws_sc_testimonials.php:433
+msgctxt "backend"
+msgid "Four"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:87
+#: vc/theme_shortcodes/cws_sc_carousel.php:101
+#: vc/theme_shortcodes/cws_sc_carousel.php:115
+#: vc/theme_shortcodes/cws_sc_carousel.php:129
+msgctxt "backend"
+msgid "Five"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:88
+#: vc/theme_shortcodes/cws_sc_carousel.php:102
+#: vc/theme_shortcodes/cws_sc_carousel.php:116
+#: vc/theme_shortcodes/cws_sc_carousel.php:130
+msgctxt "backend"
+msgid "Six"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:93
+msgctxt "backend"
+msgid "Landscape Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:107
+msgctxt "backend"
+msgid "Portrait Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:121
+msgctxt "backend"
+msgid "Mobile Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:135
+msgctxt "backend"
+msgid "Slides to scroll"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:142
+msgctxt "backend"
+msgid "Add Pagination Dots"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:150
+msgctxt "backend"
+msgid "Add Navigation Arrows"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:156
+msgctxt "backend"
+msgid "Auto Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:162
+msgctxt "backend"
+msgid "Draggable"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:170
+msgctxt "backend"
+msgid "Infinite Loop"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:176
+#: vc/theme_shortcodes/cws_sc_testimonials.php:398
+msgctxt "backend"
+msgid "Autoplay"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:180
+#: vc/theme_shortcodes/cws_sc_testimonials.php:411
+msgctxt "backend"
+msgid "Autoplay Speed"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:196
+msgctxt "backend"
+msgid "Pause on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:202
+msgctxt "backend"
+msgid "Vertical Direction"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:208
+msgctxt "backend"
+msgid "Vertical Swipe"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_carousel.php:229
+msgctxt "backend"
+msgid "CWS Carousel"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:24
+#: vc/theme_shortcodes/cws_sc_roadmap.php:167
+msgctxt "backend"
+msgid "Style"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:29
+#: vc/theme_shortcodes/cws_sc_our_team.php:229
+msgctxt "backend"
+msgid "Special"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:48
+msgctxt "backend"
+msgid "Gradient Start Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:59
+msgctxt "backend"
+msgid "Gradient Finish Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:88
+msgctxt "backend"
+msgid "CWS Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:12
+#: vc/theme_shortcodes/cws_sc_icon_list.php:138
+#: vc/theme_shortcodes/cws_sc_our_team.php:32
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:104
+#: vc/theme_shortcodes/cws_sc_roadmap.php:131
+msgctxt "backend"
+msgid "Text Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:20
+msgctxt "backend"
+msgid "Plus Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:28
+msgctxt "backend"
+msgid "Overlay Gradient 1"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:36
+msgctxt "backend"
+msgid "Overlay Gradient 2"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:56
+msgctxt "CWS_VC_Button"
+msgid "Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:59
+msgctxt "CWS_VC_Button"
+msgid "Two"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:60
+msgctxt "CWS_VC_Button"
+msgid "Three"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:61
+msgctxt "CWS_VC_Button"
+msgid "Four"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:67
+msgctxt "backend"
+msgid "Images"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:86
+#: vc/theme_shortcodes/cws_sc_text.php:499
+msgctxt "backend"
+msgid "Subtitle"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:96
+msgctxt "CWS_VC_Button"
+msgid "Link to:"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:99
+msgctxt "CWS_VC_Button"
+msgid "None"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:100
+msgctxt "CWS_VC_Button"
+msgid "Media File"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:101
+msgctxt "CWS_VC_Button"
+msgid "Attachment Page"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:109
+msgctxt "backend"
+msgid "Enable Masonry"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_gallery.php:132
+msgctxt "backend"
+msgid "CWS Gallery"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:11
+#: vc/theme_shortcodes/cws_sc_service.php:10
+msgctxt "backend"
+msgid "Show Icon Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:18
+#: vc/theme_shortcodes/cws_sc_popup_video.php:57
+#: vc/theme_shortcodes/cws_sc_service.php:17
+msgctxt "backend"
+msgid "Icon Shape"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:22
+#: vc/theme_shortcodes/cws_sc_our_team.php:226
+#: vc/theme_shortcodes/cws_sc_roadmap.php:171
+#: vc/theme_shortcodes/cws_sc_service.php:22
+#: vc/theme_shortcodes/cws_sc_service.php:39
+msgctxt "backend"
+msgid "Round"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:23
+#: vc/theme_shortcodes/cws_sc_service.php:42
+msgctxt "backend"
+msgid "Rounded"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:34
+#: vc/theme_shortcodes/cws_sc_popup_video.php:23
+#: vc/theme_shortcodes/cws_sc_service.php:54
+msgctxt "backend"
+msgid "Icon Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:53
+#: vc/theme_shortcodes/cws_sc_service.php:86
+msgctxt "backend"
+msgid "Icon color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:69
+#: vc/theme_shortcodes/cws_sc_icon_list.php:98
+#: vc/theme_shortcodes/cws_sc_roadmap.php:75
+#: vc/theme_shortcodes/cws_sc_service.php:102
+msgctxt "backend"
+msgid "Icon Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:129
+msgctxt "backend"
+msgid "Shape background color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:145
+#: vc/theme_shortcodes/cws_sc_service.php:178
+msgctxt "backend"
+msgid "Shape Front Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:220
+msgctxt "backend"
+msgid "Icon Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:273
+#: vc/theme_shortcodes/cws_sc_service.php:1471
+msgctxt "backend"
+msgid "Open in new tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:297
+msgctxt "backend"
+msgid "CWS Icon"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:53
+#: vc/theme_shortcodes/cws_sc_roadmap.php:16
+msgctxt "backend"
+msgid "Customize Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:57
+msgctxt "backend"
+msgid "Icons Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:83
+msgctxt "backend"
+msgid "Spacings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:106
+#: vc/theme_shortcodes/cws_sc_service.php:341
+msgctxt "backend"
+msgid "Icon Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:114
+msgctxt "backend"
+msgid "Icons BG"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:126
+msgctxt "backend"
+msgid "Icons BG on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:146
+msgctxt "backend"
+msgid "Text Accent Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:166
+msgctxt "CWS_VC_Button"
+msgid "Direction"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:169
+msgctxt "CWS_VC_Button"
+msgid "Column"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:170
+msgctxt "CWS_VC_Button"
+msgid "Line"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:177
+msgctxt "backend"
+msgid "Add Icons Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:182
+msgctxt "backend"
+msgid "Menu List"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:187
+msgctxt "backend"
+msgid "Function"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:191
+msgctxt "backend"
+msgid "Custom URL"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:192
+msgctxt "backend"
+msgid "Woo Cart"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:193
+msgctxt "backend"
+msgid "Language Switcher"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:194
+msgctxt "backend"
+msgid "Search"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:195
+msgctxt "backend"
+msgid "Custom Sidebar"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:196
+msgctxt "backend"
+msgid "Login/Register Link"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:197
+msgctxt "backend"
+msgid "Social Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:202
+#: vc/theme_shortcodes/cws_sc_info_box.php:25
+msgctxt "backend"
+msgid "Type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:210
+msgctxt "backend"
+msgid "Phone Call"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:211
+msgctxt "backend"
+msgid "Send Mail"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:228
+msgctxt "backend"
+msgid "Url"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:239
+msgctxt "backend"
+msgid "Sidebar"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:251
+msgctxt "backend"
+msgid "Add Vertical divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon_list.php:284
+msgctxt "backend"
+msgid "CWS Icon List"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:56
+msgctxt "backend"
+msgid "Hover Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:65
+msgctxt "backend"
+msgid "Image Hover Effect"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:68
+msgctxt "backend"
+msgid "No Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:69
+msgctxt "backend"
+msgid "3D"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:70
+msgctxt "backend"
+msgid "Flip"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:71
+msgctxt "backend"
+msgid "Falling Down"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:72
+msgctxt "backend"
+msgid "Grayscale"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:78
+msgctxt "backend"
+msgid "Sensivity"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:89
+msgctxt "backend"
+msgid "Perspective"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:100
+msgctxt "backend"
+msgid "Scale"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:111
+msgctxt "backend"
+msgid "Speed"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:112
+msgctxt "backend"
+msgid "Speed of the enter/exit transition"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_image.php:141
+msgctxt "backend"
+msgid "CWS Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:28
+msgctxt "backend"
+msgid "Info message"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:29
+msgctxt "backend"
+msgid "Success message"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:30
+msgctxt "backend"
+msgid "Warning message"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:31
+msgctxt "backend"
+msgid "Error message"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:48
+msgctxt "backend"
+msgid "Show Close Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_info_box.php:71
+msgctxt "backend"
+msgid "CWS Info Box"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:9
+msgctxt "backend"
+msgid "Shortcode Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:17
+msgctxt "backend"
+msgid "Shortcode Title Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:33
+msgctxt "backend"
+msgid "Article Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:41
+msgctxt "backend"
+msgid "Article Title Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:49
+msgctxt "backend"
+msgid "Title Icon Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:77
+#: vc/theme_shortcodes/cws_sc_our_team.php:133
+#: vc/theme_shortcodes/cws_sc_portfolio.php:75
+msgid "Filter by"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:115
+msgctxt "backend"
+msgid "Add icon to title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:124
+#: vc/theme_shortcodes/cws_sc_our_team.php:248
+#: vc/theme_shortcodes/cws_sc_portfolio.php:211
+msgctxt "backend"
+msgid "Items to Show"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_latest_posts.php:142
+msgctxt "backend"
+msgid "CWS Latest Posts"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:48
+msgctxt "backend"
+msgid "Logotype"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:50
+msgctxt "backend"
+msgid "If empty, logotype will be taken from customizer."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:55
+msgctxt "backend"
+msgid "Retina"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:61
+msgctxt "backend"
+msgid "Width"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:62
+#: vc/theme_shortcodes/cws_sc_logo.php:70
+msgctxt "backend"
+msgid "Dimensions override retina settings."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:69
+msgctxt "backend"
+msgid "Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_logo.php:95
+msgctxt "backend"
+msgid "CWS Logotype"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:22
+msgctxt "backend"
+msgid "Menu item line-height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:26
+msgctxt "backend"
+msgid "in pixels"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:65
+msgctxt "backend"
+msgid "Font Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:73
+msgctxt "backend"
+msgid "Submenu Font Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:81
+msgctxt "backend"
+msgid "Submenu Font Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:101
+msgctxt "backend"
+msgid "Choose Menu"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu.php:125
+msgctxt "backend"
+msgid "CWS Menu"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:7
+msgctxt "CWS_VC_Menu_List"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:24
+msgctxt "CWS_VC_Menu_List"
+msgid "Menu List"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:30
+msgctxt "CWS_VC_Menu_List"
+msgid "Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:40
+msgctxt "CWS_VC_Menu_List"
+msgid "Url"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:51
+msgctxt "CWS_VC_Menu_List"
+msgid "Tag"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:62
+msgctxt "CWS_VC_Menu_List"
+msgid "Tag Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:71
+msgctxt "CWS_VC_Menu_List"
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:72
+msgctxt "CWS_VC_Menu_List"
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_menu_list.php:90
+msgctxt "CWS_VC_Menu_List"
+msgid "CWS Menu List"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:7
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:32
+msgctxt "backend"
+msgid "Show Counter Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:14
+msgctxt "backend"
+msgid "Counter Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:27
+msgctxt "backend"
+msgid "Counter Line Height"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:40
+msgctxt "backend"
+msgid "Counter color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:56
+msgctxt "backend"
+msgid "Counter Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:131
+#: vc/theme_shortcodes/cws_sc_service.php:568
+#: vc/theme_shortcodes/cws_sc_text.php:17
+msgctxt "backend"
+msgid "Title HTML Tag"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:139
+#: vc/theme_shortcodes/cws_sc_service.php:576
+msgctxt "backend"
+msgid "Default - (H5)"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:140
+#: vc/theme_shortcodes/cws_sc_service.php:577
+#: vc/theme_shortcodes/cws_sc_text.php:26
+msgctxt "backend"
+msgid "H1"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:141
+#: vc/theme_shortcodes/cws_sc_service.php:578
+#: vc/theme_shortcodes/cws_sc_text.php:27
+msgctxt "backend"
+msgid "H2"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:142
+#: vc/theme_shortcodes/cws_sc_service.php:579
+#: vc/theme_shortcodes/cws_sc_text.php:28
+msgctxt "backend"
+msgid "H3"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:143
+#: vc/theme_shortcodes/cws_sc_service.php:580
+#: vc/theme_shortcodes/cws_sc_text.php:29
+msgctxt "backend"
+msgid "H4"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:144
+#: vc/theme_shortcodes/cws_sc_service.php:581
+#: vc/theme_shortcodes/cws_sc_text.php:30
+msgctxt "backend"
+msgid "H5"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:145
+#: vc/theme_shortcodes/cws_sc_service.php:582
+#: vc/theme_shortcodes/cws_sc_text.php:31
+msgctxt "backend"
+msgid "H6"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:146
+msgctxt "backend"
+msgid "DIV"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:191
+#: vc/theme_shortcodes/cws_sc_service.php:627
+#: vc/theme_shortcodes/cws_sc_text.php:76
+msgctxt "backend"
+msgid "Title color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:275
+#: vc/theme_shortcodes/cws_sc_service.php:974
+#: vc/theme_shortcodes/cws_sc_testimonials.php:208
+#: vc/theme_shortcodes/cws_sc_text.php:378
+msgctxt "backend"
+msgid "Show Text Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:531
+msgctxt "backend"
+msgid "Count"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:538
+msgctxt "backend"
+msgid "Extra Symbol"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:553
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:303
+#: vc/theme_shortcodes/cws_sc_service.php:1457
+#: vc/theme_shortcodes/cws_sc_text.php:506
+msgctxt "backend"
+msgid "Text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:577
+msgctxt "backend"
+msgid "CWS Milestone"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:7
+msgctxt "CWS_VC_Notice"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:24
+msgctxt "CWS_VC_Notice"
+msgid "Notice"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:33
+msgctxt "CWS_VC_Notice"
+msgid "Closable"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:38
+msgctxt "CWS_VC_Notice"
+msgid "Text Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:45
+msgctxt "CWS_VC_Notice"
+msgid "Close Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:56
+msgctxt "CWS_VC_Notice"
+msgid "Close Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:67
+msgctxt "CWS_VC_Notice"
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:68
+msgctxt "CWS_VC_Notice"
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_notice.php:85
+msgctxt "CWS_VC_Notice"
+msgid "CWS Notice"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:16
+msgctxt "backend"
+msgid "Customize Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:44
+#: vc/theme_shortcodes/cws_sc_portfolio.php:28
+msgctxt "backend"
+msgid "Accent Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:56
+msgctxt "backend"
+msgid "Socials Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:68
+#: vc/theme_shortcodes/cws_sc_portfolio.php:20
+msgctxt "backend"
+msgid "Meta Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:92
+msgctxt "backend"
+msgid "Picture background gradient start color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:104
+msgctxt "backend"
+msgid "Picture background gradient finish color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:200
+#: vc/theme_shortcodes/cws_sc_portfolio.php:172
+msgctxt "backend"
+msgid "Order By"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:204
+#: vc/theme_shortcodes/cws_sc_portfolio.php:176
+msgctxt "backend"
+msgid "Order ID"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:222
+msgctxt "backend"
+msgid "Image layout"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:227
+#: vc/theme_shortcodes/cws_sc_service.php:24
+#: vc/theme_shortcodes/cws_sc_service.php:41
+msgctxt "backend"
+msgid "Triangle"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:228
+#: vc/theme_shortcodes/cws_sc_roadmap.php:170
+msgctxt "backend"
+msgid "Square"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:235
+#: vc/theme_shortcodes/cws_sc_portfolio.php:193
+#: vc/theme_shortcodes/cws_sc_testimonials.php:372
+msgctxt "backend"
+msgid "Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:239
+msgctxt "backend"
+msgid "1"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:240
+#: vc/theme_shortcodes/cws_sc_portfolio.php:197
+msgctxt "backend"
+msgid "2"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:241
+#: vc/theme_shortcodes/cws_sc_portfolio.php:198
+msgctxt "backend"
+msgid "3"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:242
+#: vc/theme_shortcodes/cws_sc_portfolio.php:199
+msgctxt "backend"
+msgid "4"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:263
+msgctxt "backend"
+msgid "Max Thumbnail Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:267
+msgctxt "backend"
+msgid "Full"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:270
+msgctxt "backend"
+msgid "Thumbnail"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:279
+msgctxt "backend"
+msgid "Enter \"-1\" to show full text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:309
+msgctxt "backend"
+msgid "Photo"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:310
+#: vc/theme_shortcodes/cws_sc_testimonials.php:545
+msgctxt "backend"
+msgid "Name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:311
+#: vc/theme_shortcodes/cws_sc_testimonials.php:553
+msgctxt "backend"
+msgid "Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:312
+msgctxt "backend"
+msgid "Department"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:313
+msgctxt "backend"
+msgid "Experience"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:314
+msgctxt "backend"
+msgid "Email"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:315
+msgctxt "backend"
+msgid "Phone Number"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:316
+msgctxt "backend"
+msgid "Socials"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:317
+msgctxt "backend"
+msgid "Biography"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:318
+msgctxt "backend"
+msgid "More Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:324
+msgctxt "backend"
+msgid "More Button Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_our_team.php:348
+msgctxt "backend"
+msgid "CWS Our Team"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_popup_video.php:19
+#: vc/theme_shortcodes/cws_sc_title_area.php:185
+msgctxt "backend"
+msgid "Customize Sizes"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_popup_video.php:49
+#: vc/theme_shortcodes/cws_sc_roadmap.php:197
+#: vc/theme_shortcodes/cws_sc_roadmap.php:212
+#: vc/theme_shortcodes/cws_sc_roadmap.php:228
+#: vc/theme_shortcodes/cws_sc_roadmap.php:244
+#: vc/theme_shortcodes/cws_sc_roadmap.php:260
+#: vc/theme_shortcodes/cws_sc_roadmap.php:276
+#: vc/theme_shortcodes/cws_sc_roadmap.php:292
+#: vc/theme_shortcodes/cws_sc_service.php:1394
+#: vc/vc_extends/cws_vc_extends.php:952
+msgctxt "backend"
+msgid "Icon"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_popup_video.php:65
+msgctxt "backend"
+msgid "Pulse Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_popup_video.php:100
+msgctxt "backend"
+msgid "Link to Video"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_popup_video.php:124
+msgctxt "backend"
+msgid "CWS Popup Video"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:44
+#: vc/theme_shortcodes/cws_sc_text.php:310
+msgctxt "backend"
+msgid "Background Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:77
+msgctxt "backend"
+msgid "Filter by titles is not applicable when Motion Category Layout used."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:139
+msgctxt "backend"
+msgid "Grid"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:140
+msgctxt "backend"
+msgid "Grid with Filter"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:142
+msgctxt "backend"
+msgid "Pinterest"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:143
+msgctxt "backend"
+msgid "Asymmetric"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:145
+msgctxt "backend"
+msgid "Carousel Wide"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:146
+msgctxt "backend"
+msgid "Motion Category"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:152
+msgctxt "backend"
+msgid "Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:156
+msgctxt "backend"
+msgid "Overlay"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:157
+msgctxt "backend"
+msgid "Slide From Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:158
+msgctxt "backend"
+msgid "Slide From Left"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:159
+msgctxt "backend"
+msgid "Swipe Right"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:200
+msgctxt "backend"
+msgid "5"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:201
+msgctxt "backend"
+msgid "6"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:234
+msgctxt "backend"
+msgid "Disable Spacings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:244
+msgctxt "backend"
+msgid "Pagination"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:247
+msgctxt "backend"
+msgid "Standart"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:248
+msgctxt "backend"
+msgid "Load More"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:280
+msgctxt "backend"
+msgid "Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:286
+msgctxt "backend"
+msgid "Excerpt characters limit"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_portfolio.php:311
+msgctxt "backend"
+msgid "CWS Portfolio"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:15
+#: vc/theme_shortcodes/cws_sc_title_area.php:25
+msgctxt "backend"
+msgid "Customize Colors"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:19
+msgctxt "backend"
+msgid "Background color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:31
+msgctxt "backend"
+msgid "Background Start Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:43
+msgctxt "backend"
+msgid "Background Finish Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:80
+msgctxt "backend"
+msgid "Price Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:92
+msgctxt "backend"
+msgid "Price Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:116
+msgctxt "backend"
+msgid "Text Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:128
+msgctxt "backend"
+msgid "List Items bullet Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:140
+msgctxt "backend"
+msgid "List Items bullet Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:152
+msgctxt "backend"
+msgid "List Items divider Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:164
+msgctxt "backend"
+msgid "List Items divider Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:177
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:308
+msgctxt "backend"
+msgid "Button Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:189
+msgctxt "backend"
+msgid "Button Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:201
+msgctxt "backend"
+msgid "Button Title Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:213
+msgctxt "backend"
+msgid "Button Background Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:226
+msgctxt "backend"
+msgid "Banner Text Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:238
+msgctxt "backend"
+msgid "Banner Background Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:267
+msgctxt "backend"
+msgid "Price"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:274
+msgctxt "backend"
+msgid "Currency"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:281
+msgctxt "backend"
+msgid "Currency Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:285
+msgctxt "backend"
+msgid "Before price"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:286
+msgctxt "backend"
+msgid "After price"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:291
+msgctxt "backend"
+msgid "Price Description"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:315
+msgctxt "backend"
+msgid "Button URL"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:323
+msgid "Highlight this item"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:328
+msgctxt "backend"
+msgid "Banner text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:357
+msgctxt "backend"
+msgid "CWS Pricing Plan"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:38
+msgctxt "backend"
+msgid "Percents Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:57
+msgctxt "backend"
+msgid "Show Progress Bar Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:63
+msgctxt "backend"
+msgid "Progress Bar color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:79
+msgctxt "backend"
+msgid "Bar Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:134
+msgctxt "CWS_VC_Gallery"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:159
+msgctxt "backend"
+msgid "Percents"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:184
+msgctxt "backend"
+msgid "CWS Progress Bar"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:33
+#: vc/theme_shortcodes/cws_sc_title_area.php:202
+msgctxt "backend"
+msgid "Title Margins"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:59
+msgctxt "backend"
+msgid "Shape Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:67
+msgctxt "backend"
+msgid "Active Shape Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:83
+msgctxt "backend"
+msgid "Active Icon Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:91
+msgctxt "backend"
+msgid "Number Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:99
+msgctxt "backend"
+msgid "Active Number Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:107
+msgctxt "backend"
+msgid "Number Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:115
+msgctxt "backend"
+msgid "Active Number Background"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:139
+msgctxt "backend"
+msgid "Line Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:176
+msgctxt "backend"
+msgid "Values"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:181
+msgctxt "backend"
+msgid "Icon library"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:183
+msgctxt "backend"
+msgid "Select icon library"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:208
+#: vc/theme_shortcodes/cws_sc_roadmap.php:224
+#: vc/theme_shortcodes/cws_sc_roadmap.php:240
+#: vc/theme_shortcodes/cws_sc_roadmap.php:256
+#: vc/theme_shortcodes/cws_sc_roadmap.php:272
+#: vc/theme_shortcodes/cws_sc_roadmap.php:288
+#: vc/theme_shortcodes/cws_sc_roadmap.php:304
+#: vc/theme_shortcodes/cws_sc_roadmap.php:314
+msgctxt "backend"
+msgid "Select icon from library"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:308
+#: vc/vc_extends/cws_vc_extends.php:973
+msgctxt "backend"
+msgid "SVG Icon"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:318
+msgctxt "backend"
+msgid "Number"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:338
+msgctxt "backend"
+msgid "Please, mark it only once."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:339
+msgctxt "backend"
+msgid "Active"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_roadmap.php:363
+msgctxt "backend"
+msgid "CWS Roadmap"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:7
+#: vc/theme_shortcodes/cws_sc_search.php:13
+#: vc/theme_shortcodes/cws_sc_search.php:21
+msgctxt "CWS_VC_Search"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:16
+msgctxt "CWS_VC_Search"
+msgid "Customize Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:20
+msgctxt "CWS_VC_Search"
+msgid "Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:29
+msgctxt "CWS_VC_Search"
+msgid "Left"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:30
+msgctxt "CWS_VC_Search"
+msgid "Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:31
+msgctxt "CWS_VC_Search"
+msgid "Right"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:36
+msgctxt "CWS_VC_Icon_List"
+msgid "Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:38
+#: vc/theme_shortcodes/cws_sc_search.php:46
+msgctxt "CWS_VC_Icon_List"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:44
+msgctxt "CWS_VC_Icon_List"
+msgid "Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:64
+msgctxt "CWS_VC_Search"
+msgid "Label"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:70
+msgctxt "CWS_VC_Search"
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:71
+msgctxt "CWS_VC_Search"
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_search.php:88
+msgctxt "CWS_VC_Search"
+msgid "CWS Search"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:21
+msgctxt "backend"
+msgid "Blot"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:23
+#: vc/theme_shortcodes/cws_sc_service.php:40
+msgctxt "backend"
+msgid "Ellipse"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:35
+msgctxt "backend"
+msgid "Image Shape"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:67
+msgctxt "backend"
+msgid "Icon Margin"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:162
+msgctxt "backend"
+msgid "Shape front color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:238
+msgctxt "backend"
+msgid "Shape back color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:254
+#: vc/theme_shortcodes/cws_sc_service.php:493
+msgctxt "backend"
+msgid "Shape back Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:315
+#: vc/theme_shortcodes/cws_sc_service.php:704
+#: vc/theme_shortcodes/cws_sc_service.php:893
+#: vc/theme_shortcodes/cws_sc_service.php:1057
+#: vc/theme_shortcodes/cws_sc_service.php:1194
+msgctxt "backend"
+msgid "Change colors on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:325
+msgctxt "backend"
+msgid "Icon color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:401
+msgctxt "backend"
+msgid "Shape front color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:417
+msgctxt "backend"
+msgid "Shape Front Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:477
+msgctxt "backend"
+msgid "Shape back color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:714
+msgctxt "backend"
+msgid "Title color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:798
+msgctxt "backend"
+msgid "Show Title Divider Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:903
+msgctxt "backend"
+msgid "Divider color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:918
+msgctxt "backend"
+msgid "Divider Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1067
+msgctxt "backend"
+msgid "Font Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1079
+msgctxt "backend"
+msgid "Font Accent Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1091
+msgctxt "backend"
+msgid "Text Accent Hover Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1204
+msgctxt "backend"
+msgid "BG color type on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1220
+msgctxt "backend"
+msgid "BG Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1280
+msgctxt "backend"
+msgid "Hover Animation"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1285
+msgctxt "backend"
+msgid "Skew 3D"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1391
+msgctxt "backend"
+msgid "Icon type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1401
+msgctxt "backend"
+msgid "Icon Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1404
+msgctxt "backend"
+msgid "Icon Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1405
+msgctxt "backend"
+msgid "Icon Left"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1406
+msgctxt "backend"
+msgid "Icon Right"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1412
+msgctxt "backend"
+msgid "Vertical Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1439
+#: vc/theme_shortcodes/cws_sc_testimonials.php:539
+msgctxt "CWS_VC_Image"
+msgid "Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1463
+msgctxt "backend"
+msgid "URL"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_service.php:1497
+msgctxt "backend"
+msgid "CWS Service"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:9
+msgctxt "backend"
+msgid "Show Avatar Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:15
+msgctxt "backend"
+msgid "Avatar border color type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:100
+msgctxt "backend"
+msgid "Show Position Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:107
+#: vc/theme_shortcodes/cws_sc_testimonials.php:161
+#: vc/theme_shortcodes/cws_sc_testimonials.php:215
+msgctxt "backend"
+msgid "Font size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:120
+#: vc/theme_shortcodes/cws_sc_testimonials.php:174
+msgctxt "backend"
+msgid "Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:133
+msgctxt "backend"
+msgid "Position color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:154
+msgctxt "backend"
+msgid "Show Name Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:187
+msgctxt "backend"
+msgid "Name color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:422
+msgctxt "backend"
+msgid "Slides to Scroll"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:439
+msgctxt "backend"
+msgid "Dot Pointer Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:534
+msgctxt "backend"
+msgid "Testimonials"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:560
+msgctxt "backend"
+msgid "Content"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonials.php:589
+msgctxt "backend"
+msgid "CWS Testimonials"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:25
+msgctxt "backend"
+msgid "Default - (H3)"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:167
+msgctxt "backend"
+msgid "Divider Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:249
+msgctxt "backend"
+msgid "Show Subtitle Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:256
+msgctxt "backend"
+msgid "Subtitle Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:269
+msgctxt "backend"
+msgid "Subtitle Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:282
+msgctxt "backend"
+msgid "Subtitle Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:294
+msgctxt "backend"
+msgid "Subtitle Background type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:422
+msgctxt "backend"
+msgid "Font Color Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_text.php:530
+msgctxt "backend"
+msgid "CWS Text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:7
+msgctxt "CWS_VC_Tips"
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:14
+msgctxt "CWS_VC_Tips"
+msgid "Custom Tooltip"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:47
+msgctxt "CWS_VC_Tips"
+msgid "Tips"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:53
+msgctxt "CWS_VC_Tips"
+msgid "Choose Product"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:69
+msgctxt "CWS_VC_Tips"
+msgid "Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:81
+msgctxt "CWS_VC_Tips"
+msgid "Price"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:92
+msgctxt "CWS_VC_Tips"
+msgid "Url"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:103
+msgctxt "CWS_VC_Tips"
+msgid "Top (percents)"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:110
+msgctxt "CWS_VC_Tips"
+msgid "Left (percents)"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:120
+msgctxt "CWS_VC_Tips"
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:121
+msgctxt "CWS_VC_Tips"
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_tips.php:138
+msgctxt "CWS_VC_Tips"
+msgid "CWS Tips"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:15
+msgctxt "backend"
+msgid "Extend Background to Previous Row"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:46
+msgctxt "backend"
+msgid "Overlay Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:131
+msgctxt "backend"
+msgid "Additional Info Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:143
+msgctxt "backend"
+msgid "Additional Info Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:155
+msgctxt "backend"
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:167
+msgctxt "backend"
+msgid "Breadcrumbs Color on Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:215
+msgctxt "backend"
+msgid "Divider Margins"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:228
+msgctxt "backend"
+msgid "Additional Info Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:241
+msgctxt "backend"
+msgid "Breadcrumbs Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:268
+msgctxt "backend"
+msgid "Show Mask"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:272
+msgctxt "backend"
+msgid "SVG Mask"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:304
+msgid "Hide"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:309
+msgid "Title"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:310
+msgid "Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:311
+msgid "Post Info"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:312
+msgid "Breadcrumbs"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:319
+msgctxt "backend"
+msgid "Mouse Move Animation"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:326
+msgctxt "backend"
+msgid "Scroll Animation"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_title_area.php:349
+msgctxt "backend"
+msgid "CWS Title Area"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:4 vc/vc_extends/cws_vc_extends.php:7
+msgctxt "VC Group Name"
+msgid "Tablet"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:10
+msgctxt "VC Group Name"
+msgid "Mobile"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:183 vc/vc_extends/cws_vc_extends.php:247
+#: vc/vc_extends/cws_vc_extends.php:330 vc/vc_extends/cws_vc_extends.php:410
+#: vc/vc_extends/cws_vc_extends.php:469 vc/vc_extends/cws_vc_extends.php:549
+#: vc/vc_extends/cws_vc_extends.php:608 vc/vc_extends/cws_vc_extends.php:688
+#: vc/vc_extends/cws_vc_extends.php:728 vc/vc_extends/cws_vc_extends.php:769
+msgid "Background Position"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:200 vc/vc_extends/cws_vc_extends.php:261
+#: vc/vc_extends/cws_vc_extends.php:351 vc/vc_extends/cws_vc_extends.php:424
+#: vc/vc_extends/cws_vc_extends.php:490 vc/vc_extends/cws_vc_extends.php:563
+#: vc/vc_extends/cws_vc_extends.php:629 vc/vc_extends/cws_vc_extends.php:702
+#: vc/vc_extends/cws_vc_extends.php:742 vc/vc_extends/cws_vc_extends.php:780
+msgid "Background Size"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:205 vc/vc_extends/cws_vc_extends.php:360
+#: vc/vc_extends/cws_vc_extends.php:499 vc/vc_extends/cws_vc_extends.php:638
+#: vc/vc_extends/cws_vc_extends.php:748
+msgid "Auto"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:217 vc/vc_extends/cws_vc_extends.php:372
+#: vc/vc_extends/cws_vc_extends.php:511 vc/vc_extends/cws_vc_extends.php:650
+#: vc/vc_extends/cws_vc_extends.php:756
+msgid "Background Repeat"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:233 vc/vc_extends/cws_vc_extends.php:392
+#: vc/vc_extends/cws_vc_extends.php:531 vc/vc_extends/cws_vc_extends.php:670
+msgid "Background Attachment"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:238 vc/vc_extends/cws_vc_extends.php:401
+#: vc/vc_extends/cws_vc_extends.php:540 vc/vc_extends/cws_vc_extends.php:679
+msgid "Scroll"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:239 vc/vc_extends/cws_vc_extends.php:402
+#: vc/vc_extends/cws_vc_extends.php:541 vc/vc_extends/cws_vc_extends.php:680
+msgid "Fixed"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:276
+msgctxt "CWS_VC_Banner"
+msgid "Background Hover Effect"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:281
+msgctxt "CWS_VC_Banner"
+msgid "No Hover"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:282
+msgctxt "CWS_VC_Banner"
+msgid "Zoom In"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:283
+msgctxt "CWS_VC_Banner"
+msgid "Zoom Out"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:284
+msgctxt "CWS_VC_Banner"
+msgid "Shift right"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:285
+msgctxt "CWS_VC_Banner"
+msgid "Shift left"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:287
+msgctxt "CWS_VC_Banner"
+msgid "Background Size & Background Position will be ignored with any property except 'No Hover'"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:295
+msgctxt "CWS_VC_Banner"
+msgid "Animation Durations (sec.)"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:323 vc/vc_extends/cws_vc_extends.php:462
+#: vc/vc_extends/cws_vc_extends.php:601
+msgid "Customize Background"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:442 vc/vc_extends/cws_vc_extends.php:581
+#: vc/vc_extends/cws_vc_extends.php:720
+msgid "Hide Background"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:730 vc/vc_extends/cws_vc_extends.php:744
+#: vc/vc_extends/cws_vc_extends.php:758 vc/vc_extends/cws_vc_extends.php:771
+#: vc/vc_extends/cws_vc_extends.php:782 vc/vc_extends/cws_vc_extends.php:793
+msgid "Styling"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:796
+msgid "Hide Background on this resolution"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:944
+msgctxt "backend"
+msgid "CWS Flaticons"
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:964 vc/vc_extends/cws_vc_extends.php:979
+msgctxt "backend"
+msgid "Select icon from library."
+msgstr ""
+
+#: vc/vc_extends/cws_vc_extends.php:969
+msgctxt "backend"
+msgid "CWS SVG"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:67
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgctxt "Mini Cart"
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:105
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:58
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/wooinit.php:295
+msgctxt "frontend"
+msgid "Free"
+msgstr ""
+
+#: woocommerce/wooinit.php:309
+msgctxt "Product tag"
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/wooinit.php:325
+msgctxt "Product tag"
+msgid "Hot"
+msgstr ""
+
+#: woocommerce/wooinit.php:330
+msgctxt "Product tag"
+msgid "Free"
+msgstr ""
+
+#: woocommerce/wooinit.php:338
+msgctxt "Product tag"
+msgid "New"
+msgstr ""
+
+#: woocommerce/wooinit.php:434
+msgctxt "frontend"
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/wooinit.php:477
+msgctxt "frontend"
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/wooinit.php:500
+msgctxt "frontend"
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/wooinit.php:509
+msgctxt "frontend"
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/wooinit.php:543
+msgctxt "frontend"
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/wooinit.php:544
+msgctxt "frontend"
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/wooinit.php:545
+msgctxt "frontend"
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/wooinit.php:546
+msgctxt "frontend"
+msgid "Good"
+msgstr ""
+
+#: woocommerce/wooinit.php:547
+msgctxt "frontend"
+msgid "Average"
+msgstr ""
+
+#: woocommerce/wooinit.php:548
+msgctxt "frontend"
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/wooinit.php:549
+msgctxt "frontend"
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/wooinit.php:591
+#, php-format
+msgctxt "frontend"
+msgid "My Bag (%s)"
+msgstr ""
